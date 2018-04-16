@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\08. Numbers From 1 to N\bin\Release\_08.Numbers_From_1_to_N.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\08. Numbers From 1 to N\bin\Release\_08.Numbers_From_1_to_N.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\08. Numbers From 1 to N\obj\x86\Release\_08.Numbers_From_1_to_N.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\08. Numbers From 1 to N\obj\x86\Release\_08.Numbers_From_1_to_N.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\08. Numbers From 1 to N\obj\x86\Release\_08.Numbers_From_1_to_N.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\08. Numbers From 1 to N\obj\x86\Release\_08.Numbers_From_1_to_N.pdb

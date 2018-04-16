@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb

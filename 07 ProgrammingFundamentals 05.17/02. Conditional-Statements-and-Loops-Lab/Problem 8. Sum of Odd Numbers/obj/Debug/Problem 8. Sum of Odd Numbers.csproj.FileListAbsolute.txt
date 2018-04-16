@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.pdb

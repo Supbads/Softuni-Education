@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 9. Melrah Shake\bin\Debug\Problem_9.Melrah_Shake.exe.config
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 9. Melrah Shake\bin\Debug\Problem_9.Melrah_Shake.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 9. Melrah Shake\bin\Debug\Problem_9.Melrah_Shake.pdb
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 9. Melrah Shake\obj\Debug\Problem_9.Melrah_Shake.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 9. Melrah Shake\obj\Debug\Problem_9.Melrah_Shake.pdb

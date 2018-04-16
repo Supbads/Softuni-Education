@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\bin\Debug\Problem_1.Custom_LINQ_Extension_Methods.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\bin\Debug\Problem_1.Custom_LINQ_Extension_Methods.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\bin\Debug\Problem_1.Custom_LINQ_Extension_Methods.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\obj\Debug\Problem 1. Custom LINQ Extension Methods.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\obj\Debug\Problem_1.Custom_LINQ_Extension_Methods.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 1. Custom LINQ Extension Methods\obj\Debug\Problem_1.Custom_LINQ_Extension_Methods.pdb

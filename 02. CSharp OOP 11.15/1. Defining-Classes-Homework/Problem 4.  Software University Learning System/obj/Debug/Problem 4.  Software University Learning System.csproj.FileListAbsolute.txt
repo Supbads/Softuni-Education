@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\obj\Debug\Problem 4.  Software University Learning System.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\obj\Debug\Problem_4.Software_University_Learning_System.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 4.  Software University Learning System\obj\Debug\Problem_4.Software_University_Learning_System.pdb

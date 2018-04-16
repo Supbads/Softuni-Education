@@ -1,0 +1,23 @@
+#Outer{
+	border-style: dotted;
+	border-color: blue;
+	border-radius: 12px;
+	padding: 20px
+}
+
+#Middle{
+	border-style: dotted;
+	border-color: red;
+	border-radius: 6px;
+	padding: 20px
+}
+
+#Inner{
+	font-size: 40px;
+	text-align: center;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: green;
+	padding: 10px;
+
+}

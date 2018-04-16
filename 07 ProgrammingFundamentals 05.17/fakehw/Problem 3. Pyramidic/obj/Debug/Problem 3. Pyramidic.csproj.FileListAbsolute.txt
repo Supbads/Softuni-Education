@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\bin\Debug\Problem_3.Pyramidic.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\bin\Debug\Problem_3.Pyramidic.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\bin\Debug\Problem_3.Pyramidic.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\obj\Debug\Problem 3. Pyramidic.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\obj\Debug\Problem_3.Pyramidic.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Pyramidic\obj\Debug\Problem_3.Pyramidic.pdb

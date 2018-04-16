@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Combinations with Repetition\bin\Debug\Generate Combinations with Repetition.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Combinations with Repetition\bin\Debug\Generate Combinations with Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Combinations with Repetition\bin\Debug\Generate Combinations with Repetition.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Combinations with Repetition\obj\Debug\Generate Combinations with Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Combinations with Repetition\obj\Debug\Generate Combinations with Repetition.pdb

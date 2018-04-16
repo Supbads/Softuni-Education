@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\bin\Debug\Problem_4.Longest_Increasing_Subsequence__LIS_.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\bin\Debug\Problem_4.Longest_Increasing_Subsequence__LIS_.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\bin\Debug\Problem_4.Longest_Increasing_Subsequence__LIS_.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\obj\Debug\Problem_4.Longest_Increasing_Subsequence__LIS_.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\obj\Debug\Problem_4.Longest_Increasing_Subsequence__LIS_.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 4. Longest Increasing Subsequence (LIS)\obj\Debug\Problem 4. Longest Increasing Subsequence (LIS).csprojResolveAssemblyReference.cache

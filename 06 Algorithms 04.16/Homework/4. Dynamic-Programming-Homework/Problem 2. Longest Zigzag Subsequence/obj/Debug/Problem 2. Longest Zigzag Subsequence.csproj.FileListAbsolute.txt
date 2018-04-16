@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\bin\Debug\Problem_2.Longest_Zigzag_Subsequence.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\bin\Debug\Problem_2.Longest_Zigzag_Subsequence.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\bin\Debug\Problem_2.Longest_Zigzag_Subsequence.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\obj\Debug\Problem 2. Longest Zigzag Subsequence.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\obj\Debug\Problem_2.Longest_Zigzag_Subsequence.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 2. Longest Zigzag Subsequence\obj\Debug\Problem_2.Longest_Zigzag_Subsequence.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 6. Calculate NFactorial devided by KFactorial\bin\Debug\Problem_6.Calculate_NFactorial_devided_by_KFactorial.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 6. Calculate NFactorial devided by KFactorial\bin\Debug\Problem_6.Calculate_NFactorial_devided_by_KFactorial.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 6. Calculate NFactorial devided by KFactorial\bin\Debug\Problem_6.Calculate_NFactorial_devided_by_KFactorial.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 6. Calculate NFactorial devided by KFactorial\obj\Debug\Problem_6.Calculate_NFactorial_devided_by_KFactorial.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 6. Calculate NFactorial devided by KFactorial\obj\Debug\Problem_6.Calculate_NFactorial_devided_by_KFactorial.pdb

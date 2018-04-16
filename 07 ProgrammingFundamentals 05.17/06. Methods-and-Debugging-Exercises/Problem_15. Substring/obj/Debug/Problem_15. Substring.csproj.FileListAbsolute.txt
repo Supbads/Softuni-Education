@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_15. Substring\bin\Debug\Problem_15.Substring.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_15. Substring\bin\Debug\Problem_15.Substring.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_15. Substring\bin\Debug\Problem_15.Substring.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_15. Substring\obj\Debug\Problem_15.Substring.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_15. Substring\obj\Debug\Problem_15.Substring.pdb

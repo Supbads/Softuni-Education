@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\bin\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\bin\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\obj\x86\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\obj\x86\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\obj\x86\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 10. Point in a Circle and Outside a Rectangle\obj\x86\Release\Problem_10.Point_in_a_Circle_and_Outside_a_Rectangle.pdb

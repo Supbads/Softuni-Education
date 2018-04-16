@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\obj\Debug\Problem 2. Maximal Sum.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\bin\Debug\Problem_9.Legendary_Farming.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\bin\Debug\Problem_9.Legendary_Farming.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\bin\Debug\Problem_9.Legendary_Farming.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\obj\Debug\Problem 9. Legendary Farming.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\obj\Debug\Problem_9.Legendary_Farming.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 9. Legendary Farming\obj\Debug\Problem_9.Legendary_Farming.pdb

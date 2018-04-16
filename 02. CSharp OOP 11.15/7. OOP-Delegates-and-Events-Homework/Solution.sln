@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Custom LINQ Extension Methods", "Problem 1. Custom LINQ Extension Methods\Problem 1. Custom LINQ Extension Methods.csproj", "{97AB81BA-BEB1-4788-9C4D-C2C0AD041F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Interest Calculator", "Problem 2. Interest Calculator\Problem 2. Interest Calculator.csproj", "{F64F8F60-9DFF-423A-96CD-6F68C02D1A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Asynchronous Timer", "Problem 3. Asynchronous Timer\Problem 3. Asynchronous Timer.csproj", "{39170CCF-CDB4-499D-BCAD-87A8D5FB2320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Student Class", "Problem 4. Student Class\Problem 4. Student Class.csproj", "{0230799D-4533-48E3-AA6C-C700C83C8D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AB81BA-BEB1-4788-9C4D-C2C0AD041F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AB81BA-BEB1-4788-9C4D-C2C0AD041F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AB81BA-BEB1-4788-9C4D-C2C0AD041F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AB81BA-BEB1-4788-9C4D-C2C0AD041F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64F8F60-9DFF-423A-96CD-6F68C02D1A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64F8F60-9DFF-423A-96CD-6F68C02D1A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64F8F60-9DFF-423A-96CD-6F68C02D1A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64F8F60-9DFF-423A-96CD-6F68C02D1A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39170CCF-CDB4-499D-BCAD-87A8D5FB2320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39170CCF-CDB4-499D-BCAD-87A8D5FB2320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39170CCF-CDB4-499D-BCAD-87A8D5FB2320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39170CCF-CDB4-499D-BCAD-87A8D5FB2320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0230799D-4533-48E3-AA6C-C700C83C8D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0230799D-4533-48E3-AA6C-C700C83C8D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0230799D-4533-48E3-AA6C-C700C83C8D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0230799D-4533-48E3-AA6C-C700C83C8D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

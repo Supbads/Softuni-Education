@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 3. Divide by 7 and 5\obj\x86\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 3. Divide by 7 and 5\obj\x86\Debug\Problem_3.Divide_by_7_and_5.pdb

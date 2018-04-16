@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\bin\Debug\QuadTree.Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\bin\Debug\QuadTree.Tests.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\bin\Debug\QuadTree.Core.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\bin\Debug\QuadTree.Core.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\obj\Debug\QuadTree.Tests.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\obj\Debug\QuadTree.Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Tests\obj\Debug\QuadTree.Tests.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe.config
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.pdb
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\01.Students-And-Courses.exe
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\01.Students-And-Courses.pdb

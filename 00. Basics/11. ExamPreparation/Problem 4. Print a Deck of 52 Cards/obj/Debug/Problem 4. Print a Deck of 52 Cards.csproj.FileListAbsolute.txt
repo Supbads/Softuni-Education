@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb

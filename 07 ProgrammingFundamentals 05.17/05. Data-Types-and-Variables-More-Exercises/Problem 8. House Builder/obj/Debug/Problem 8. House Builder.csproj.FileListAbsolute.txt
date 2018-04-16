@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\obj\Debug\Problem 8. House Builder.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\obj\Debug\Problem_8.House_Builder.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 8. House Builder\obj\Debug\Problem_8.House_Builder.pdb

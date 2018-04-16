@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem 3. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.pdb

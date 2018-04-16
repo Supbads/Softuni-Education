@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\bin\Debug\Problem_1.Play_with_Trees.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\bin\Debug\Problem_1.Play_with_Trees.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\bin\Debug\Problem_1.Play_with_Trees.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\obj\Debug\Problem 1. Play with Trees.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\obj\Debug\Problem_1.Play_with_Trees.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\4. Trees-and-Tree-Like-Structures-Homework\Problem 1. Play with Trees\obj\Debug\Problem_1.Play_with_Trees.pdb

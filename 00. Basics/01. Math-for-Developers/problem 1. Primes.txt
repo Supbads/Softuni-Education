@@ -1,0 +1,3 @@
+24th prime number = 89
+101st prime number = 547
+251st prime number = 1597

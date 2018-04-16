@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\bin\Debug\netcoreapp1.1\08. Increase Minion Age.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\bin\Debug\netcoreapp1.1\08. Increase Minion Age.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\bin\Debug\netcoreapp1.1\08. Increase Minion Age.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\bin\Debug\netcoreapp1.1\08. Increase Minion Age.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\obj\Debug\netcoreapp1.1\08. Increase Minion Age.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\bin\Debug\netcoreapp1.1\08. Increase Minion Age.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\obj\Debug\netcoreapp1.1\08. Increase Minion Age.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\obj\Debug\netcoreapp1.1\08. Increase Minion Age.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\08. Increase Minion Age\obj\Debug\netcoreapp1.1\08. Increase Minion Age.pdb

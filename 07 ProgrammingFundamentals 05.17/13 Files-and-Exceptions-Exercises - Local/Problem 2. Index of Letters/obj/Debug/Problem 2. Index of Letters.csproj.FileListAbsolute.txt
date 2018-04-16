@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 2. Index of Letters\bin\Debug\Problem_2.Index_of_Letters.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 2. Index of Letters\bin\Debug\Problem_2.Index_of_Letters.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 2. Index of Letters\bin\Debug\Problem_2.Index_of_Letters.pdb
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 2. Index of Letters\obj\Debug\Problem_2.Index_of_Letters.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 2. Index of Letters\obj\Debug\Problem_2.Index_of_Letters.pdb

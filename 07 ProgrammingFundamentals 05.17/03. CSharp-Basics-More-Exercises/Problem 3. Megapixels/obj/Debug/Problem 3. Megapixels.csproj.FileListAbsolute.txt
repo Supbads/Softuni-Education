@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.pdb

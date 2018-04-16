@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 4. Subsets of String Array\bin\Debug\Problem_4.Subsets_of_String_Array.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 4. Subsets of String Array\bin\Debug\Problem_4.Subsets_of_String_Array.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 4. Subsets of String Array\bin\Debug\Problem_4.Subsets_of_String_Array.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 4. Subsets of String Array\obj\Debug\Problem_4.Subsets_of_String_Array.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 4. Subsets of String Array\obj\Debug\Problem_4.Subsets_of_String_Array.pdb

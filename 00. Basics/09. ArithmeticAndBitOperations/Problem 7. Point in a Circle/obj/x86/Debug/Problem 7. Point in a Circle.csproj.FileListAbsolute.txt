@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 7. Point in a Circle\obj\x86\Debug\Problem_7.Point_in_a_Circle.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 7. Point in a Circle\obj\x86\Debug\Problem_7.Point_in_a_Circle.pdb

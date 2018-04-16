@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\obj\Debug\Problem 8. SMS Typing.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\obj\Debug\Problem_8.SMS_Typing.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 8. SMS Typing\obj\Debug\Problem_8.SMS_Typing.pdb

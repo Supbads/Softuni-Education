@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\bin\Debug\Problem_22.Arrow.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\bin\Debug\Problem_22.Arrow.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\bin\Debug\Problem_22.Arrow.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\obj\Debug\Problem 22.  Arrow.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\obj\Debug\Problem_22.Arrow.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 22.  Arrow\obj\Debug\Problem_22.Arrow.pdb

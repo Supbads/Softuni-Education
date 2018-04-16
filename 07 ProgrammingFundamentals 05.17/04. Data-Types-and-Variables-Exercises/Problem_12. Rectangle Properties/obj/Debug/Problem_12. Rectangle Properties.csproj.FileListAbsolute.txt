@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_12. Rectangle Properties\bin\Debug\Problem_12.Rectangle_Properties.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_12. Rectangle Properties\bin\Debug\Problem_12.Rectangle_Properties.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_12. Rectangle Properties\bin\Debug\Problem_12.Rectangle_Properties.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_12. Rectangle Properties\obj\Debug\Problem_12.Rectangle_Properties.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_12. Rectangle Properties\obj\Debug\Problem_12.Rectangle_Properties.pdb

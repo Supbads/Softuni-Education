@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\bin\Release\_09.Sum_of_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\bin\Release\_09.Sum_of_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\obj\x86\Release\_09.Sum_of_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\obj\x86\Release\_09.Sum_of_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\obj\x86\Release\09. Sum of n Numbers.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\09. Sum of Numbers\obj\x86\Release\_09.Sum_of_Numbers.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\09. Sum of Numbers\obj\x86\Release\_09.Sum_of_Numbers.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\09. Sum of Numbers\bin\Release\_09.Sum_of_Numbers.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\09. Sum of Numbers\bin\Release\_09.Sum_of_Numbers.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\09. Sum of Numbers\obj\x86\Release\09. Sum of n Numbers.csprojResolveAssemblyReference.cache

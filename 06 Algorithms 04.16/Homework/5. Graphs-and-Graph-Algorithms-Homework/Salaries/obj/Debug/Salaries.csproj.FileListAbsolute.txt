@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Homework-Graphs and Graph Algorithms-114752\05. HomeworkGraphAlgorithms\Salaries\bin\Debug\Salaries.exe.config
+C:\Users\USER\Desktop\Homework-Graphs and Graph Algorithms-114752\05. HomeworkGraphAlgorithms\Salaries\bin\Debug\Salaries.exe
+C:\Users\USER\Desktop\Homework-Graphs and Graph Algorithms-114752\05. HomeworkGraphAlgorithms\Salaries\bin\Debug\Salaries.pdb
+C:\Users\USER\Desktop\Homework-Graphs and Graph Algorithms-114752\05. HomeworkGraphAlgorithms\Salaries\obj\Debug\Salaries.exe
+C:\Users\USER\Desktop\Homework-Graphs and Graph Algorithms-114752\05. HomeworkGraphAlgorithms\Salaries\obj\Debug\Salaries.pdb

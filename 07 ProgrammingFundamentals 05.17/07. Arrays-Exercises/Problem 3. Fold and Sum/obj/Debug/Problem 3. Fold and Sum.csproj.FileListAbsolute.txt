@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 3. Fold and Sum\bin\Debug\Problem_3.Fold_and_Sum.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 3. Fold and Sum\bin\Debug\Problem_3.Fold_and_Sum.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 3. Fold and Sum\bin\Debug\Problem_3.Fold_and_Sum.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 3. Fold and Sum\obj\Debug\Problem_3.Fold_and_Sum.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 3. Fold and Sum\obj\Debug\Problem_3.Fold_and_Sum.pdb

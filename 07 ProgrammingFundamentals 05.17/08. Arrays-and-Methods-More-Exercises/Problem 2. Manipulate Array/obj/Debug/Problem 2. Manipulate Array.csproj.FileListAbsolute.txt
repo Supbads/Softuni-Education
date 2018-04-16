@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe.config
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.pdb
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.pdb

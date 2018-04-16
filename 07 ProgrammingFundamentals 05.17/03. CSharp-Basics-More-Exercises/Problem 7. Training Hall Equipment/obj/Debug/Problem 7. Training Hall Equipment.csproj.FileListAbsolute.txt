@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\obj\Debug\Problem 7. Training Hall Equipment.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb

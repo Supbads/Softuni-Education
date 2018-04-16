@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 4. R Odd Occurences\bin\Debug\Problem_4.R_Odd_Occurences.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 4. R Odd Occurences\bin\Debug\Problem_4.R_Odd_Occurences.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 4. R Odd Occurences\bin\Debug\Problem_4.R_Odd_Occurences.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 4. R Odd Occurences\obj\Debug\Problem_4.R_Odd_Occurences.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 4. R Odd Occurences\obj\Debug\Problem_4.R_Odd_Occurences.pdb

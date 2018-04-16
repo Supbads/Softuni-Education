@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe.config
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.pdb
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.pdb

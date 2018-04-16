@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\obj\Debug\Problem 5. Array Manipulator.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\obj\Debug\Problem_5.Array_Manipulator.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 5. Array Manipulator\obj\Debug\Problem_5.Array_Manipulator.pdb

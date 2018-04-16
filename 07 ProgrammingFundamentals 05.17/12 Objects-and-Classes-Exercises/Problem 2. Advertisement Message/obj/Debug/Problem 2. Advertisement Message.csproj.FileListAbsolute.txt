@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.exe.config
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.pdb
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\obj\Debug\Problem 2. Advertisement Message.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\obj\Debug\Problem_2.Advertisement_Message.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 2. Advertisement Message\obj\Debug\Problem_2.Advertisement_Message.pdb

@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\01. Sum of 3 numbers\bin\Release\_01.Sum_of_3_numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\01. Sum of 3 numbers\bin\Release\_01.Sum_of_3_numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\01. Sum of 3 numbers\obj\x86\Release\_01.Sum_of_3_numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\01. Sum of 3 numbers\obj\x86\Release\_01.Sum_of_3_numbers.pdb

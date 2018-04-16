@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blobs</name>
+    </assembly>
+    <members>
+        <member name="T:Blobs.Interfaces.IAttack">
+            <summary>
+            Entity's attack interface
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IAttack.ExecuteAttack(Blobs.Interfaces.IBlob,System.Int32)">
+            <summary>
+            Executes an attack
+            </summary>
+            <param name="target">The target of the attack</param>
+            <param name="damage">The damage of the attack</param>
+        </member>
+        <member name="M:Blobs.Interfaces.IAttack.ExecuteEffectsOnAttacker(Blobs.Interfaces.IBlob)">
+            <summary>
+            Executes effects on attacker
+            </summary>
+            <param name="attacker">The attacker</param>
+        </member>
+        <member name="T:Blobs.Interfaces.IAttackable">
+            <summary>
+            Interface indicated that an entity can be attacked
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IAttackable.Respond(System.Int32)">
+            <summary>
+            Responds to an attack
+            </summary>
+            <param name="damage">Responds to damage in a particular way e.g
+             lower the damage inflicted by the attacker</param>
+        </member>
+        <member name="E:Blobs.Interfaces.IAttackable.OnBlobDead">
+            <summary>
+            Event triggers when a unit dies
+            </summary>
+        </member>
+        <member name="T:Blobs.Interfaces.IAttacker">
+            <summary>
+            Interfaces indicated that an entity can attack
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IAttacker.PerformAttack(Blobs.Interfaces.IBlob)">
+            <summary>
+            Performs an attack via damage or special effects
+            </summary>
+            <param name="target">The target of the current attack</param>
+        </member>
+        <member name="T:Blobs.Interfaces.IAttackFactory">
+            <summary>
+            In
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IAttackFactory.Create(System.String)">
+            <summary>
+            Creates an attack from a given attack name
+            </summary>
+            <param name="attackName">name of the attack to be created</param>
+            <returns>retruns the created attack</returns>
+        </member>
+        <member name="T:Blobs.Interfaces.IBehavior">
+            <summary>
+             Blob's behavior
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IBehavior.Trigger(Blobs.Interfaces.IBlob)">
+            <summary>
+            Triggers a behavior of a certain blob
+            </summary>
+            <param name="blob">the target of the triggered behavior</param>
+        </member>
+        <member name="M:Blobs.Interfaces.IBehavior.PerformNegativeEffects(Blobs.Interfaces.IBlob)">
+            <summary>
+            Performs the negative part of an effect e.g take damage
+            </summary>
+            <param name="blob">the target of the negative effect</param>
+        </member>
+        <member name="P:Blobs.Interfaces.IBehavior.IsTriggered">
+            <summary>
+            Holds the state of the behavior if it's currently triggered or not
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBehavior.AlreadyTriggered">
+            <summary>
+            Holds the state of the behavior if it has been triggered already or not
+            </summary>
+        </member>
+        <member name="T:Blobs.Interfaces.IBehaviorFactory">
+            <summary>
+            Interface of the Behavior factory
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IBehaviorFactory.Create(System.String)">
+            <summary>
+            Creates a behavior from a string
+            </summary>
+            <param name="behaviorName">the name of the behavior being created</param>
+            <returns>returns the created behavior</returns>
+        </member>
+        <member name="T:Blobs.Interfaces.IBlob">
+            <summary>
+            Blob's interface
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.Name">
+            <summary>
+            Gets the name of the blob
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.Health">
+            <summary>
+            Gets and sets the health of the blob
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.Damage">
+            <summary>
+            Gets and sets the damage of the blob
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.IsAlive">
+            <summary>
+            Gets the state of the blob if it's alive or dead
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.Behavior">
+            <summary>
+            Gets the behavior of the blob
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlob.Attack">
+            <summary>
+            Gets the attack of the blob
+            </summary>
+        </member>
+        <member name="E:Blobs.Interfaces.IBlob.OnBehaviorToggled">
+            <summary>
+            Event is triggered when a blob's behavior is toggled
+            </summary>
+        </member>
+        <member name="T:Blobs.Interfaces.IBlobData">
+            <summary>
+            Game's database interface
+            </summary>
+        </member>
+        <member name="P:Blobs.Interfaces.IBlobData.Blobs">
+            <summary>
+            Holds a collection of blobs
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IBlobData.AddBlob(Blobs.Interfaces.IBlob)">
+            <summary>
+            Adds a blob to the collection of blobs
+            </summary>
+            <param name="blob">The blob to be added in the database collection</param>
+        </member>
+        <member name="T:Blobs.Interfaces.IBlobFactory">
+            <summary>
+            BlobFactory's interface
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IBlobFactory.Create(System.String,System.Int32,System.Int32,Blobs.Interfaces.IBehavior,Blobs.Interfaces.IAttack)">
+            <summary>
+            Creates a blob by given parameters
+            </summary>
+            <param name="name">The name of the blob</param>
+            <param name="health">The health of the blob</param>
+            <param name="damage">The damage of the blob</param>
+            <param name="behavior">The behvior of the blob</param>
+            <param name="attack">The attack of the blob</param>
+            <returns>returns the created blob</returns>
+        </member>
+        <member name="T:Blobs.Interfaces.IInputReader">
+            <summary>
+            Input reader's interface
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IInputReader.Read">
+            <summary>
+            Reads input
+            </summary>
+            <returns>Returns the read input as a string</returns>
+        </member>
+        <member name="T:Blobs.Interfaces.IOutputWriter">
+            <summary>
+            Output writer's interface
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IOutputWriter.Write(System.String)">
+            <summary>
+            Writes an output message
+            </summary>
+            <param name="output">The output message that will be written</param>
+        </member>
+        <member name="T:Blobs.Interfaces.IRunnable">
+            <summary>
+            Interface indicates that an object can be run
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IRunnable.Run">
+            <summary>
+            Runs the object
+            <example>The engine can run</example>
+            <code>
+            public class Engine : IRunnable
+            {
+                Run()
+                {
+                    //...
+                }
+            }
+            </code>
+            </summary>
+        </member>
+        <member name="T:Blobs.Interfaces.IUpdateable">
+            <summary>
+            This interface indicates that an object can be updated
+            </summary>
+        </member>
+        <member name="M:Blobs.Interfaces.IUpdateable.Update">
+            <summary>
+            Updates the object
+            </summary>
+        </member>
+    </members>
+</doc>

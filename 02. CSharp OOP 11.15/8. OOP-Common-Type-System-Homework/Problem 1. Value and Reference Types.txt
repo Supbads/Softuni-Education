@@ -1,0 +1,33 @@
+Describe the differences between value and reference types.
+Answer the following questions:
+•	Which .NET data types are value types? Which types are reference types? v
+•	How do value and reference types differ when assigned to a variable?  v
+•	How do value and reference types behave when passed as argument to a method? v
+•	Where in memory are value types allocated? Where are reference types allocated? v 
+•	What is data mutation? Can value types be mutated? Can reference types be mutated? v
+•	What is the difference between mutating and setting (assigning) a variable? Give examples.
+•	What are the out and ref keywords used for? In what do they differ?
+
+Answers:
+ • The .NET value types are: Enums, Structs and Primitive data types.
+
+ • When assigned to a variable, the value type's value stays in the stack,
+while the reference type assigns a pointer to the variable, and is stored in the heap.
+
+ • When passed as an argument to a method, the value types create a new instance (and possibly return it),
+while the reference type is passed as a pointer(reference) to the object in the heap.
+ 
+ • The value types are allocated in the stack, reference types' values are allocated in the heap and 
+ the variable in the stack contains an adresser(pointer).
+ 
+ • Data mutation is when an object is "slightly" changed but not assigned as a new object.
+ primitive type operations usually return a new object of the type(e.g string), but structs can be both mutable and immutable
+ depending on the case. As for reference types, they can have their property's or fields changed (if it's allowed in the context),
+ without having to assign a new instance of the object.
+ 
+ • When we are setting (asigning) a variable, we create a new instance of the object, as to when mutating, we don't create a new instance (the keyword "new").
+ 
+ • The keywords ref and out are used to pass arguments within a method or function. Both indicate that an argument / parameter is passed by reference.
+ By default parameters are passed to a method by value. By using these keywords (ref and out) we can pass a parameter by reference. 
+ They differ in the way that they can be used. When passing out as an argument to a method, the variable shouldn't be assigned beforehand.
+ As for ref, the variable must be assigned beforehand.

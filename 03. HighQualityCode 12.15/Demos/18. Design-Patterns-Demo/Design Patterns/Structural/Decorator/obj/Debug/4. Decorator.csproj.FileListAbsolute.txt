@@ -1,0 +1,5 @@
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Decorator\bin\Debug\Decorator.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Decorator\bin\Debug\Decorator.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Decorator\bin\Debug\Decorator.pdb
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Decorator\obj\Debug\Decorator.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Decorator\obj\Debug\Decorator.pdb

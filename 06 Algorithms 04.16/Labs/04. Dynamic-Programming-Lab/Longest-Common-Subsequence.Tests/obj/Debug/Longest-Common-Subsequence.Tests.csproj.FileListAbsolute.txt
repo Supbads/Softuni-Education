@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.dll
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.dll
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe.config
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.pdb
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\obj\Debug\Problem 1. Sort Times.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.pdb

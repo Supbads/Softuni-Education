@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 4. Character Multiplier\bin\Debug\Problem_4.Character_Multiplier.exe.config
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 4. Character Multiplier\bin\Debug\Problem_4.Character_Multiplier.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 4. Character Multiplier\bin\Debug\Problem_4.Character_Multiplier.pdb
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 4. Character Multiplier\obj\Debug\Problem_4.Character_Multiplier.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 4. Character Multiplier\obj\Debug\Problem_4.Character_Multiplier.pdb

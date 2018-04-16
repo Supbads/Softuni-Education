@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\DFS-Graph-Traversal\obj\Debug\1. DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

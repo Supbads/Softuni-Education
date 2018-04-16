@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 9. Trapezoids\obj\x86\Debug\Problem_9.Trapezoids.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 9. Trapezoids\obj\x86\Debug\Problem_9.Trapezoids.pdb

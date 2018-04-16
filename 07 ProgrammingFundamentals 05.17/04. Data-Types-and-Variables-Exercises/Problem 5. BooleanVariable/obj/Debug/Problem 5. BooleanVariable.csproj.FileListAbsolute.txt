@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 5. BooleanVariable\bin\Debug\Problem_5.BooleanVariable.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 5. BooleanVariable\bin\Debug\Problem_5.BooleanVariable.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 5. BooleanVariable\bin\Debug\Problem_5.BooleanVariable.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 5. BooleanVariable\obj\Debug\Problem_5.BooleanVariable.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 5. BooleanVariable\obj\Debug\Problem_5.BooleanVariable.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\bin\Debug\EncryptionTest.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\bin\Debug\EncryptionTest.pdb
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\obj\Debug\EncryptionTest.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\obj\Debug\EncryptionTest.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\EncryptionTest\obj\Debug\EncryptionTest.pdb

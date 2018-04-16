@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\bin\Debug\Problem_3.Valid_Usernames.exe.config
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\bin\Debug\Problem_3.Valid_Usernames.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\bin\Debug\Problem_3.Valid_Usernames.pdb
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\obj\Debug\Problem 3. Valid Usernames.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\obj\Debug\Problem_3.Valid_Usernames.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 3. Valid Usernames\obj\Debug\Problem_3.Valid_Usernames.pdb

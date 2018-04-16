@@ -1,0 +1,12 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem_8.Mines.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem_8.Mines.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem 8. Mines.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.exe.config
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.exe
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\bin\Debug\Problem_8.Mines.pdb
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem 8. Mines.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem_8.Mines.exe
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 8. Mines\obj\Debug\Problem_8.Mines.pdb

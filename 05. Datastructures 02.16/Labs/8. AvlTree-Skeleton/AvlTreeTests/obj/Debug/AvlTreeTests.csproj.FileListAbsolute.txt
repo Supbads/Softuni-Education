@@ -1,0 +1,8 @@
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\bin\Debug\AvlTreeTests.dll
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\bin\Debug\AvlTreeTests.pdb
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\bin\Debug\AvlTreeLab.exe
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\bin\Debug\AvlTreeLab.pdb
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\obj\Debug\AvlTreeTests.csprojResolveAssemblyReference.cache
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\obj\Debug\AvlTreeTests.dll
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeTests\obj\Debug\AvlTreeTests.pdb

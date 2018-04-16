@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\obj\Debug\Problem 1. Sum and Average.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\obj\Debug\Problem_1.Sum_and_Average.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 1. Sum and Average\obj\Debug\Problem_1.Sum_and_Average.pdb

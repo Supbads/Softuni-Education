@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem 1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem_1.Max_Sequence_of_Equal_Elements.pdb

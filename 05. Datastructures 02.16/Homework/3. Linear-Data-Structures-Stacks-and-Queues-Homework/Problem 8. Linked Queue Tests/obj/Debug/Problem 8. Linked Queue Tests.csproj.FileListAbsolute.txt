@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\bin\Debug\Problem_8.Linked_Queue_Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\bin\Debug\Problem_8.Linked_Queue_Tests.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\bin\Debug\Problem_7.Linked_Queue.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\bin\Debug\Problem_7.Linked_Queue.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\obj\Debug\Problem 8. Linked Queue Tests.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\obj\Debug\Problem_8.Linked_Queue_Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 8. Linked Queue Tests\obj\Debug\Problem_8.Linked_Queue_Tests.pdb

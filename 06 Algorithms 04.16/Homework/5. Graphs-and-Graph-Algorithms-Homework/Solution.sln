@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Distance between Vertices", "Problem 1. Distance between Vertices\Problem 1. Distance between Vertices.csproj", "{CE60A405-8049-4086-B550-BDB84B8CA26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Areas in Matrix", "Problem 2. Areas in Matrix\Problem 2. Areas in Matrix.csproj", "{56E23087-7A84-4967-9E99-EDADB421CD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Cycles in a Graph", "Problem 3. Cycles in a Graph\Problem 3. Cycles in a Graph.csproj", "{086D691D-BF78-4E20-A4FC-669A7D5533A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE60A405-8049-4086-B550-BDB84B8CA26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE60A405-8049-4086-B550-BDB84B8CA26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE60A405-8049-4086-B550-BDB84B8CA26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE60A405-8049-4086-B550-BDB84B8CA26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E23087-7A84-4967-9E99-EDADB421CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E23087-7A84-4967-9E99-EDADB421CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E23087-7A84-4967-9E99-EDADB421CD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E23087-7A84-4967-9E99-EDADB421CD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086D691D-BF78-4E20-A4FC-669A7D5533A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086D691D-BF78-4E20-A4FC-669A7D5533A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086D691D-BF78-4E20-A4FC-669A7D5533A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086D691D-BF78-4E20-A4FC-669A7D5533A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

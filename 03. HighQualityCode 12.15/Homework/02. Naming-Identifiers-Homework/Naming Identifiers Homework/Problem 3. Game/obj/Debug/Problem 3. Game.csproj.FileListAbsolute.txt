@@ -1,0 +1,9 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Problem 3. Game.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 3. Game\bin\Debug\Application2.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 3. Game\obj\Debug\Application2.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 3. Game\obj\Debug\Application2.pdb

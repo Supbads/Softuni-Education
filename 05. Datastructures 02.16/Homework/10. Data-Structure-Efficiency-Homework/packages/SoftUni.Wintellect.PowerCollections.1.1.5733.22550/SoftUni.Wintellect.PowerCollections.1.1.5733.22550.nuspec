@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SoftUni.Wintellect.PowerCollections</id>
+    <version>1.1.5733.22550</version>
+    <title>SoftUni.Wintellect.PowerCollections</title>
+    <authors>Wintellect</authors>
+    <owners>Wintellect</owners>
+    <projectUrl>http://www.wintellect.com/devcenter/paulballard/power-collections-library</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Power Collections group of collection classes packed for the purpose of the Software University's courses.</description>
+    <releaseNotes>Unofficial, unmodified release packaging of Wintellect's PowerCollections
+Packaged for the "Data Structures" and "Algorithms" courses at the Software University - https://softuni.bg</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Wintellect PowerCollections SoftUni</tags>
+  </metadata>
+</package>

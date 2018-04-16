@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\bin\Release\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\bin\Release\Problem_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\obj\x86\Release\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\obj\x86\Release\Problem_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\obj\x86\Release\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\obj\x86\Release\Problem_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\bin\Release\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 6. The Biggest of Five Numbers\bin\Release\Problem_6.The_Biggest_of_Five_Numbers.pdb

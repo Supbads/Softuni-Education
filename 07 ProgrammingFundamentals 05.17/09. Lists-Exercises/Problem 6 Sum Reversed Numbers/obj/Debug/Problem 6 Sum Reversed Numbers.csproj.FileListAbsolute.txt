@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 6 Sum Reversed Numbers\bin\Debug\Problem 6 Sum Reversed Numbers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 6 Sum Reversed Numbers\bin\Debug\Problem 6 Sum Reversed Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 6 Sum Reversed Numbers\bin\Debug\Problem 6 Sum Reversed Numbers.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 6 Sum Reversed Numbers\obj\Debug\Problem 6 Sum Reversed Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 6 Sum Reversed Numbers\obj\Debug\Problem 6 Sum Reversed Numbers.pdb

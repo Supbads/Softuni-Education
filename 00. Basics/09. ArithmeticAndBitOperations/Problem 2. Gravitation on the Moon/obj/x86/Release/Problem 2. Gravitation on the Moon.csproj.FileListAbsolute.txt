@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\bin\Release\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\bin\Release\Problem_2.Gravitation_on_the_Moon.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Release\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Release\Problem_2.Gravitation_on_the_Moon.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Release\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Release\Problem_2.Gravitation_on_the_Moon.pdb

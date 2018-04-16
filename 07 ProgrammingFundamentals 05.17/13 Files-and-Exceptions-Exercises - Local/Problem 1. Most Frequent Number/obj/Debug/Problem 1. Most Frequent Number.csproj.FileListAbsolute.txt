@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\bin\Debug\Problem_1.Most_Frequent_Number.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\bin\Debug\Problem_1.Most_Frequent_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\bin\Debug\Problem_1.Most_Frequent_Number.pdb
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\obj\Debug\Problem 1. Most Frequent Number.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\obj\Debug\Problem_1.Most_Frequent_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\x13 Files-and-Exceptions-Exercises\Problem 1. Most Frequent Number\obj\Debug\Problem_1.Most_Frequent_Number.pdb

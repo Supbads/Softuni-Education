@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\bin\Debug\Problem_2.Rotate_and_Sum.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\bin\Debug\Problem_2.Rotate_and_Sum.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\bin\Debug\Problem_2.Rotate_and_Sum.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\obj\Debug\Problem 2. Rotate and Sum.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\obj\Debug\Problem_2.Rotate_and_Sum.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 2. Rotate and Sum\obj\Debug\Problem_2.Rotate_and_Sum.pdb

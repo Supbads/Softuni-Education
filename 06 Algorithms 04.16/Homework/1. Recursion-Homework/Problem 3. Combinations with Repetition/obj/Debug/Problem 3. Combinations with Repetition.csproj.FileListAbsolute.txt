@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 3. Combinations with Repetition\bin\Debug\Problem_3.Combinations_with_Repetition.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 3. Combinations with Repetition\bin\Debug\Problem_3.Combinations_with_Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 3. Combinations with Repetition\bin\Debug\Problem_3.Combinations_with_Repetition.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 3. Combinations with Repetition\obj\Debug\Problem_3.Combinations_with_Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 3. Combinations with Repetition\obj\Debug\Problem_3.Combinations_with_Repetition.pdb

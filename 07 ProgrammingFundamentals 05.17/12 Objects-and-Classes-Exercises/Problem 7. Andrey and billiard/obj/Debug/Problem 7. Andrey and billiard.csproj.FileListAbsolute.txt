@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\bin\Debug\Problem_7.Andrey_and_billiard.exe.config
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\bin\Debug\Problem_7.Andrey_and_billiard.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\bin\Debug\Problem_7.Andrey_and_billiard.pdb
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\obj\Debug\Problem 7. Andrey and billiard.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\obj\Debug\Problem_7.Andrey_and_billiard.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 7. Andrey and billiard\obj\Debug\Problem_7.Andrey_and_billiard.pdb

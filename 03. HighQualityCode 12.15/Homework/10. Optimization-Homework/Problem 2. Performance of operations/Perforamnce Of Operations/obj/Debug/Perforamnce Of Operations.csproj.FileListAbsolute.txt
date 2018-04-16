@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\bin\Debug\Perforamnce Of Operations.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\bin\Debug\Perforamnce Of Operations.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\bin\Debug\Perforamnce Of Operations.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\obj\Debug\Perforamnce Of Operations.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\obj\Debug\Perforamnce Of Operations.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\10. Optimization-Homework\Problem 2. Performance of operations\Perforamnce Of Operations\obj\Debug\Perforamnce Of Operations.pdb

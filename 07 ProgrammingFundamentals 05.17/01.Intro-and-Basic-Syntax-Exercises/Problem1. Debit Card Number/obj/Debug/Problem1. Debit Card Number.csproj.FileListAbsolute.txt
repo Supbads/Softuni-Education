@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\bin\Debug\Problem1.Debit_Card_Number.exe.config
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\bin\Debug\Problem1.Debit_Card_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\bin\Debug\Problem1.Debit_Card_Number.pdb
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\obj\Debug\Problem1. Debit Card Number.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\obj\Debug\Problem1.Debit_Card_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem1. Debit Card Number\obj\Debug\Problem1.Debit_Card_Number.pdb

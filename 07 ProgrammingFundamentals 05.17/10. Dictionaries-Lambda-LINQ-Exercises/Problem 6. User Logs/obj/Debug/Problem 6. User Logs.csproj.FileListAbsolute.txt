@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\bin\Debug\Problem_6.User_Logs.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\bin\Debug\Problem_6.User_Logs.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\bin\Debug\Problem_6.User_Logs.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\obj\Debug\Problem 6. User Logs.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\obj\Debug\Problem_6.User_Logs.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 6. User Logs\obj\Debug\Problem_6.User_Logs.pdb

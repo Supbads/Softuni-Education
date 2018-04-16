@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 7. Primes in Given Range\bin\Debug\Problem_7.Primes_in_Given_Range.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 7. Primes in Given Range\bin\Debug\Problem_7.Primes_in_Given_Range.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 7. Primes in Given Range\bin\Debug\Problem_7.Primes_in_Given_Range.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 7. Primes in Given Range\obj\Debug\Problem_7.Primes_in_Given_Range.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 7. Primes in Given Range\obj\Debug\Problem_7.Primes_in_Given_Range.pdb

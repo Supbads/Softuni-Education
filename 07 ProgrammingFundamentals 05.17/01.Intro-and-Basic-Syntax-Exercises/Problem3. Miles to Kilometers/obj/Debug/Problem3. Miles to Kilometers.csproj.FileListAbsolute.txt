@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem3. Miles to Kilometers\bin\Debug\Problem3.Miles_to_Kilometers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem3. Miles to Kilometers\bin\Debug\Problem3.Miles_to_Kilometers.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem3. Miles to Kilometers\bin\Debug\Problem3.Miles_to_Kilometers.pdb
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem3. Miles to Kilometers\obj\Debug\Problem3.Miles_to_Kilometers.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem3. Miles to Kilometers\obj\Debug\Problem3.Miles_to_Kilometers.pdb

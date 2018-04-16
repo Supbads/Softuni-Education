@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Knapsack-Problem\bin\Debug\Knapsack-Problem.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Knapsack-Problem\obj\Debug\Knapsack-Problem.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Knapsack-Problem\obj\Debug\Knapsack-Problem.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Knapsack-Problem\obj\Debug\Knapsack-Problem.csprojResolveAssemblyReference.cache

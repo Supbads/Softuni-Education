@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.exe.config
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.pdb
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\obj\Debug\Problem 4. Files.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\obj\Debug\Problem_4.Files.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 4. Files\obj\Debug\Problem_4.Files.pdb

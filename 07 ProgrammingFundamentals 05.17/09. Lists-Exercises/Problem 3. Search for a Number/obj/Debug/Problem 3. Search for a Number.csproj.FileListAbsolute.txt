@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 3. Search for a Number\bin\Debug\Problem_3.Search_for_a_Number.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 3. Search for a Number\bin\Debug\Problem_3.Search_for_a_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 3. Search for a Number\bin\Debug\Problem_3.Search_for_a_Number.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 3. Search for a Number\obj\Debug\Problem_3.Search_for_a_Number.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 3. Search for a Number\obj\Debug\Problem_3.Search_for_a_Number.pdb

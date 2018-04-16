@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\bin\Debug\Problem_5.BitArray.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\obj\Debug\Problem 5. BitArray.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\bin\Debug\Problem_5.BitArray.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\bin\Debug\Problem_5.BitArray.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\obj\Debug\Problem_5.BitArray.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 5. BitArray\obj\Debug\Problem_5.BitArray.pdb

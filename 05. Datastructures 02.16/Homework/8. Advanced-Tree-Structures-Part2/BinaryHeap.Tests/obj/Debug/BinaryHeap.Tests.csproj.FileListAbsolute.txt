@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb

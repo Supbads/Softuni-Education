@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_15. Fast Prime Checker\obj\Debug\Problem_15.Fast_Prime_Checker.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_15. Fast Prime Checker\obj\Debug\Problem_15.Fast_Prime_Checker.pdb

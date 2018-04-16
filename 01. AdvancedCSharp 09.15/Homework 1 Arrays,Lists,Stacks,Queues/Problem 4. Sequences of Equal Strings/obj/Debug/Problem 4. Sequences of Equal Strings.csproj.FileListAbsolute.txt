@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.pdb

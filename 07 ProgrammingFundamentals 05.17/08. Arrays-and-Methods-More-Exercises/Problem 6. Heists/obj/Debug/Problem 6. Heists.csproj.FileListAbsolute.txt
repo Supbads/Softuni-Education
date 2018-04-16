@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe.config
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\bin\Debug\Problem_6.Heists.pdb
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\obj\Debug\Problem 6. Heists.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\obj\Debug\Problem_6.Heists.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 6. Heists\obj\Debug\Problem_6.Heists.pdb

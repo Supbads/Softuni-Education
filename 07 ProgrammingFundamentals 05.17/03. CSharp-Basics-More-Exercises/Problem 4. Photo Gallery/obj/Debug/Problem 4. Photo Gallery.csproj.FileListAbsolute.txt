@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb

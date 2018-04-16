@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Debug\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 2. Gravitation on the Moon\obj\x86\Debug\Problem_2.Gravitation_on_the_Moon.pdb

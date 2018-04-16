@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\obj\Debug\Problem 6. DNA Sequences.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\obj\Debug\Problem_6.DNA_Sequences.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 6. DNA Sequences\obj\Debug\Problem_6.DNA_Sequences.pdb

@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\obj\Debug\Problem_3.Extract_Emails.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\obj\Debug\Problem_3.Extract_Emails.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 3. Extract Emails\obj\Debug\Problem 3. Extract Emails.csprojResolveAssemblyReference.cache

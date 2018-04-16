@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 3. A Miner Task\bin\Debug\Problem_3.A_Miner_Task.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 3. A Miner Task\bin\Debug\Problem_3.A_Miner_Task.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 3. A Miner Task\bin\Debug\Problem_3.A_Miner_Task.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 3. A Miner Task\obj\Debug\Problem_3.A_Miner_Task.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 3. A Miner Task\obj\Debug\Problem_3.A_Miner_Task.pdb

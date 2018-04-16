@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\obj\Debug\Problem 14. Decimal to Binary Number.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.pdb

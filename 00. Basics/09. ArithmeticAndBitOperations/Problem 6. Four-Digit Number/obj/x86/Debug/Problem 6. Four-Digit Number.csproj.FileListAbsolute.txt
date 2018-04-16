@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 6. Four-Digit Number\obj\x86\Debug\Problem_6.Four_Digit_Number.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 6. Four-Digit Number\obj\x86\Debug\Problem_6.Four_Digit_Number.pdb

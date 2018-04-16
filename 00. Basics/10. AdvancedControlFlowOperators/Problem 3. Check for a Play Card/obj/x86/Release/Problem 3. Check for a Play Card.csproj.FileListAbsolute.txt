@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 3. Check for a Play Card\bin\Release\Problem_3.Check_for_a_Play_Card.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 3. Check for a Play Card\bin\Release\Problem_3.Check_for_a_Play_Card.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 3. Check for a Play Card\obj\x86\Release\Problem_3.Check_for_a_Play_Card.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 3. Check for a Play Card\obj\x86\Release\Problem_3.Check_for_a_Play_Card.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 3. Check for a Play Card\obj\x86\Release\Problem_3.Check_for_a_Play_Card.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 3. Check for a Play Card\obj\x86\Release\Problem_3.Check_for_a_Play_Card.pdb

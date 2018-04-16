@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 8. Personal Exception\bin\Debug\Problem_8.Personal_Exception.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 8. Personal Exception\bin\Debug\Problem_8.Personal_Exception.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 8. Personal Exception\bin\Debug\Problem_8.Personal_Exception.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 8. Personal Exception\obj\Debug\Problem_8.Personal_Exception.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 8. Personal Exception\obj\Debug\Problem_8.Personal_Exception.pdb

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\bin\Debug\Longest-Increasing-Subsequence.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\bin\Debug\Longest-Increasing-Subsequence.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.pdb

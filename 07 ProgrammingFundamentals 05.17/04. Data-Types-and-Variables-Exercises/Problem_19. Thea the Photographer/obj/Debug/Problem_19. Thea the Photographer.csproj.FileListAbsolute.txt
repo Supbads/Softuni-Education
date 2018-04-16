@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\bin\Debug\Problem_19.Thea_the_Photographer.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\bin\Debug\Problem_19.Thea_the_Photographer.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\bin\Debug\Problem_19.Thea_the_Photographer.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\obj\Debug\Problem_19. Thea the Photographer.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\obj\Debug\Problem_19.Thea_the_Photographer.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_19. Thea the Photographer\obj\Debug\Problem_19.Thea_the_Photographer.pdb

@@ -1,0 +1,29 @@
+ //dec -> binary/hexadecimal
+using System;
+namespace problem_5_Numeral_system
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter your number");
+            int number = int.Parse(Console.ReadLine());
+            string tobinary = Convert.ToString(number, 2);
+            string tohexadec = Convert.ToString(number, 16);
+            Console.WriteLine("Your number in binary is: " + tobinary);
+            Console.WriteLine("Your number in hexadecimal is: " + tohexadec);
+        }
+    }
+}
+
+------------------------------------------------------
+
+1100101 
+to dec -> 101
+to hex -> 65
+
+---------------------------------------------
+
+ABC
+to binary -> 1010 1011 1100
+to dec    -> 2748

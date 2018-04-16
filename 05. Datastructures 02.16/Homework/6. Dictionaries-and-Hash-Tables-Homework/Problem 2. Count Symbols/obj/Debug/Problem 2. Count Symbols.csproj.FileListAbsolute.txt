@@ -1,0 +1,8 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\bin\Debug\Problem_2.Count_Symbols.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\bin\Debug\Problem_2.Count_Symbols.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\bin\Debug\Problem_2.Count_Symbols.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\bin\Debug\HashTable.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\bin\Debug\HashTable.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\obj\Debug\Problem 2. Count Symbols.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\obj\Debug\Problem_2.Count_Symbols.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 2. Count Symbols\obj\Debug\Problem_2.Count_Symbols.pdb

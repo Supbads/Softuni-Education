@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_16 Comparing Floats\bin\Debug\Problem_16 Comparing Floats.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_16 Comparing Floats\bin\Debug\Problem_16 Comparing Floats.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_16 Comparing Floats\bin\Debug\Problem_16 Comparing Floats.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_16 Comparing Floats\obj\Debug\Problem_16 Comparing Floats.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_16 Comparing Floats\obj\Debug\Problem_16 Comparing Floats.pdb

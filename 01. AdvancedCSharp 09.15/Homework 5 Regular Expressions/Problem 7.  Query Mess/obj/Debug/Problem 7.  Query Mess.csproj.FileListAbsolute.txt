@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\bin\Debug\Problem_7.Query_Mess.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\bin\Debug\Problem_7.Query_Mess.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\bin\Debug\Problem_7.Query_Mess.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\obj\Debug\Problem 7.  Query Mess.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\obj\Debug\Problem_7.Query_Mess.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 7.  Query Mess\obj\Debug\Problem_7.Query_Mess.pdb

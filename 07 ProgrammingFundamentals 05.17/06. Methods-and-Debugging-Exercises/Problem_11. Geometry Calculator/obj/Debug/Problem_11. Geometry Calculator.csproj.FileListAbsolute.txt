@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\obj\Debug\Problem_11. Geometry Calculator.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\obj\Debug\Problem_11.Geometry_Calculator.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_11. Geometry Calculator\obj\Debug\Problem_11.Geometry_Calculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\03. Circle Perimeter and Area\bin\Release\_03.Circle_Perimeter_and_Area.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\03. Circle Perimeter and Area\bin\Release\_03.Circle_Perimeter_and_Area.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\03. Circle Perimeter and Area\obj\x86\Release\_03.Circle_Perimeter_and_Area.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\03. Circle Perimeter and Area\obj\x86\Release\_03.Circle_Perimeter_and_Area.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\03. Circle Perimeter and Area\obj\x86\Release\_03.Circle_Perimeter_and_Area.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\03. Circle Perimeter and Area\obj\x86\Release\_03.Circle_Perimeter_and_Area.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\03. Circle Perimeter and Area\bin\Release\_03.Circle_Perimeter_and_Area.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\03. Circle Perimeter and Area\bin\Release\_03.Circle_Perimeter_and_Area.pdb

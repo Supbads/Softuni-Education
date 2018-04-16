@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 9. Make a Word\obj\Debug\Problem_9.Make_a_Word.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 9. Make a Word\obj\Debug\Problem_9.Make_a_Word.pdb

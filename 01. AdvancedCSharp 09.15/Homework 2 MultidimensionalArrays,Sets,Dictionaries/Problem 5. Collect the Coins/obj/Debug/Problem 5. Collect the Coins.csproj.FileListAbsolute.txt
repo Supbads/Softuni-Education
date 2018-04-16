@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config

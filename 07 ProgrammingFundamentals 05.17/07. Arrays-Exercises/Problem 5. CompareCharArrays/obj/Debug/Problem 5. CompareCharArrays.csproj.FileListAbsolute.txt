@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 5. CompareCharArrays\bin\Debug\Problem_5.CompareCharArrays.exe.config
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 5. CompareCharArrays\bin\Debug\Problem_5.CompareCharArrays.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 5. CompareCharArrays\bin\Debug\Problem_5.CompareCharArrays.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 5. CompareCharArrays\obj\Debug\Problem_5.CompareCharArrays.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 5. CompareCharArrays\obj\Debug\Problem_5.CompareCharArrays.pdb

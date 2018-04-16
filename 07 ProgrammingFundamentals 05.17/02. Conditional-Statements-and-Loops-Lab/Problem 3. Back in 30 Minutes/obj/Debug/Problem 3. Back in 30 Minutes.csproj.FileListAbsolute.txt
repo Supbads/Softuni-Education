@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\obj\Debug\Problem 3. Back in 30 Minutes.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.pdb

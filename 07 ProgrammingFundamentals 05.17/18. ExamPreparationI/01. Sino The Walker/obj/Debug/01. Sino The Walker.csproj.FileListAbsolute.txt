@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

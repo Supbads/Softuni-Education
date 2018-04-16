@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\obj\Debug\Problem 7. Phonebook.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.pdb

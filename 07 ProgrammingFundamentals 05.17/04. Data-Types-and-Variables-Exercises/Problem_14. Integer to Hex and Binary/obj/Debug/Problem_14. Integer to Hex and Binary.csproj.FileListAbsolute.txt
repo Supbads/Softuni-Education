@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\obj\Debug\Problem_14. Integer to Hex and Binary.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\obj\Debug\Problem_14.Integer_to_Hex_and_Binary.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_14. Integer to Hex and Binary\obj\Debug\Problem_14.Integer_to_Hex_and_Binary.pdb

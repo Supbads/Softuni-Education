@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\bin\Debug\Problem_4.Morse_Code_Upgraded.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\bin\Debug\Problem_4.Morse_Code_Upgraded.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\bin\Debug\Problem_4.Morse_Code_Upgraded.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\obj\Debug\Problem 4. Morse Code Upgraded.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\obj\Debug\Problem_4.Morse_Code_Upgraded.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Morse Code Upgraded\obj\Debug\Problem_4.Morse_Code_Upgraded.pdb

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\8. Advanced-Tree-Structures-Part2\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

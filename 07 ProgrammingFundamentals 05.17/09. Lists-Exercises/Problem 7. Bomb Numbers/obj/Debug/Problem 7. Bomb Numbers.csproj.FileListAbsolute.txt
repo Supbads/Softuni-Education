@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 7. Bomb Numbers\bin\Debug\Problem_7.Bomb_Numbers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 7. Bomb Numbers\bin\Debug\Problem_7.Bomb_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 7. Bomb Numbers\bin\Debug\Problem_7.Bomb_Numbers.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 7. Bomb Numbers\obj\Debug\Problem_7.Bomb_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 7. Bomb Numbers\obj\Debug\Problem_7.Bomb_Numbers.pdb

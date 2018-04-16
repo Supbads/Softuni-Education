@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Karate Strings\bin\Debug\Problem_3.Karate_Strings.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Karate Strings\bin\Debug\Problem_3.Karate_Strings.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Karate Strings\bin\Debug\Problem_3.Karate_Strings.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Karate Strings\obj\Debug\Problem_3.Karate_Strings.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 3. Karate Strings\obj\Debug\Problem_3.Karate_Strings.pdb

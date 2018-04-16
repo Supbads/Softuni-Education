@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\bin\Debug\Problem_3.Array_Based_Stack.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\bin\Debug\Problem_3.Array_Based_Stack.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\bin\Debug\Problem_3.Array_Based_Stack.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\obj\Debug\Problem 3. Array-Based Stack.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\obj\Debug\Problem_3.Array_Based_Stack.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 3. Array-Based Stack\obj\Debug\Problem_3.Array_Based_Stack.pdb

@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\bin\Debug\netcoreapp1.1\01. Initial Setup.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\bin\Debug\netcoreapp1.1\01. Initial Setup.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\bin\Debug\netcoreapp1.1\01. Initial Setup.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\bin\Debug\netcoreapp1.1\01. Initial Setup.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\obj\Debug\netcoreapp1.1\01. Initial Setup.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\obj\Debug\netcoreapp1.1\01. Initial Setup.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\bin\Debug\netcoreapp1.1\01. Initial Setup.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\obj\Debug\netcoreapp1.1\01. Initial Setup.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\01. Initial Setup\obj\Debug\netcoreapp1.1\01. Initial Setup.pdb

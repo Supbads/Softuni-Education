@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 8. Logs Aggregator\bin\Debug\Problem_8.Logs_Aggregator.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 8. Logs Aggregator\bin\Debug\Problem_8.Logs_Aggregator.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 8. Logs Aggregator\bin\Debug\Problem_8.Logs_Aggregator.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 8. Logs Aggregator\obj\Debug\Problem_8.Logs_Aggregator.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 8. Logs Aggregator\obj\Debug\Problem_8.Logs_Aggregator.pdb

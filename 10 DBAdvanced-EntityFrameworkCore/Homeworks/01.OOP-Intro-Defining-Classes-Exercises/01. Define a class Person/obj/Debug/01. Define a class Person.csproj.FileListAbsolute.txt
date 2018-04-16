@@ -1,0 +1,5 @@
+F:\zUniversity\CS DB\Advanced DB\hws\01.OOP-Intro-Defining-Classes-Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.exe.config
+F:\zUniversity\CS DB\Advanced DB\hws\01.OOP-Intro-Defining-Classes-Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.exe
+F:\zUniversity\CS DB\Advanced DB\hws\01.OOP-Intro-Defining-Classes-Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\01.OOP-Intro-Defining-Classes-Exercises\01. Define a class Person\obj\Debug\_01.Define_a_class_Person.exe
+F:\zUniversity\CS DB\Advanced DB\hws\01.OOP-Intro-Defining-Classes-Exercises\01. Define a class Person\obj\Debug\_01.Define_a_class_Person.pdb

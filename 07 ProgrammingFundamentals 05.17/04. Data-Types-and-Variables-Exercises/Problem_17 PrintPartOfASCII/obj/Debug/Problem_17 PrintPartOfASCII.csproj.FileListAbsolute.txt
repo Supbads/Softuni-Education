@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_17 PrintPartOfASCII\bin\Debug\Problem_17 PrintPartOfASCII.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_17 PrintPartOfASCII\bin\Debug\Problem_17 PrintPartOfASCII.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_17 PrintPartOfASCII\bin\Debug\Problem_17 PrintPartOfASCII.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_17 PrintPartOfASCII\obj\Debug\Problem_17 PrintPartOfASCII.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_17 PrintPartOfASCII\obj\Debug\Problem_17 PrintPartOfASCII.pdb

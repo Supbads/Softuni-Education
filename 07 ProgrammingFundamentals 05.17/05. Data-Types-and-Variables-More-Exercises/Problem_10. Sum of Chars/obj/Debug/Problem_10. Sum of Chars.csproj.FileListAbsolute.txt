@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.pdb

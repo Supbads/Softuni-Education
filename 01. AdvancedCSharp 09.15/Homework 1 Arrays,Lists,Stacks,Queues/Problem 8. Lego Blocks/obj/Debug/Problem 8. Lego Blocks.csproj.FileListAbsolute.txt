@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\bin\Debug\Problem_8.Lego_Blocks.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\bin\Debug\Problem_8.Lego_Blocks.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\bin\Debug\Problem_8.Lego_Blocks.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\bin\Debug\Problem_8.Lego_Blocks.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\obj\Debug\Problem_8.Lego_Blocks.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\obj\Debug\Problem_8.Lego_Blocks.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 8. Lego Blocks\obj\Debug\Problem 8. Lego Blocks.csprojResolveAssemblyReference.cache

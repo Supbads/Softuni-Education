@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\bin\Debug\Problem_7.Multiply_big_number.exe.config
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\bin\Debug\Problem_7.Multiply_big_number.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\bin\Debug\Problem_7.Multiply_big_number.pdb
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\obj\Debug\Problem 7. Multiply big number.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\obj\Debug\Problem_7.Multiply_big_number.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 7. Multiply big number\obj\Debug\Problem_7.Multiply_big_number.pdb

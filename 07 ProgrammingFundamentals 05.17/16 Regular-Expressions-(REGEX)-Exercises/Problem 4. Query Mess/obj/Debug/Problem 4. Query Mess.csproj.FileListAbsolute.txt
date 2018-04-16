@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\bin\Debug\Problem_4.Query_Mess.exe.config
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\bin\Debug\Problem_4.Query_Mess.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\bin\Debug\Problem_4.Query_Mess.pdb
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\obj\Debug\Problem 4. Query Mess.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\obj\Debug\Problem_4.Query_Mess.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 4. Query Mess\obj\Debug\Problem_4.Query_Mess.pdb

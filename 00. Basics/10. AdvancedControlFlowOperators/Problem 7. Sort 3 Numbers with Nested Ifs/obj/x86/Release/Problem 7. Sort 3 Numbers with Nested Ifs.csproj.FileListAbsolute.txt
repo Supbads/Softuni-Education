@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\obj\x86\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\obj\x86\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\obj\x86\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\obj\x86\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Release\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb

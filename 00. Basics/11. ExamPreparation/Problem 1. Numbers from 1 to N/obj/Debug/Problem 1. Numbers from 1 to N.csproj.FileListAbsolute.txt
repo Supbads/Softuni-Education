@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\bin\Debug\Problem_1.Numbers_from_1_to_N.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\bin\Debug\Problem_1.Numbers_from_1_to_N.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\bin\Debug\Problem_1.Numbers_from_1_to_N.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\obj\Debug\Problem 1. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\obj\Debug\Problem_1.Numbers_from_1_to_N.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 1. Numbers from 1 to N\obj\Debug\Problem_1.Numbers_from_1_to_N.pdb

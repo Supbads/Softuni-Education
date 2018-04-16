@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\bin\Debug\Problem_3.Jarvis.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\bin\Debug\Problem_3.Jarvis.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\bin\Debug\Problem_3.Jarvis.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\obj\Debug\Problem 3. Jarvis.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\obj\Debug\Problem_3.Jarvis.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 3. Jarvis\obj\Debug\Problem_3.Jarvis.pdb

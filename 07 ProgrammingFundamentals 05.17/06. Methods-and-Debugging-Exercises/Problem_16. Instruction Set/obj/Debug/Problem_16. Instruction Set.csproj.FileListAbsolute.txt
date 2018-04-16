@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\bin\Debug\Problem_16.Instruction_Set.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\bin\Debug\Problem_16.Instruction_Set.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\bin\Debug\Problem_16.Instruction_Set.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\obj\Debug\Problem_16. Instruction Set.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\obj\Debug\Problem_16.Instruction_Set.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_16. Instruction Set\obj\Debug\Problem_16.Instruction_Set.pdb

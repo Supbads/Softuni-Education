@@ -1,0 +1,136 @@
+Install-Package Microsoft.EntityFrameworkCore -v 2.0.0
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -v 2.0.0
+Install-Package Microsoft.EntityFrameworkCore.Tools -v 2.0.0
+Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design -v 2.0.0 
+
+for scaffolding (Db first):
+Scaffold-DbContext -Connection "Server=.;Database=SoftUni;Integrated Security=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models
+
+Removing the tools and design packages used to scaffold
+Uninstall-Package Microsoft.EntityFrameworkCore.Tools -RemoveDependencies
+Uninstall-Package Microsoft.EntityFrameworkCore.SqlServer -RemoveDependencies
+Uninstall-Package Microsoft.EntityFrameworkCore.SqlServer.Design -RemoveDependencies
+
+Dependency Injection helper by Microsoft: Install-Package Microsoft.Extensions.DependencyInjection
+
+!Migrations! :
+(Tools Package) 
+Add-Migration "name"
+Update-Database (Might need to close the solution if it can't find tools)
+
+features:
+Remove-Migration 
+Drop-Database
+
+To apply specific migration (including going to previous version)
+Update-Database –TargetMigration: <Name>
+
+
+
+
+.OnDelete(DeleteBehavior.Restrict) //cyclic dependancy delete resolver
+
+
+Declaring properties:
+
+builder.Entity<Patient>(
+ep =>
+{
+    ep.Property(p => p.FirstName).HasColumnType("nvarchar(50)");
+});
+--vs--
+builder.Entity<Patient>()
+    .Property(p => p.FirstName)
+    .IsUnicode()
+    .HasMaxLength(50);
+
+
+
+Database diagram glitch hax:  EXEC sp_changedbowner 'sa'
+
+A network-related or instance-specific error occurred =>  Server=.\SQLEXPRESS
+
+
+Relations:
+modelBuilder.Entity<Post>()  
+	.HasOne(p => p.Blog)
+	.WithMany(b => b.Posts) 
+	.HasForeignKey(p => p.BlogId); //aka row 1
+
+builder.Entity<Engine>()
+	.HasMany(e => e.Cars)
+	.WithOne(c => c.Engine)
+	.HasForeignKey(c => c.EngineId) //usually aka row 2
+
+OR FOR SELF REFERENCE
+builder.HasOne(e => e.Manager)
+    .WithMany(m => m.Employees)
+    .HasForeignKey(e => e.ManagerId);
+
+builder.HasMany(m => m.Employees)
+    .WithOne(e => e.Manager)
+    .HasForeignKey(e => e.ManagerId);
+
+
+
+modelBuilder.Entity<Product>()
+	.HasOne(e => e.Details).WithOne(e => e.Product)
+	.HasForeignKey<ProductDetails>(e => e.Id);
+
+builder.Entity<C>()
+
+
+
+
+// refactoring the configurations
+public class CourseConfiguration : IEntityTypeConfiguration<Course>
+{
+    public void Configure(EntityTypeBuilder<Course> builder)
+    {
+        builder
+            .Property(p => p.Name)
+            .HasMaxLength(80)
+            .IsUnicode(true);
+	}
+}
+
+
+<Automapper stuff>
+
+using Automapper
+using AutoMapper.QueryableExtensions (Projection !)
+
+Install-Package
+AutoMapper
+Automapper.Extensions.Microsoft.DependencyInjection
+Microsoft.Extensions.DependencyInjection
+Microsoft.EntityFrameworkCore.SqlServer
+
+
+<!DBContext methods!>
+public EmployeesContext(){}
+
+public EmployeesContext(DbContextOptions options)
+    :base(options){}
+
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+{
+    if (!optionsBuilder.IsConfigured)
+    {
+        optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+        //"Server=.;Database=BillsPaymentSystemDb;Integrated Security=True";
+    }
+}
+
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+    modelBuilder.ApplyConfiguration(new EmployeeConfig());
+}
+//Configuration taken out
+public class BankAccountConfiguration : IEntityTypeConfiguration<BankAccount>
+{
+    public void Configure(EntityTypeBuilder<BankAccount> builder)
+    {
+        builder.HasKey(b => b.BankAccountId);
+    }
+}

@@ -1,0 +1,8 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\bin\Debug\Part_I.Events_in_Given_Date_Range.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\bin\Debug\Part_I.Events_in_Given_Date_Range.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\bin\Debug\Part_I.Events_in_Given_Date_Range.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\obj\Debug\Part I. Events in Given Date Range.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\obj\Debug\Part_I.Events_in_Given_Date_Range.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part I. Events in Given Date Range\obj\Debug\Part_I.Events_in_Given_Date_Range.pdb

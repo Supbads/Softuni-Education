@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\bin\Debug\Problem_15.Balanced_Brackets.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\bin\Debug\Problem_15.Balanced_Brackets.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\bin\Debug\Problem_15.Balanced_Brackets.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\obj\Debug\Problem_15. Balanced Brackets.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\obj\Debug\Problem_15.Balanced_Brackets.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_15. Balanced Brackets\obj\Debug\Problem_15.Balanced_Brackets.pdb

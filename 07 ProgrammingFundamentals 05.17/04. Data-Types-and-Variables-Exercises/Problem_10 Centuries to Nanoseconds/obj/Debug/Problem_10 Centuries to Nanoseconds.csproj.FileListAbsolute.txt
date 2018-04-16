@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_10 Centuries to Nanoseconds\bin\Debug\Problem_10 Centuries to Nanoseconds.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_10 Centuries to Nanoseconds\bin\Debug\Problem_10 Centuries to Nanoseconds.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_10 Centuries to Nanoseconds\bin\Debug\Problem_10 Centuries to Nanoseconds.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_10 Centuries to Nanoseconds\obj\Debug\Problem_10 Centuries to Nanoseconds.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_10 Centuries to Nanoseconds\obj\Debug\Problem_10 Centuries to Nanoseconds.pdb

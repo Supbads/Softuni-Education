@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 5. Combinations without Repetition\bin\Debug\Problem_5.Combinations_without_Repetition.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 5. Combinations without Repetition\bin\Debug\Problem_5.Combinations_without_Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 5. Combinations without Repetition\bin\Debug\Problem_5.Combinations_without_Repetition.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 5. Combinations without Repetition\obj\Debug\Problem_5.Combinations_without_Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 5. Combinations without Repetition\obj\Debug\Problem_5.Combinations_without_Repetition.pdb

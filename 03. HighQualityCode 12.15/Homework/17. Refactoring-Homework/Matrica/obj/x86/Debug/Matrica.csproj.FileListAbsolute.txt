@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\17. Refactoring-Homework\Matrica\bin\Debug\GameFifteen.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\17. Refactoring-Homework\Matrica\bin\Debug\GameFifteen.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\17. Refactoring-Homework\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\17. Refactoring-Homework\Matrica\obj\x86\Debug\GameFifteen.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\17. Refactoring-Homework\Matrica\obj\x86\Debug\GameFifteen.pdb

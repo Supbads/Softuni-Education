@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 6. Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 6. Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 6. Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 6. Catch the Thief\obj\Debug\Problem_6.Catch_the_Thief.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 6. Catch the Thief\obj\Debug\Problem_6.Catch_the_Thief.pdb

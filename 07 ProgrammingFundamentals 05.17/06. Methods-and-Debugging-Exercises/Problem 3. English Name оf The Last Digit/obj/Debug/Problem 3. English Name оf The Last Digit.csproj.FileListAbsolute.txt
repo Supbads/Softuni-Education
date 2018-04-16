@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\bin\Debug\Problem_3.English_Name_оf_The_Last_Digit.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\bin\Debug\Problem_3.English_Name_оf_The_Last_Digit.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\bin\Debug\Problem_3.English_Name_оf_The_Last_Digit.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\obj\Debug\Problem 3. English Name оf The Last Digit.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\obj\Debug\Problem_3.English_Name_оf_The_Last_Digit.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 3. English Name оf The Last Digit\obj\Debug\Problem_3.English_Name_оf_The_Last_Digit.pdb

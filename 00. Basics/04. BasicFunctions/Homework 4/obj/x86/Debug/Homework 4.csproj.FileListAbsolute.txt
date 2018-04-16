@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\Homework 4\bin\Debug\Homework 4.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\Homework 4\bin\Debug\Homework 4.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\Homework 4\obj\x86\Debug\Homework 4.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\Homework 4\obj\x86\Debug\Homework 4.pdb

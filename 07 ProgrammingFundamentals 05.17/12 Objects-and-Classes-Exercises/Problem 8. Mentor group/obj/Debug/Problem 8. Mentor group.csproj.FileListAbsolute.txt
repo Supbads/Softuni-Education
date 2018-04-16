@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\bin\Debug\Problem_8.Mentor_group.exe.config
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\bin\Debug\Problem_8.Mentor_group.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\bin\Debug\Problem_8.Mentor_group.pdb
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\obj\Debug\Problem 8. Mentor group.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\obj\Debug\Problem_8.Mentor_group.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 8. Mentor group\obj\Debug\Problem_8.Mentor_group.pdb

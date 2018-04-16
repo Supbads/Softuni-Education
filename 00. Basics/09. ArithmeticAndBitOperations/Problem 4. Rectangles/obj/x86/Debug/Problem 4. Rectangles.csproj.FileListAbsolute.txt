@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 4. Rectangles\obj\x86\Debug\Problem_4.Rectangles.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 4. Rectangles\obj\x86\Debug\Problem_4.Rectangles.pdb

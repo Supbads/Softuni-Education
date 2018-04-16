@@ -1,0 +1,11 @@
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\bin\Debug\netcoreapp2.0\01.HospitalDatabase.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\bin\Debug\netcoreapp2.0\01.HospitalDatabase.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\bin\Debug\netcoreapp2.0\01.HospitalDatabase.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\bin\Debug\netcoreapp2.0\01.HospitalDatabase.dll
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\bin\Debug\netcoreapp2.0\01.HospitalDatabase.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.csproj.CoreCompileInputs.cache
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.AssemblyInfoInputs.cache
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.dll
+F:\zUniversity\CS DB\Advanced DB\hws\07. EF-Core-Code-First-Exercises\01.  Hospital Database\obj\Debug\netcoreapp2.0\01.HospitalDatabase.pdb

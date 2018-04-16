@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\bin\Release\Problem_11.Bitwise__Extract_3rd_Bit.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\bin\Release\Problem_11.Bitwise__Extract_3rd_Bit.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\obj\x86\Release\Problem_11.Bitwise__Extract_3rd_Bit.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\obj\x86\Release\Problem_11.Bitwise__Extract_3rd_Bit.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\obj\x86\Release\Problem_11.Bitwise__Extract_3rd_Bit.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\obj\x86\Release\Problem_11.Bitwise__Extract_3rd_Bit.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\bin\Release\Problem_11.Bitwise__Extract_3rd_Bit.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\bin\Release\Problem_11.Bitwise__Extract_3rd_Bit.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 11. Bitwise  Extract 3rd Bit\obj\x86\Release\Problem 11. Bitwise  Extract 3rd Bit.csprojResolveAssemblyReference.cache

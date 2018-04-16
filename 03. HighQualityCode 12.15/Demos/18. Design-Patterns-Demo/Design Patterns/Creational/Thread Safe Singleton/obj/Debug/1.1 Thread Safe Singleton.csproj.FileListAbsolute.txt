@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.pdb

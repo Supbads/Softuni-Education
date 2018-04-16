@@ -1,0 +1,23 @@
+p{
+    border-radius: 10px;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+#RedBorder{
+	border: 3px solid red;
+}
+
+#GreenBorder{
+	border: 3px solid green;
+}
+
+#BlueBorder{	
+	border: 3px solid blue;
+}
+
+#Blue { color:	#0000FF; }
+
+#Red { color:	#FF0000; }
+
+#Green { color:	#32CD32; }

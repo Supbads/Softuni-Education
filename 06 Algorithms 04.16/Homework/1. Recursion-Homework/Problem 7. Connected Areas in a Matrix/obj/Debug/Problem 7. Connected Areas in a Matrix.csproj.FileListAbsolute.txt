@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\bin\Debug\Problem_7.Connected_Areas_in_a_Matrix.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\bin\Debug\Problem_7.Connected_Areas_in_a_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\bin\Debug\Problem_7.Connected_Areas_in_a_Matrix.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\obj\Debug\Problem 7. Connected Areas in a Matrix.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\obj\Debug\Problem_7.Connected_Areas_in_a_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 7. Connected Areas in a Matrix\obj\Debug\Problem_7.Connected_Areas_in_a_Matrix.pdb

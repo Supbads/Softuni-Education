@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\01. Operators Expressions and Statements\bin\Debug\_01.Operators_Expressions_and_Statements.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\01. Operators Expressions and Statements\bin\Debug\_01.Operators_Expressions_and_Statements.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\01. Operators Expressions and Statements\obj\x86\Debug\_01.Operators_Expressions_and_Statements.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\01. Operators Expressions and Statements\obj\x86\Debug\_01.Operators_Expressions_and_Statements.pdb

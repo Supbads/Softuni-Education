@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.exe.config
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.pdb
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\obj\Debug\Problem 4. Supermarket Database.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\obj\Debug\Problem_4.Supermarket_Database.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database\obj\Debug\Problem_4.Supermarket_Database.pdb

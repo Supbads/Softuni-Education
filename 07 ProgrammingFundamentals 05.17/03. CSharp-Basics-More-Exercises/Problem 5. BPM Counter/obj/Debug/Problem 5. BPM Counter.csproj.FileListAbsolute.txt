@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.pdb

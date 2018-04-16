@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 2 Methods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.exe.config

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\bin\Debug\Problem_4.Numbers_in_Reversed_Order.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\bin\Debug\Problem_4.Numbers_in_Reversed_Order.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\bin\Debug\Problem_4.Numbers_in_Reversed_Order.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\obj\Debug\Problem 4. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\obj\Debug\Problem_4.Numbers_in_Reversed_Order.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 4. Numbers in Reversed Order\obj\Debug\Problem_4.Numbers_in_Reversed_Order.pdb

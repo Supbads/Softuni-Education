@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\obj\Debug\Problem_5.Longest_Increasing_Sequence.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 5. Longest Increasing Sequence\obj\Debug\Problem_5.Longest_Increasing_Sequence.pdb

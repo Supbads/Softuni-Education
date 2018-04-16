@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Animals\bin\Debug\Problem_1.Animals.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Animals\bin\Debug\Problem_1.Animals.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Animals\bin\Debug\Problem_1.Animals.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Animals\obj\Debug\Problem_1.Animals.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Animals\obj\Debug\Problem_1.Animals.pdb

@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\bin\Debug\netcoreapp1.1\02. Villain Names.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\bin\Debug\netcoreapp1.1\02. Villain Names.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\bin\Debug\netcoreapp1.1\02. Villain Names.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\bin\Debug\netcoreapp1.1\02. Villain Names.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\obj\Debug\netcoreapp1.1\02. Villain Names.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\bin\Debug\netcoreapp1.1\02. Villain Names.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\obj\Debug\netcoreapp1.1\02. Villain Names.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\obj\Debug\netcoreapp1.1\02. Villain Names.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\02. Villain Names\obj\Debug\netcoreapp1.1\02. Villain Names.pdb

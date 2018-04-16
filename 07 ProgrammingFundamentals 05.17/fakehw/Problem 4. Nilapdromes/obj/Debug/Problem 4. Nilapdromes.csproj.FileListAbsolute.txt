@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\obj\Debug\Problem 4. Nilapdromes.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\bin\Debug\Problem_4.Nilapdromes.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\bin\Debug\Problem_4.Nilapdromes.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\bin\Debug\Problem_4.Nilapdromes.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\obj\Debug\Problem_4.Nilapdromes.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 4. Nilapdromes\obj\Debug\Problem_4.Nilapdromes.pdb

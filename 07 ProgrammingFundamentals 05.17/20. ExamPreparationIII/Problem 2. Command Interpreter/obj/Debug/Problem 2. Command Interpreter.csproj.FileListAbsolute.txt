@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\bin\Debug\Problem_2.Command_Interpreter.exe.config
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\bin\Debug\Problem_2.Command_Interpreter.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\bin\Debug\Problem_2.Command_Interpreter.pdb
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\obj\Debug\Problem 2. Command Interpreter.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\obj\Debug\Problem_2.Command_Interpreter.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 2. Command Interpreter\obj\Debug\Problem_2.Command_Interpreter.pdb

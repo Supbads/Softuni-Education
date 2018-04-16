@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.Test.dll
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.Test.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.dll
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.dll

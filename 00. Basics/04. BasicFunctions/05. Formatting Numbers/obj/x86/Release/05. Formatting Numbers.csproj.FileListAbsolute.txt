@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\05. Formatting Numbers\bin\Release\_05.Formatting_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\05. Formatting Numbers\bin\Release\_05.Formatting_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\05. Formatting Numbers\obj\x86\Release\_05.Formatting_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\05. Formatting Numbers\obj\x86\Release\_05.Formatting_Numbers.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\05. Formatting Numbers\obj\x86\Release\_05.Formatting_Numbers.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\05. Formatting Numbers\obj\x86\Release\_05.Formatting_Numbers.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\05. Formatting Numbers\bin\Release\_05.Formatting_Numbers.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\05. Formatting Numbers\bin\Release\_05.Formatting_Numbers.pdb

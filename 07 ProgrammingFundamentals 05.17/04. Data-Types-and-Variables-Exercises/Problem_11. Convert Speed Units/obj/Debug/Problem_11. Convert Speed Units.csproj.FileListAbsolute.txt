@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_11. Convert Speed Units\obj\Debug\Problem_11.Convert_Speed_Units.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem_11. Convert Speed Units\obj\Debug\Problem_11.Convert_Speed_Units.pdb

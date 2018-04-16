@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Stateless\bin\Debug\Problem_2.Stateless.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Stateless\bin\Debug\Problem_2.Stateless.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Stateless\bin\Debug\Problem_2.Stateless.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Stateless\obj\Debug\Problem_2.Stateless.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Stateless\obj\Debug\Problem_2.Stateless.pdb

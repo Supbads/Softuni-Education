@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\bin\Debug\Problem_1.Binomial_Coefficients.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\bin\Debug\Problem_1.Binomial_Coefficients.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\bin\Debug\Problem_1.Binomial_Coefficients.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\obj\Debug\Problem 1. Binomial Coefficients.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\obj\Debug\Problem_1.Binomial_Coefficients.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 1. Binomial Coefficients\obj\Debug\Problem_1.Binomial_Coefficients.pdb

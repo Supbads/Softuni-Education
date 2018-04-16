@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\bin\Debug\netcoreapp1.1\03. Minion Names.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\bin\Debug\netcoreapp1.1\03. Minion Names.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\bin\Debug\netcoreapp1.1\03. Minion Names.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\bin\Debug\netcoreapp1.1\03. Minion Names.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\obj\Debug\netcoreapp1.1\03. Minion Names.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\bin\Debug\netcoreapp1.1\03. Minion Names.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\obj\Debug\netcoreapp1.1\03. Minion Names.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\obj\Debug\netcoreapp1.1\03. Minion Names.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\03. Minion Names\obj\Debug\netcoreapp1.1\03. Minion Names.pdb

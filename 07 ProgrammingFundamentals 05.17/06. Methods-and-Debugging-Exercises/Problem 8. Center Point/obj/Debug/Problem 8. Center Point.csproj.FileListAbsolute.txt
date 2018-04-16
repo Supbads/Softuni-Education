@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\bin\Debug\Problem_8.Center_Point.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\bin\Debug\Problem_8.Center_Point.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\bin\Debug\Problem_8.Center_Point.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\obj\Debug\Problem 8. Center Point.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\obj\Debug\Problem_8.Center_Point.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 8. Center Point\obj\Debug\Problem_8.Center_Point.pdb

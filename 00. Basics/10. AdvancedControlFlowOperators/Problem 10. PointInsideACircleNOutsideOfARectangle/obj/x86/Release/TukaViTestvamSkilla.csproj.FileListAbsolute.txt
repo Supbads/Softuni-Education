@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\TukaViTestvamSkilla\bin\Release\TukaViTestvamSkilla.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\TukaViTestvamSkilla\bin\Release\TukaViTestvamSkilla.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\TukaViTestvamSkilla\obj\x86\Release\TukaViTestvamSkilla.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\TukaViTestvamSkilla\obj\x86\Release\TukaViTestvamSkilla.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\TukaViTestvamSkilla\obj\x86\Release\TukaViTestvamSkilla.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\TukaViTestvamSkilla\obj\x86\Release\TukaViTestvamSkilla.pdb

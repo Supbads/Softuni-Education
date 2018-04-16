@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\obj\Debug\Problem 2. Laptop Shop.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\obj\Debug\Problem_2.Laptop_Shop.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 2. Laptop Shop\obj\Debug\Problem_2.Laptop_Shop.pdb

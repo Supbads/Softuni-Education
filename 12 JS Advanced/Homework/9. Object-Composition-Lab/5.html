@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+<body>
+<input type="text" id="num1" />
+<input type="text" id="num2" />
+<input type="text" id="result" readonly />
+<br>
+<button id="sumButton">
+	Sum</button>
+<button id="subtractButton">
+	Subtract</button>
+<script>
+	function getModel() {
+		let model = {
+			init: function(num1Sel, num2Sel, resultSel) {
+				model.num1 = $(num1Sel);
+				model.num2 = $(num2Sel);
+				model.result = $(resultSel);
+			},
+			add: () => model.action((a, b) => a + b),
+			subtract: () => model.action((a, b) => a - b),
+			action: function(operation) {
+				let val1 = Number(model.num1.val());
+				let val2 = Number(model.num2.val());
+				model.result.val(operation(val1, val2));
+			}
+		};
+		
+		return model;
+	}
+	
+	
+	// function solve() {
+	// 	let modifier =  {
+	// 		selector1: null,
+	// 		selector2: null,
+	// 		resultSelector: null,
+	// 		init: (selector1, selector2, resultSelector) => {
+	// 			this.selector1 = selector1;
+	// 			this.selector2 = selector2;
+	// 			this.resultSelector = resultSelector;
+	// 		},
+	// 		add: () => {
+	// 			let result = document.querySelectorAll(this.resultSelector);
+	// 			let element1 = Number(document.querySelectorAll(this.selector1).value());
+	// 			let element2 = Number(document.querySelectorAll(this.selector2).value());
+	//
+	// 			result.value = element1 + element2;
+	// 		},
+	// 		subtract: () => {
+	// 			let result = document.querySelectorAll(this.resultSelector);
+	// 			let element1 = Number(document.querySelectorAll(this.selector1).value());
+	// 			let element2 = Number(document.querySelectorAll(this.selector2).value());
+	//
+	// 			result.value = element1 - element2;
+	// 		}
+	// 	};
+	//
+	// 	return modifier;
+	// }
+	
+	// modifier.init('#num1', '#num2', '#result');
+	// modifier.add();
+</script>
+</body>
+</html>

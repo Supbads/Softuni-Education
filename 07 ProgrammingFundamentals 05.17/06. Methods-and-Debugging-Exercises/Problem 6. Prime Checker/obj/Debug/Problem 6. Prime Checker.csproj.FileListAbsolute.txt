@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 6. Prime Checker\bin\Debug\Problem_6.Prime_Checker.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 6. Prime Checker\bin\Debug\Problem_6.Prime_Checker.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 6. Prime Checker\bin\Debug\Problem_6.Prime_Checker.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 6. Prime Checker\obj\Debug\Problem_6.Prime_Checker.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 6. Prime Checker\obj\Debug\Problem_6.Prime_Checker.pdb

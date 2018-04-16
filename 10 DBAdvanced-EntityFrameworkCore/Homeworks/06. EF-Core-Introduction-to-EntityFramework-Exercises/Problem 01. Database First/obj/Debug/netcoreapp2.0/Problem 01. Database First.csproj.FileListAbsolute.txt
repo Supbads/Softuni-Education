@@ -1,0 +1,11 @@
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\bin\Debug\netcoreapp2.0\Problem 01. Database First.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\bin\Debug\netcoreapp2.0\Problem 01. Database First.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\bin\Debug\netcoreapp2.0\Problem 01. Database First.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\bin\Debug\netcoreapp2.0\Problem 01. Database First.dll
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\bin\Debug\netcoreapp2.0\Problem 01. Database First.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.csproj.CoreCompileInputs.cache
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.AssemblyInfoInputs.cache
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.dll
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\06. EF-Core-Introduction-to-EntityFramework-Exercises\Problem 01. Database First\obj\Debug\netcoreapp2.0\Problem 01. Database First.csprojResolveAssemblyReference.cache

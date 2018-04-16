@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Play with Trees", "Problem 1. Play with Trees\Problem 1. Play with Trees.csproj", "{D0E31214-69E7-46F2-9300-6BFC632DF13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Traverse Directory Contents", "Problem 2. Traverse Directory Contents\Problem 2. Traverse Directory Contents.csproj", "{74016E75-0A64-48CC-B78E-76E45EC7367A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E31214-69E7-46F2-9300-6BFC632DF13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E31214-69E7-46F2-9300-6BFC632DF13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E31214-69E7-46F2-9300-6BFC632DF13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E31214-69E7-46F2-9300-6BFC632DF13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74016E75-0A64-48CC-B78E-76E45EC7367A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74016E75-0A64-48CC-B78E-76E45EC7367A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74016E75-0A64-48CC-B78E-76E45EC7367A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74016E75-0A64-48CC-B78E-76E45EC7367A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

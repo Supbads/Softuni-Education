@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\bin\Debug\Problem_2.Change_List.exe.config
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\bin\Debug\Problem_2.Change_List.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\bin\Debug\Problem_2.Change_List.pdb
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\obj\Debug\Problem 2. Change List.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\obj\Debug\Problem_2.Change_List.exe
+F:\zUniversity\Prog Fundamentals\hw\09. Lists-Exercises\Problem 2. Change List\obj\Debug\Problem_2.Change_List.pdb

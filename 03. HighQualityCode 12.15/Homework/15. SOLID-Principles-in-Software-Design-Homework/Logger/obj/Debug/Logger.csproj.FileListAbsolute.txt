@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.dll.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.dll
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.dll
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.pdb

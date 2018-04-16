@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 6. Paths between Cells in Matrix\bin\Debug\Problem_6.Paths_between_Cells_in_Matrix.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 6. Paths between Cells in Matrix\bin\Debug\Problem_6.Paths_between_Cells_in_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 6. Paths between Cells in Matrix\bin\Debug\Problem_6.Paths_between_Cells_in_Matrix.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 6. Paths between Cells in Matrix\obj\Debug\Problem_6.Paths_between_Cells_in_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 6. Paths between Cells in Matrix\obj\Debug\Problem_6.Paths_between_Cells_in_Matrix.pdb

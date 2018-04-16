@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\bin\Debug\Problem_12.Master_Numbers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\bin\Debug\Problem_12.Master_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\bin\Debug\Problem_12.Master_Numbers.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\obj\Debug\Problem_12. Master Numbers.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\obj\Debug\Problem_12.Master_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_12. Master Numbers\obj\Debug\Problem_12.Master_Numbers.pdb

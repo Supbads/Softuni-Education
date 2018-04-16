@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe.config
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.pdb
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\obj\Debug\Problem 1. Charity Marathon.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.pdb

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 7. Linked List\bin\Debug\Problem_7.Reverse_List.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 7. Linked List\bin\Debug\Problem_7.Reverse_List.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 7. Linked List\bin\Debug\Problem_7.Reverse_List.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 7. Linked List\obj\Debug\Problem_7.Reverse_List.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 7. Linked List\obj\Debug\Problem_7.Reverse_List.pdb

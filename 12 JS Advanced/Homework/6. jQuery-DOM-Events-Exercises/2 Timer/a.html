@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Timer</title>
+	<script src="https://code.jquery.com/jquery-3.1.0.min.js"
+	        integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+	        crossorigin="anonymous"></script>
+	<style>
+		#timer {
+			font-size: 5em;
+		}
+	</style>
+</head>
+<body>
+<div id="timer">
+	<span id="hours" class="timer">00</span>:
+	<span id="minutes" class="timer">00</span>:
+	<span id="seconds" class="timer">00</span>
+	<button id="start-timer">Start</button>
+	<button id="stop-timer">Stop</button>
+</div>
+<script src="timer.js"></script>
+<script>
+	window.onload=function(){
+		timer();
+		
+		function timer() {
+			$('#start-timer').on('click', startTimer);
+			
+			$('#stop-timer').on('click', stopTimer);
+			
+			let id;
+		
+			function startTimer() {
+				let seconds = Number($('#seconds').text());
+				let minutes = Number($('#minutes').text());
+				let hours = Number($('#hours').text());
+				
+				id = setInterval(function () {
+					seconds++;
+					if(seconds>=60){
+						minutes++;
+						seconds = 0;
+					}
+					if(minutes >= 60){
+						hours++;
+						minutes = 0;
+					}
+					
+					$('#seconds').text(seconds < 10 ? '0' + seconds : seconds);
+					$('#minutes').text(minutes < 10 ? '0' + minutes : minutes);
+					$('#hours').text(hours < 10 ? '0' + hours : hours);
+				}, 1000);
+				
+				$('#start-timer').attr('disabled', true);
+				$('#stop-timer').attr('disabled', false)
+			}
+			
+			function stopTimer() {
+				clearInterval(id);
+				
+				$('#start-timer').attr('disabled', false);
+				$('#stop-timer').attr('disabled', true)
+			}
+		}
+	}
+</script>
+</body>
+</html>

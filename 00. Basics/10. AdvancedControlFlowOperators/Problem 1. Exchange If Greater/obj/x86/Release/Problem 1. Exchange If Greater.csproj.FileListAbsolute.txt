@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 1. Exchange If Greater\bin\Release\Problem_1.Exchange_If_Greater.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 1. Exchange If Greater\bin\Release\Problem_1.Exchange_If_Greater.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 1. Exchange If Greater\obj\x86\Release\Problem_1.Exchange_If_Greater.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 1. Exchange If Greater\obj\x86\Release\Problem_1.Exchange_If_Greater.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 1. Exchange If Greater\obj\x86\Release\Problem_1.Exchange_If_Greater.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 1. Exchange If Greater\obj\x86\Release\Problem_1.Exchange_If_Greater.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 1. Exchange If Greater\bin\Release\Problem_1.Exchange_If_Greater.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 1. Exchange If Greater\bin\Release\Problem_1.Exchange_If_Greater.pdb

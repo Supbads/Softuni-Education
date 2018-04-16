@@ -1,0 +1,30 @@
+https://baas.kinvey.com/appdata/{app_id}/posts/id   do something to a post (DELETE PUT)
+https://baas.kinvey.com/appdata/{app_id}/posts   add a post (POST methodod)
+https://baas.kinvey.com/appdata/{app_id}/posts   view posts (GET method)
+
+URL: https://baas.kinvey.com/user/{app_id}/login  login (POST method)
+Authorization: 'Basic ' + btoa(kinveyAppKey + ':' + kinveyAppSecret)  (Auth)
+'username' / 'password' (Data)
+
+
+https://baas.kinvey.com/user/{app_id}/_logout
+'Kinvey ' + sessionStorage.getItem('authtoken');  (Auth)
+authtoken: sessionStorage.getItem('authtoken') (Data)
+
+returns: "authtoken": "fd6d989d-0930-4c…wI="
+
+
+https://baas.kinvey.com/user/{app_id}?query={"teamId": "${teamId}"}
+//users with teamid
+
+https://baas.kinvey.com/appdata/{app_id}/teams?query={"name": "${teamName}"}
+//teams with a name teamName
+
+
+Promise.All([asd,dsa]).then(function([asdResponce, dsaResponce]){
+	
+});
+
+
+//if endpoint === '' 
+req.headers['Content-type'] = 'application/json';

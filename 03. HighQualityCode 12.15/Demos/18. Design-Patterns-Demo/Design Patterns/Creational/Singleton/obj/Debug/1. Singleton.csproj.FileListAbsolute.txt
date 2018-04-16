@@ -1,0 +1,1 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config

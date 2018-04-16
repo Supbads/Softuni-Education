@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\obj\Debug\Problem_2.Enter_Numbers.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\obj\Debug\Problem_2.Enter_Numbers.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\3. Exception-Handling-Homework\Problem 2. Enter Numbers\obj\Debug\Problem 2. Enter Numbers.csprojResolveAssemblyReference.cache

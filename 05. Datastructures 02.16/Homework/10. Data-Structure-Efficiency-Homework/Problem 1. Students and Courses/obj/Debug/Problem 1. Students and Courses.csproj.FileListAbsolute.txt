@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\bin\Debug\Problem_1.Students_and_Courses.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\bin\Debug\Problem_1.Students_and_Courses.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\bin\Debug\Problem_1.Students_and_Courses.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\obj\Debug\Problem 1. Students and Courses.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\obj\Debug\Problem_1.Students_and_Courses.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 1. Students and Courses\obj\Debug\Problem_1.Students_and_Courses.pdb

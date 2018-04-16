@@ -1,0 +1,9 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\obj\Debug\Problem 1. Persons.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\bin\Debug\Problem_1.Persons.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\Solution0\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\1. Defining-Classes-Homework\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb

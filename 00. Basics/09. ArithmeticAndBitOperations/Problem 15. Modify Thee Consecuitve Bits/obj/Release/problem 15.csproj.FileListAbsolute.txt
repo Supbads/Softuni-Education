@@ -1,0 +1,5 @@
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\problem 15\obj\Release\problem 15.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\problem 15\bin\Release\problem 15.dll
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\problem 15\bin\Release\problem 15.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\problem 15\obj\Release\problem 15.dll
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\problem 15\obj\Release\problem 15.pdb

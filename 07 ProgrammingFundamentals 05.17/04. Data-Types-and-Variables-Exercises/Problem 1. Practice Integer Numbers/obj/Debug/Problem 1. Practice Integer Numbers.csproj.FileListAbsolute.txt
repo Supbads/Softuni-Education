@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\obj\Debug\Problem 1. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\obj\Debug\Problem_1.Practice_Integer_Numbers.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 1. Practice Integer Numbers\obj\Debug\Problem_1.Practice_Integer_Numbers.pdb

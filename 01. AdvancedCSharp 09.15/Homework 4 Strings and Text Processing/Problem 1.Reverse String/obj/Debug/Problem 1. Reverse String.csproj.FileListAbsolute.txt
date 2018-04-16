@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 1.Reverse String\bin\Debug\Homework Strings and Text Processing.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 1.Reverse String\bin\Debug\Homework Strings and Text Processing.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 1.Reverse String\bin\Debug\Homework Strings and Text Processing.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 1.Reverse String\obj\Debug\Homework Strings and Text Processing.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 1.Reverse String\obj\Debug\Homework Strings and Text Processing.pdb

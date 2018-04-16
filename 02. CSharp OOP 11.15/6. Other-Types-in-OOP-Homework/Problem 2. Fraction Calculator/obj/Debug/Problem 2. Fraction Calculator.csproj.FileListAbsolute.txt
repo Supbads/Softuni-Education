@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\obj\Debug\Problem 2. Fraction Calculator.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\bin\Debug\Problem_2.Ladybugs.exe.config
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\bin\Debug\Problem_2.Ladybugs.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\bin\Debug\Problem_2.Ladybugs.pdb
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\obj\Debug\Problem 2. Ladybugs.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\obj\Debug\Problem_2.Ladybugs.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 2. Ladybugs\obj\Debug\Problem_2.Ladybugs.pdb

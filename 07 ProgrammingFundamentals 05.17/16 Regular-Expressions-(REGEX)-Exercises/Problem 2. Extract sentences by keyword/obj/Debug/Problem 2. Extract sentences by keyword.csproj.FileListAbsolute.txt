@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 2. Extract sentences by keyword\bin\Debug\Problem_2.Extract_sentences_by_keyword.exe.config
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 2. Extract sentences by keyword\bin\Debug\Problem_2.Extract_sentences_by_keyword.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 2. Extract sentences by keyword\bin\Debug\Problem_2.Extract_sentences_by_keyword.pdb
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 2. Extract sentences by keyword\obj\Debug\Problem_2.Extract_sentences_by_keyword.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 2. Extract sentences by keyword\obj\Debug\Problem_2.Extract_sentences_by_keyword.pdb

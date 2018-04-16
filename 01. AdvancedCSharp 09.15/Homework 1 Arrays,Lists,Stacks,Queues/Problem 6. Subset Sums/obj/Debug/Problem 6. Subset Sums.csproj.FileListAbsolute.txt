@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\bin\Debug\Problem_6.Subset_Sums.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\bin\Debug\Problem_6.Subset_Sums.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\bin\Debug\Problem_6.Subset_Sums.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\bin\Debug\Problem_6.Subset_Sums.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\obj\Debug\Problem_6.Subset_Sums.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 6. Subset Sums\obj\Debug\Problem_6.Subset_Sums.pdb

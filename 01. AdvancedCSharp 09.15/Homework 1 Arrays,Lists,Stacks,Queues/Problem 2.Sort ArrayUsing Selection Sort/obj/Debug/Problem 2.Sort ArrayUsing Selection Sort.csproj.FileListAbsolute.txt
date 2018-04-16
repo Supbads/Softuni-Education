@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\bin\Debug\Problem 2.Sort ArrayUsing Selection Sort.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\bin\Debug\Problem 2.Sort ArrayUsing Selection Sort.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\bin\Debug\Problem 2.Sort ArrayUsing Selection Sort.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\bin\Debug\Problem 2.Sort ArrayUsing Selection Sort.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\obj\Debug\Problem 2.Sort ArrayUsing Selection Sort.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 2.Sort ArrayUsing Selection Sort\obj\Debug\Problem 2.Sort ArrayUsing Selection Sort.pdb

@@ -1,0 +1,9 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\bin\Debug\Problem_6.EXCELlent_Knowledge.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\bin\Debug\Problem_6.EXCELlent_Knowledge.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\bin\Debug\Problem_6.EXCELlent_Knowledge.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\bin\Debug\EPPlus.dll
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\bin\Debug\EPPlus.xml
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\obj\Debug\Problem 6. EXCELlent Knowledge.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\obj\Debug\Problem_6.EXCELlent_Knowledge.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\obj\Debug\Problem_6.EXCELlent_Knowledge.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 6. EXCELlent Knowledge\obj\Debug\Problem 6. EXCELlent Knowledge.csproj.ResolveComReference.cache

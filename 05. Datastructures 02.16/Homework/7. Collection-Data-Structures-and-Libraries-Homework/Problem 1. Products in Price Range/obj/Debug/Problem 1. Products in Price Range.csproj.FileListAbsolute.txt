@@ -1,0 +1,8 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\bin\Debug\Problem_1.Products_in_Price_Range.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\bin\Debug\Problem_1.Products_in_Price_Range.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\bin\Debug\Problem_1.Products_in_Price_Range.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\obj\Debug\Problem 1. Products in Price Range.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\obj\Debug\Problem_1.Products_in_Price_Range.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Problem 1. Products in Price Range\obj\Debug\Problem_1.Products_in_Price_Range.pdb

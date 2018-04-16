@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem2. Vapor Store\bin\Debug\Problem2.Vapor_Store.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem2. Vapor Store\bin\Debug\Problem2.Vapor_Store.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem2. Vapor Store\bin\Debug\Problem2.Vapor_Store.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem2. Vapor Store\obj\Debug\Problem2.Vapor_Store.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem2. Vapor Store\obj\Debug\Problem2.Vapor_Store.pdb

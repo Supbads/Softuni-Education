@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe.config
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.pdb
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.pdb

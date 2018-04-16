@@ -1,0 +1,12 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem 6. Email Statistics.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem_6.Email_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem_6.Email_Statistics.pdb
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.exe.config
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\bin\Debug\Problem_6.Email_Statistics.pdb
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem 6. Email Statistics.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem_6.Email_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\17 Strings-and-Regular-Expressions-More-Exercises\Problem 6. Email Statistics\obj\Debug\Problem_6.Email_Statistics.pdb

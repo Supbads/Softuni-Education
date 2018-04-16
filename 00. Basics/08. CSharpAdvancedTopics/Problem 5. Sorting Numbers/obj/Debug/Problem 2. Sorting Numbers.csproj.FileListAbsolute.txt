@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem 2. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem_5.Sorting_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem_5.Sorting_Numbers.pdb

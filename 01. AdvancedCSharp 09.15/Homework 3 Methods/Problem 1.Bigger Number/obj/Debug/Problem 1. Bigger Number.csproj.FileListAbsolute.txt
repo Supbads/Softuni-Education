@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 2 Methods\Homework 2 Methods\bin\Debug\Homework 2 Methods.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\bin\Debug\Homework 2 Methods.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\bin\Debug\Homework 2 Methods.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\bin\Debug\Homework 2 Methods.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\obj\Debug\Problem 1. Bigger Number.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\obj\Debug\Homework 2 Methods.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Homework 2 Methods\obj\Debug\Homework 2 Methods.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\bin\Debug\Homework 2 Methods.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\bin\Debug\Homework 2 Methods.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\bin\Debug\Homework 2 Methods.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\obj\Debug\Problem 1. Bigger Number.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\obj\Debug\Homework 2 Methods.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 1.Bigger Number\obj\Debug\Homework 2 Methods.pdb

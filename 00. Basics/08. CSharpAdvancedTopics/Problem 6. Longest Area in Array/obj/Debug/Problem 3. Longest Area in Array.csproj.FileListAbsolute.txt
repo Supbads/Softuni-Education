@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 6. Longest Area in Array\obj\Debug\Problem_6.Longest_Area_in_Array.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 6. Longest Area in Array\obj\Debug\Problem_6.Longest_Area_in_Array.pdb

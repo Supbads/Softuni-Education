@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\bin\Debug\netcoreapp1.1\06. Remove Villain.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\bin\Debug\netcoreapp1.1\06. Remove Villain.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\bin\Debug\netcoreapp1.1\06. Remove Villain.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\bin\Debug\netcoreapp1.1\06. Remove Villain.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\obj\Debug\netcoreapp1.1\06. Remove Villain.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\bin\Debug\netcoreapp1.1\06. Remove Villain.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\obj\Debug\netcoreapp1.1\06. Remove Villain.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\obj\Debug\netcoreapp1.1\06. Remove Villain.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\06. Remove Villain\obj\Debug\netcoreapp1.1\06. Remove Villain.pdb

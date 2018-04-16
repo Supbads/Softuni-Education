@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\bin\Debug\Needles.exe.config
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\bin\Debug\Needles.exe
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\bin\Debug\Needles.pdb
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\obj\Debug\Needles.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\obj\Debug\Needles.exe
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Needles\obj\Debug\Needles.pdb

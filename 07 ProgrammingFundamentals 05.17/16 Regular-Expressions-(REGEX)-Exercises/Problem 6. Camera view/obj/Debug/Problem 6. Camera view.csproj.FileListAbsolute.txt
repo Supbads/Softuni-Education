@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\bin\Debug\Problem_6.Camera_view.exe.config
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\bin\Debug\Problem_6.Camera_view.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\bin\Debug\Problem_6.Camera_view.pdb
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\obj\Debug\Problem 6. Camera view.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\obj\Debug\Problem_6.Camera_view.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 6. Camera view\obj\Debug\Problem_6.Camera_view.pdb

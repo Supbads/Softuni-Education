@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\bin\Debug\Problem_7.Letters_change_Numbers.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\bin\Debug\Problem_7.Letters_change_Numbers.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\bin\Debug\Problem_7.Letters_change_Numbers.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\obj\Debug\Problem 7. Letters change Numbers.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\obj\Debug\Problem_7.Letters_change_Numbers.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 7. Letters change Numbers\obj\Debug\Problem_7.Letters_change_Numbers.pdb

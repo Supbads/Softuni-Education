@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\bin\Debug\Problem_2.Round_Dance.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\bin\Debug\Problem_2.Round_Dance.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\bin\Debug\Problem_2.Round_Dance.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\obj\Debug\Problem_2.Round_Dance.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\obj\Debug\Problem_2.Round_Dance.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 2. Round Dance\obj\Debug\Problem 2. Round Dance.csprojResolveAssemblyReference.cache

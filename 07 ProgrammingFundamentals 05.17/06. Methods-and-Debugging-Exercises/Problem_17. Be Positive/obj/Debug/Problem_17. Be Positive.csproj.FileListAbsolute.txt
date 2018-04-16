@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_17. Be Positive\bin\Debug\Problem_17.Be_Positive.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_17. Be Positive\bin\Debug\Problem_17.Be_Positive.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_17. Be Positive\bin\Debug\Problem_17.Be_Positive.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_17. Be Positive\obj\Debug\Problem_17.Be_Positive.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_17. Be Positive\obj\Debug\Problem_17.Be_Positive.pdb

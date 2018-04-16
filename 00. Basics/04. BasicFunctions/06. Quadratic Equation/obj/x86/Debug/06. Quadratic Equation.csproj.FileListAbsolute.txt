@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\06. Quadratic Equation\obj\x86\Debug\_06.Quadratic_Equation.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\06. Quadratic Equation\obj\x86\Debug\_06.Quadratic_Equation.pdb

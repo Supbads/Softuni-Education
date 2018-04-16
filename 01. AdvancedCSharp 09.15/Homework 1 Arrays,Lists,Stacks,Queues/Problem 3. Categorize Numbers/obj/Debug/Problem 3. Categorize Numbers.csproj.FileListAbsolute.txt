@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\obj\Debug\Problem 3. Categorize Numbers.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\obj\Debug\Problem_3.Categorize_Numbers.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 1 Arrays,Lists,Stacks,Queues\Problem 3. Categorize Numbers\obj\Debug\Problem_3.Categorize_Numbers.pdb

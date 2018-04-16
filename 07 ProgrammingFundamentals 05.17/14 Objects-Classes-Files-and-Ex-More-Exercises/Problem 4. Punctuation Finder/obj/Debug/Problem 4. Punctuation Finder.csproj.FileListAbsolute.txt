@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\bin\Debug\Problem_4.Punctuation_Finder.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\bin\Debug\Problem_4.Punctuation_Finder.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\bin\Debug\Problem_4.Punctuation_Finder.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\obj\Debug\Problem 4. Punctuation Finder.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\obj\Debug\Problem_4.Punctuation_Finder.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 4. Punctuation Finder\obj\Debug\Problem_4.Punctuation_Finder.pdb

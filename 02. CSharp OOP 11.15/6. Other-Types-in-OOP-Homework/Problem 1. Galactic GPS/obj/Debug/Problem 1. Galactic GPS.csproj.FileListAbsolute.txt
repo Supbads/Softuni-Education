@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\obj\Debug\Problem 1. Galactic GPS.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.pdb

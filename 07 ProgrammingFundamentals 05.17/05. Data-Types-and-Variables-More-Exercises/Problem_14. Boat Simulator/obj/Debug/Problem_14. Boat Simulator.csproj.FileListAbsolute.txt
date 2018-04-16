@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_14. Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_14. Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_14. Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_14. Boat Simulator\obj\Debug\Problem_14.Boat_Simulator.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_14. Boat Simulator\obj\Debug\Problem_14.Boat_Simulator.pdb

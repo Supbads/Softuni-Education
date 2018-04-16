@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\obj\Debug\Problem 2. Vehicle Catalogue.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\obj\Debug\Problem_2.Vehicle_Catalogue.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 2. Vehicle Catalogue\obj\Debug\Problem_2.Vehicle_Catalogue.pdb

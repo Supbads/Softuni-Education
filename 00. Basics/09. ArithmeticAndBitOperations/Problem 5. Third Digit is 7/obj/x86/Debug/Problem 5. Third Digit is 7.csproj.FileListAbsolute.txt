@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 5. Third Digit is 7\obj\x86\Debug\Problem_5.Third_Digit_is_7.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 5. Third Digit is 7\obj\x86\Debug\Problem_5.Third_Digit_is_7.pdb

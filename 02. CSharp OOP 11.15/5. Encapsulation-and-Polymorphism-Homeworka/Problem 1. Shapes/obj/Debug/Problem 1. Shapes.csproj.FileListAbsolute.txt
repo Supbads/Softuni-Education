@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\obj\Debug\Problem 1. Shapes.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.pdb

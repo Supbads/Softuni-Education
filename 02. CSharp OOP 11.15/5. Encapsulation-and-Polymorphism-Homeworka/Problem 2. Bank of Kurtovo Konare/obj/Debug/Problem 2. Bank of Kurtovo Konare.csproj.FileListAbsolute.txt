@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem 2. Bank of Kurtovo Konare.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem_2.Bank_of_Kurtovo_Konare.pdb

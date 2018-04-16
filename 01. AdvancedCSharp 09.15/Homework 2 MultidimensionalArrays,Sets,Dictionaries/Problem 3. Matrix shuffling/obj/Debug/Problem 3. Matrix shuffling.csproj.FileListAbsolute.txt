@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem 3. Matrix shuffling.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.pdb

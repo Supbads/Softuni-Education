@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\bin\Debug\_09.Sum_of_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\bin\Debug\_09.Sum_of_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\obj\x86\Debug\_09.Sum_of_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\09. Sum of Numbers\obj\x86\Debug\_09.Sum_of_Numbers.pdb

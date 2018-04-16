@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 8. EmployeeData\bin\Debug\Problem_8.EmployeeData.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 8. EmployeeData\bin\Debug\Problem_8.EmployeeData.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 8. EmployeeData\bin\Debug\Problem_8.EmployeeData.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 8. EmployeeData\obj\Debug\Problem_8.EmployeeData.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 8. EmployeeData\obj\Debug\Problem_8.EmployeeData.pdb

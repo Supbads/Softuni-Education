@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\bin\Debug\Problem_3.Nether_Realms.exe.config
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\bin\Debug\Problem_3.Nether_Realms.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\bin\Debug\Problem_3.Nether_Realms.pdb
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\obj\Debug\Problem 3. Nether Realms.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\obj\Debug\Problem_3.Nether_Realms.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 3. Nether Realms\obj\Debug\Problem_3.Nether_Realms.pdb

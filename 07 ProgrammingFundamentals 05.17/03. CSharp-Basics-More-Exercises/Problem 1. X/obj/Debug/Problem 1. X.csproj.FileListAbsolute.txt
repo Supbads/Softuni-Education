@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\bin\Debug\Problem_1.X.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\bin\Debug\Problem_1.X.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\bin\Debug\Problem_1.X.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\obj\Debug\Problem 1. X.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\obj\Debug\Problem_1.X.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution2\Problem 1. X\obj\Debug\Problem_1.X.pdb

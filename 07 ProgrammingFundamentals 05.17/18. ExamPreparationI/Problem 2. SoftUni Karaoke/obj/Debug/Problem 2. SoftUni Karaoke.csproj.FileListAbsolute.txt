@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\obj\Debug\Problem 2. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

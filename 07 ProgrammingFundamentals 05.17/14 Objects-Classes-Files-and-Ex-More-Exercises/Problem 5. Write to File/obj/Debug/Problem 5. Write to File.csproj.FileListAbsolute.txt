@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.exe.config
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\obj\Debug\Problem_5.Write_to_File.exe
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\obj\Debug\Problem_5.Write_to_File.pdb
+F:\zUniversity\Prog Fundamentals\hw\14 Objects-Classes-Files-and-Ex-More-Exercises\Problem 5. Write to File\obj\Debug\Problem 5. Write to File.csprojResolveAssemblyReference.cache

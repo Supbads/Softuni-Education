@@ -1,0 +1,7 @@
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+D:\SoftUni\Algorithms\3. Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb

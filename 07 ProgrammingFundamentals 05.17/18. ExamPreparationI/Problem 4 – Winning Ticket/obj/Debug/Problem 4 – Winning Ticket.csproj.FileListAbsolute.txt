@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe.config
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.pdb
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\bin\Debug\Problem_4.Average_Grades.exe.config
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\bin\Debug\Problem_4.Average_Grades.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\bin\Debug\Problem_4.Average_Grades.pdb
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\obj\Debug\Problem 4. Average Grades.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\obj\Debug\Problem_4.Average_Grades.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 4. Average Grades\obj\Debug\Problem_4.Average_Grades.pdb

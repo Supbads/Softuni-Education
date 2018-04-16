@@ -1,0 +1,12 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\obj\Debug\Problem 1. Class Student.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 7 Functional Programming\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\03. Code-Formatting-Homework\Formatted-Homework\Problem 1. Class Student\obj\Debug\Problem 1. Class Student.csprojResolveAssemblyReference.cache

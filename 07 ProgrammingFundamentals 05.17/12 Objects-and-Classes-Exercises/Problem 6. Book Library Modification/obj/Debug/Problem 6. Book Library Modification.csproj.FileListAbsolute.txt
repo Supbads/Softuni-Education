@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.exe.config
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.pdb
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\obj\Debug\Problem 6. Book Library Modification.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\obj\Debug\Problem_6.Book_Library_Modification.exe
+F:\zUniversity\Prog Fundamentals\hw\12 Objects-and-Classes-Exercises\Problem 6. Book Library Modification\obj\Debug\Problem_6.Book_Library_Modification.pdb

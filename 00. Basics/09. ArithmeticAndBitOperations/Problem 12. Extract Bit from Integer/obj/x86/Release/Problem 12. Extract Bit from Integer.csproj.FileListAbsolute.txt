@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\bin\Release\Problem_12.Extract_Bit_from_Integer.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\bin\Release\Problem_12.Extract_Bit_from_Integer.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\obj\x86\Release\Problem_12.Extract_Bit_from_Integer.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\obj\x86\Release\Problem_12.Extract_Bit_from_Integer.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\obj\x86\Release\Problem_12.Extract_Bit_from_Integer.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 12. Extract Bit from Integer\obj\x86\Release\Problem_12.Extract_Bit_from_Integer.pdb

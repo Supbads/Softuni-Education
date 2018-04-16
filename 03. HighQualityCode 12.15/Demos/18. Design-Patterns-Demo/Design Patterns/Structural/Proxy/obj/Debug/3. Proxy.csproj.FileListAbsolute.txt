@@ -1,0 +1,1 @@
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Proxy\bin\Debug\ProxyPattern.exe.config

@@ -1,0 +1,10 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\Problem_3.Collection_of_Products.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\Problem_3.Collection_of_Products.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\Problem_3.Collection_of_Products.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\Problem_2.Implement_BiDictionary.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\Problem_2.Implement_BiDictionary.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\obj\Debug\Problem 3. Collection of Products.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\obj\Debug\Problem_3.Collection_of_Products.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\10. Data-Structure-Efficiency-Homework\Problem 3. Collection of Products\obj\Debug\Problem_3.Collection_of_Products.pdb

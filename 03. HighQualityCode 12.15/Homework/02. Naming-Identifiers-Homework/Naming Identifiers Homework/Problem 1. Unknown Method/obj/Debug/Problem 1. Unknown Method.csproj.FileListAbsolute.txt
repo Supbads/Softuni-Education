@@ -1,0 +1,9 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\Problem 1. Unknown Method.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 1. Unknown Method\bin\Debug\ConsoleApplication1.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 1. Unknown Method\obj\Debug\ConsoleApplication1.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 1. Unknown Method\obj\Debug\ConsoleApplication1.pdb

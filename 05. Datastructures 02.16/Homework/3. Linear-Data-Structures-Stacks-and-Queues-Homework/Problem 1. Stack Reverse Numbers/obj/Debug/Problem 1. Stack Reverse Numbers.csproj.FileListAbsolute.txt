@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\bin\Debug\Problem_1.Stack_Reverse_Numbers.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\bin\Debug\Problem_1.Stack_Reverse_Numbers.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\bin\Debug\Problem_1.Stack_Reverse_Numbers.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\obj\Debug\Problem 1. Stack Reverse Numbers.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\obj\Debug\Problem_1.Stack_Reverse_Numbers.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 1. Stack Reverse Numbers\obj\Debug\Problem_1.Stack_Reverse_Numbers.pdb

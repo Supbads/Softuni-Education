@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\bin\Release\Problem_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\bin\Release\Problem_13.Check_a_Bit_at_Given_Position.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\obj\x86\Release\Problem_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\obj\x86\Release\Problem_13.Check_a_Bit_at_Given_Position.pdb
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\obj\x86\Release\Problem_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\UniUser\Downloads\Homework-Supbads-Operators and Expressions\Homework #5\Homework 5\Problem 13. Check a Bit at Given Position\obj\x86\Release\Problem_13.Check_a_Bit_at_Given_Position.pdb

@@ -1,0 +1,24 @@
+cd ../../xampp/htdocs/my-first-syfony-project php bin/console server:run
+cd ../../xampp/htdocs/my-first-syfony-project php bin/console server:status
+
+php bin/console server:run
+ctrl shift x
+or through the console in phpstorm
+
+
+
+
+php bin/console doctrine:schema:update --force
+
+/**  (2x*)  neccessary!
+ /link/link ! imprtant as well
+
+
+
+ Entitys -> delete ->
+ctrl shift x
+ php bin/console doctrine:generate:entity
+ AppBundle:Article
+ bundle + entity name
+
+php bin/console doctrine:generate:form AppBundle:Task  (as a parameter)

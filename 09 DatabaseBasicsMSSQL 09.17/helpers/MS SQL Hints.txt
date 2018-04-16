@@ -1,0 +1,154 @@
+SELECT CountryName, CountryCode,
+CASE CurrencyCode
+WHEN 'EUR' THEN 'Euro'
+ELSE 'Not Euro'
+END AS Currency
+FROM Countries
+ORDER BY CountryName
+
+
+CREATE PROC p_Withdraw @AccountId INT, @Amount DECIMAL(15, 2) AS
+BEGIN
+	DECLARE @OldBalance DECIMAL(15, 2)
+	SELECT @OldBalance = Balance FROM Accounts WHERE Id = @AccountId
+	IF (@OldBalance - @Amount >= 0)
+	BEGIN
+		UPDATE Accounts
+		SET Balance -= @Amount
+		WHERE Id = @AccountId
+	END
+	ELSE
+	BEGIN
+		RAISERROR('Insufficient funds', 10, 1)
+	END
+END
+
+CREATE FUNCTION f_CalculateTotalBalance(@ClientId INT)
+RETURNS DECIMAL (15,2)
+BEGIN
+	DECLARE @result AS DECIMAL (15,2) = (
+		SELECT SUM(Balance)
+		FROM Accounts WHERE @ClientId = ClientId
+	)
+	RETURN @result
+END
+
+
+CREATE TRIGGER tr_Transaction ON Accounts
+AFTER UPDATE
+AS 
+	INSERT INTO Transactions ( AccountId, OldBalance, NewBalance, [DateTime])
+	SELECT inserted.Id, deleted.Balance, inserted.Balance, GETDATE() FROM inserted
+	JOIN deleted ON inserted.Id = deleted.id
+
+
+--JOIN
+CREATE VIEW v_ClientBalance AS
+SELECT (FirstName + ' ' + LastName) AS [Name],
+(AccountTypes.Name) AS [Account Type], 
+Balance
+FROM Clients
+JOIN Accounts ON Accounts.ClientId = Clients.Id
+JOIN AccountTypes ON Accounts.AccountTypeId = AccountTypes.Id
+Go
+
+
+--CREATE VIEW v_ClientBalance AS
+--SELECT (FirstName + ' ' + LastName) AS [Name],
+--(AccountTypes.Name) AS [Account Type], 
+--Balance
+--FROM Clients
+--JOIN Accounts ON Clients.Id = Accounts.ClientId
+--JOIN AccountTypes ON AccountTypes.Id = Accounts.AccountTypeId
+
+
+--gucci hack for dropping a constraint
+DECLARE @ConstraintName nvarchar(200)
+SELECT @ConstraintName = Name FROM SYS.DEFAULT_CONSTRAINTS WHERE PARENT_OBJECT_ID = OBJECT_ID('Users') AND PARENT_COLUMN_ID = (SELECT column_id FROM sys.columns WHERE NAME = N'Id' AND object_id = OBJECT_ID(N'Users'))
+IF @ConstraintName IS NOT NULL
+EXEC('ALTER TABLE Users DROP CONSTRAINT ' + @ConstraintName)
+
+
+--primary key shenanigans (Composite key (unique combination))
+CREATE TABLE ...(
+...
+CONSTRAINT PK_Users PRIMARY KEY(Id)
+)
+ALTER TABLE Users
+DROP CONSTRAINT PK_Users
+ALTER TABLE Users
+ADD CONSTRAINT PK_Users PRIMARY KEY (Id, Username)
+
+
+--Default value constraint
+ALTER TABLE Users
+ADD CONSTRAINT ck_DefaultTime DEFAULT GETDATE() FOR LastLoginTime
+
+
+
+--Insert into something set to have an Identity
+SET IDENTITY_INSERT Minions ON
+INSERT INTO Minions (Id, Name)
+VALUES (5, 'Pesho')
+SET IDENTITY_INSERT Minions OFF  --MANDATORY!
+
+-- use of case in projection
+SELECT Name AS Game,
+Case 
+WHEN DATEPART(HOUR,G.Start) Between 0 and 11 Then 'Morning'
+WHEN DATEPART(HOUR,G.Start) Between 12 and 17 Then 'Afternoon'
+WHEN DATEPART(HOUR,G.Start) Between 18 and 23 Then 'Evening'
+END AS [Part of the Day],
+Case
+WHEN G.Duration <= 3 THEN 'Extra Short'
+WHEN G.Duration Between 4 AND 6 THEN 'Short'
+WHEN G.Duration > 6 THEN 'Long'
+ELSE 'Extra Long'
+END as [Duration]
+     FROM Games AS G
+ORDER BY Game, Duration,  [Part of the Day]
+
+
+-- DENSERANK example
+SELECT *,Salaries.DepartmentID, Salaries.Salary FROM
+(
+SELECT DepartmentId,
+MAX(Salary) AS Salary,
+DENSE_RANK() OVER (PARTITION BY DepartmentId ORDER BY Salary DESC) AS Rank
+FROM Employees
+GROUP BY DepartmentID, Salary
+)AS Salaries 
+WHERE Rank=3
+
+--bigger than average of the same department
+SELECT TOP 10 FirstName, LastName, DepartmentID FROM Employees AS emp1
+WHERE Salary >
+(SELECT AVG(Salary) FROM Employees AS emp2
+WHERE emp1.DepartmentID = emp2.DepartmentID
+GROUP BY DepartmentID)
+ORDER BY DepartmentID
+
+SQL CONSTRAINTS
+NOT NULL - Ensures that a column cannot have a NULL value
+UNIQUE - Ensures that all values in a column are different
+PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+FOREIGN KEY - Uniquely identifies a row/record in another table
+CHECK - Ensures that all values in a column satisfies a specific condition
+DEFAULT - Sets a default value for a column when no value is specified
+INDEX - Use to create and retrieve data from the database very quickly
+
+--ALTER TABLE ADDING IDENTITY
+Approach 2 (New column) You can’t retain the existing data values on the newly created identity column, The identity column will hold the sequence of number.
+
+Alter Table Names
+Add Id_new Int Identity(1, 1)
+Go
+
+Alter Table Names Drop Column ID
+Go
+
+Exec sp_rename 'Names.Id_new', 'ID', 'Column'
+
+
+--Checking the number of altered rows
+@@ROWCOUNT

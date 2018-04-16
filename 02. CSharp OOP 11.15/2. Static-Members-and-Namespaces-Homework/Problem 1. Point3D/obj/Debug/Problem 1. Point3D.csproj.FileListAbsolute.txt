@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\obj\Debug\Problem 1. Point3D.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\obj\Debug\Problem_1.Point3D.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\obj\Debug\Problem_1.Point3D.pdb

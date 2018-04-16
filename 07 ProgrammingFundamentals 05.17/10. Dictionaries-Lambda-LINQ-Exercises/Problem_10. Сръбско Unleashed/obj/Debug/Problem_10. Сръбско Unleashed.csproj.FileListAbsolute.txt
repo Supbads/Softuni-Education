@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\bin\Debug\Problem_10.Сръбско_Unleashed.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\bin\Debug\Problem_10.Сръбско_Unleashed.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\bin\Debug\Problem_10.Сръбско_Unleashed.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\obj\Debug\Problem_10. Сръбско Unleashed.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\obj\Debug\Problem_10.Сръбско_Unleashed.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_10. Сръбско Unleashed\obj\Debug\Problem_10.Сръбско_Unleashed.pdb

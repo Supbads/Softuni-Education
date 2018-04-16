@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\bin\Debug\Problem_1.Extract_emails.exe.config
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\bin\Debug\Problem_1.Extract_emails.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\bin\Debug\Problem_1.Extract_emails.pdb
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\obj\Debug\Problem 1. Extract emails.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\obj\Debug\Problem_1.Extract_emails.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 1. Extract emails\obj\Debug\Problem_1.Extract_emails.pdb

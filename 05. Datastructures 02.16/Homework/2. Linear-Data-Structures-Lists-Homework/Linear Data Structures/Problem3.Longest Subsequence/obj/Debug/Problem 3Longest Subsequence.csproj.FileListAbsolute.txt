@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem3.Longest Subsequence\bin\Debug\Problem3.Longest Subsequence.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem3.Longest Subsequence\obj\Debug\Problem3.Longest Subsequence.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem3.Longest Subsequence\obj\Debug\Problem3.Longest Subsequence.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem3.Longest Subsequence\bin\Debug\Problem3.Longest Subsequence.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem3.Longest Subsequence\bin\Debug\Problem3.Longest Subsequence.pdb

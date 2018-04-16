@@ -1,0 +1,20 @@
+<input type="text" id="time" style="border:3px solid blue; text-align:center; font-size:2em;" disabled="true"/>
+<script>
+	window.onload = function() {
+		countdown(600);
+	};
+	
+	function countdown(startTime) {
+		let currentTime = startTime;
+		let timer = document.getElementById('time');
+		timer.value = Math.trunc(currentTime/60) + ':' + ('0' + (currentTime % 60)).slice(-2);
+		
+		let intervalID = setInterval(decrement, 1000);
+		
+		function decrement() {
+			currentTime--;
+			
+			timer.value = Math.trunc(currentTime/60) + ':' + ('0' + (currentTime % 60)).slice(-2);
+		}
+	}
+</script>

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\5. Graphs-and-Graph-Algorithms-Homework\Problem 2. Areas in Matrix\bin\Debug\Problem_2.Areas_in_Matrix.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\5. Graphs-and-Graph-Algorithms-Homework\Problem 2. Areas in Matrix\bin\Debug\Problem_2.Areas_in_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\5. Graphs-and-Graph-Algorithms-Homework\Problem 2. Areas in Matrix\bin\Debug\Problem_2.Areas_in_Matrix.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\5. Graphs-and-Graph-Algorithms-Homework\Problem 2. Areas in Matrix\obj\Debug\Problem_2.Areas_in_Matrix.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\5. Graphs-and-Graph-Algorithms-Homework\Problem 2. Areas in Matrix\obj\Debug\Problem_2.Areas_in_Matrix.pdb

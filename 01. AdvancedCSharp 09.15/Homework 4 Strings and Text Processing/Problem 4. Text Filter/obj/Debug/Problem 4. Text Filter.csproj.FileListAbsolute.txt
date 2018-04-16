@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 4. Text Filter\obj\Debug\Problem_4.Text_Filter.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 4. Text Filter\obj\Debug\Problem_4.Text_Filter.pdb

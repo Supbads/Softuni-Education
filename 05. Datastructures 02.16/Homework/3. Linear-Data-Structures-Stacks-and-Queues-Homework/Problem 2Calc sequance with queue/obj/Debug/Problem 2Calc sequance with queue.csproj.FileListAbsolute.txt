@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 2Calc sequance with queue\bin\Debug\Problem 2Calc sequance with queue.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 2Calc sequance with queue\bin\Debug\Problem 2Calc sequance with queue.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 2Calc sequance with queue\bin\Debug\Problem 2Calc sequance with queue.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 2Calc sequance with queue\obj\Debug\Problem 2Calc sequance with queue.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 2Calc sequance with queue\obj\Debug\Problem 2Calc sequance with queue.pdb

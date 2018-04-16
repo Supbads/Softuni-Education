@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb

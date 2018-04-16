@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 4. Fix Emails\obj\Debug\Problem_4.Fix_Emails.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 4. Fix Emails\obj\Debug\Problem_4.Fix_Emails.pdb

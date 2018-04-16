@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem_7.Matrix_of_Palindromes.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem_7.Matrix_of_Palindromes.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 8 Csharp Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem 4. Matrix of Palindromes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\bin\Debug\Problem_3.Phonebook.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\bin\Debug\Problem_3.Phonebook.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\bin\Debug\Problem_3.Phonebook.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\bin\Debug\HashTable.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\bin\Debug\HashTable.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\obj\Debug\Problem 3. Phonebook.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\obj\Debug\Problem_3.Phonebook.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\6. Dictionaries-and-Hash-Tables-Homework\Problem 3. Phonebook\obj\Debug\Problem_3.Phonebook.pdb

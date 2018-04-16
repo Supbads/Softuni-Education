@@ -1,0 +1,9 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Problem 2. LINQ Queries.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 2. LINQ Queries\bin\Debug\Orders.exe.config
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 2. LINQ Queries\obj\Debug\Orders.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Problem 2. LINQ Queries\obj\Debug\Orders.pdb

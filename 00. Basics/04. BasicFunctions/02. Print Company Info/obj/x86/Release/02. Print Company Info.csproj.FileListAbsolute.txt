@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\02. Print Company Info\bin\Release\_02.Print_Company_Info.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\02. Print Company Info\bin\Release\_02.Print_Company_Info.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\02. Print Company Info\obj\x86\Release\_02.Print_Company_Info.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\02. Print Company Info\obj\x86\Release\_02.Print_Company_Info.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\02. Print Company Info\obj\x86\Release\_02.Print_Company_Info.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #4\02. Print Company Info\obj\x86\Release\_02.Print_Company_Info.pdb

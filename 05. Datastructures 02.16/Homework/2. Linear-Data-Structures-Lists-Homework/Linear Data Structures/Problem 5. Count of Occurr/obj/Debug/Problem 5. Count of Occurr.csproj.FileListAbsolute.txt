@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\bin\Debug\Problem_5.Count_of_Occurr.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\bin\Debug\Problem_5.Count_of_Occurr.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\bin\Debug\Problem_5.Count_of_Occurr.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\obj\Debug\Problem 5. Count of Occurr.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\obj\Debug\Problem_5.Count_of_Occurr.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 5. Count of Occurr\obj\Debug\Problem_5.Count_of_Occurr.pdb

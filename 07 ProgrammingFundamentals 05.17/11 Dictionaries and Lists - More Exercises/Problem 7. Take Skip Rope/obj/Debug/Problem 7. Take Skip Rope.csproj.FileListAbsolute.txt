@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.exe.config
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.pdb
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\obj\Debug\Problem 7. Take Skip Rope.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\obj\Debug\Problem_7.Take_Skip_Rope.exe
+F:\zUniversity\Prog Fundamentals\hw\11 Dictionaries and Lists - More Exercises\Problem 7. Take Skip Rope\obj\Debug\Problem_7.Take_Skip_Rope.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\bin\Debug\Problem_7.Weather.exe.config
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\bin\Debug\Problem_7.Weather.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\bin\Debug\Problem_7.Weather.pdb
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\obj\Debug\Problem 7. Weather.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\obj\Debug\Problem_7.Weather.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 7. Weather\obj\Debug\Problem_7.Weather.pdb

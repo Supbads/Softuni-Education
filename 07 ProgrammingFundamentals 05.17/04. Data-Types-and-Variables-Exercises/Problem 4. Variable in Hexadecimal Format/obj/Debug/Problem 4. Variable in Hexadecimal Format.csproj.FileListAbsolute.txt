@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe.config
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+F:\zUniversity\Prog Fundamentals\hw\04. Data-Types-and-Variables-Exercises\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb

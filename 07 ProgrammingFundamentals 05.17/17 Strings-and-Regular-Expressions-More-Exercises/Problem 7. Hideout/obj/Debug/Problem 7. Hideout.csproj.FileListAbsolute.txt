@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\bin\Debug\Problem_7.Hideout.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\bin\Debug\Problem_7.Hideout.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\bin\Debug\Problem_7.Hideout.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\obj\Debug\Problem 7. Hideout.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\obj\Debug\Problem_7.Hideout.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 7. Hideout\obj\Debug\Problem_7.Hideout.pdb

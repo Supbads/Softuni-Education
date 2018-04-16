@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\07. Sum of 5 Numbers\obj\x86\Debug\_07.Sum_of_5_Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\07. Sum of 5 Numbers\obj\x86\Debug\_07.Sum_of_5_Numbers.pdb

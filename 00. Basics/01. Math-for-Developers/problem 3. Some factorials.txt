@@ -1,0 +1,42 @@
+using System;
+using System.Text;
+using System.Numerics;
+
+namespace example_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            BigInteger i = 101;
+            BigInteger a = 171;
+            BigInteger b = 250;
+            int counter;
+            for (counter = 1 ; counter < 250 ; counter++)
+            {
+                i *= counter;
+                if ((counter >= 101 ))
+                {
+                    i = i / counter;
+                }
+
+                a *= counter;
+
+                if ((counter >= 171 ))
+                {
+                    a = a / counter ;
+                }
+
+                b *= counter ;
+
+            }
+            Console.WriteLine("101! is equal to {0} \n\n 171! is equal to {1} \n\n 250! is equal to {2}", i, a, b);
+
+
+
+
+
+        }
+    }
+}

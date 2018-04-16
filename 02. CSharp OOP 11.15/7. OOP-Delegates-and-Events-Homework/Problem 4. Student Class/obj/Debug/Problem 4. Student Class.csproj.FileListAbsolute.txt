@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\bin\Debug\Problem_4.Student_Class.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\bin\Debug\Problem_4.Student_Class.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\bin\Debug\Problem_4.Student_Class.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\obj\Debug\Problem 4. Student Class.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\obj\Debug\Problem_4.Student_Class.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\7. OOP-Delegates-and-Events-Homework\Problem 4. Student Class\obj\Debug\Problem_4.Student_Class.pdb

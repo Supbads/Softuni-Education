@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 2. Permutations Iteratively\bin\Debug\Problem_2.Permutations_Iteratively.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 2. Permutations Iteratively\bin\Debug\Problem_2.Permutations_Iteratively.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 2. Permutations Iteratively\bin\Debug\Problem_2.Permutations_Iteratively.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 2. Permutations Iteratively\obj\Debug\Problem_2.Permutations_Iteratively.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 2. Permutations Iteratively\obj\Debug\Problem_2.Permutations_Iteratively.pdb

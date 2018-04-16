@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\bin\Debug\Problem_1.Permutations.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\bin\Debug\Problem_1.Permutations.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\bin\Debug\Problem_1.Permutations.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\obj\Debug\Problem 1. Permutations.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\obj\Debug\Problem_1.Permutations.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\2. Combinatorial-Algorithms-Homework\Problem 1. Permutations\obj\Debug\Problem_1.Permutations.pdb

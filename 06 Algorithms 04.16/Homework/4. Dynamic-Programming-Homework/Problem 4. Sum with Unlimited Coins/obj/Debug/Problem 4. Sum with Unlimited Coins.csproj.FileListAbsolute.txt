@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\bin\Debug\Problem_4.Sum_with_Unlimited_Coins.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\bin\Debug\Problem_4.Sum_with_Unlimited_Coins.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\bin\Debug\Problem_4.Sum_with_Unlimited_Coins.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\obj\Debug\Problem 4. Sum with Unlimited Coins.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\obj\Debug\Problem_4.Sum_with_Unlimited_Coins.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\4. Dynamic-Programming-Homework\Problem 4. Sum with Unlimited Coins\obj\Debug\Problem_4.Sum_with_Unlimited_Coins.pdb

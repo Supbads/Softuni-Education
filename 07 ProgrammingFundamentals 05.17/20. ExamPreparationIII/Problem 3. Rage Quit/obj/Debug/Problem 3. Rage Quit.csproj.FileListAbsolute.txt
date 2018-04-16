@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\bin\Debug\Problem_3.Rage_Quit.exe.config
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\bin\Debug\Problem_3.Rage_Quit.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\bin\Debug\Problem_3.Rage_Quit.pdb
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\obj\Debug\Problem_3.Rage_Quit.exe
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\obj\Debug\Problem_3.Rage_Quit.pdb
+F:\zUniversity\Prog Fundamentals\hw\20. ExamPreparationIII\Problem 3. Rage Quit\obj\Debug\Problem 3. Rage Quit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_14. Trailing Zeroes\obj\Debug\Problem_14.Trailing_Zeroes.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_14. Trailing Zeroes\obj\Debug\Problem_14.Trailing_Zeroes.pdb

@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 2. Nested Loops To Recursion\bin\Debug\Problem_2.Nested_Loops_To_Recursion.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 2. Nested Loops To Recursion\bin\Debug\Problem_2.Nested_Loops_To_Recursion.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 2. Nested Loops To Recursion\bin\Debug\Problem_2.Nested_Loops_To_Recursion.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 2. Nested Loops To Recursion\obj\Debug\Problem_2.Nested_Loops_To_Recursion.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 2. Nested Loops To Recursion\obj\Debug\Problem_2.Nested_Loops_To_Recursion.pdb

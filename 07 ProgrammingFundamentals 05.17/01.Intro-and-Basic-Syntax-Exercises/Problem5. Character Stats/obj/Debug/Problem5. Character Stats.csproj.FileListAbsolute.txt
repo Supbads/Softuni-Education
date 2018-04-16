@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem5. Character Stats\bin\Debug\Problem5.Character_Stats.exe.config
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem5. Character Stats\bin\Debug\Problem5.Character_Stats.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem5. Character Stats\bin\Debug\Problem5.Character_Stats.pdb
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem5. Character Stats\obj\Debug\Problem5.Character_Stats.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem5. Character Stats\obj\Debug\Problem5.Character_Stats.pdb

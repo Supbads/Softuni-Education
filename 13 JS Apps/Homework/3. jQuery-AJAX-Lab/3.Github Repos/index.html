@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>GitHub Repos</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+GitHub username:
+<input type="text" id="username" value="k1r1L" />
+<button onclick="loadRepos()">Load Repos</button>
+<ul id="repos">
+	<li>
+		<a href="{repo.html_url}">
+			{repo.full_name}
+		</a>
+	</li>
+</ul>
+<script>
+	function loadRepos() {
+		let username = $('#username').val();
+		$('#repos').empty();
+		
+		let targetUrl = "https://api.github.com/users/" + username + '/repos';
+		
+		$.ajax({url: targetUrl,
+			success: displayRepos,
+			error: displayError});
+		
+		
+		function displayRepos(repos) {
+			for (let repo of repos) {
+				let repoName = repo['full_name'];
+				let repoUrl = repo['html_url'];
+				
+				let li = $(`<li></li>`);
+				let redirectAnchor = $(`<a href="${repoUrl}">${repoName}</a>`);
+				li.append(redirectAnchor);
+				
+				$('#repos').append(li);
+			}
+		}
+		function displayError(error) {
+			$('#repos').append($('<li>Error</li>'));
+		}
+	}
+</script>
+</body>
+</html>

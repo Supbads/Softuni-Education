@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.pdb

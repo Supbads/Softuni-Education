@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem 2. String Length.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.pdb

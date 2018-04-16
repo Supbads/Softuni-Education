@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.exe.config
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.pdb
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\obj\Debug\Problem 3. Unicode Characters.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\obj\Debug\Problem_3.Unicode_Characters.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 3. Unicode Characters\obj\Debug\Problem_3.Unicode_Characters.pdb

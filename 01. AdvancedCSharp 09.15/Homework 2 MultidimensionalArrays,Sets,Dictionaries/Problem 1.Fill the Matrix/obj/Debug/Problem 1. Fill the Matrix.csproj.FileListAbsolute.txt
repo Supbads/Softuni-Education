@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Multidimensional Arrays Sets Dictionaries.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Multidimensional Arrays Sets Dictionaries.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\bin\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Multidimensional Arrays Sets Dictionaries\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\obj\Debug\Multidimensional Arrays Sets Dictionaries.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\obj\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\bin\Debug\Multidimensional Arrays Sets Dictionaries.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\bin\Debug\Multidimensional Arrays Sets Dictionaries.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 1.Fill the Matrix\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache

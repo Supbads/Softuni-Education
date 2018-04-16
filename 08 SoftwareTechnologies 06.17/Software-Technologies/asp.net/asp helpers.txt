@@ -1,0 +1,2 @@
+Enable-Migrations -EnableAutomaticMigrations -Force
+view -> other windows -> package manager

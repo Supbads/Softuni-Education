@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem2. Rectangle Area\bin\Debug\Problem2.Rectangle_Area.exe.config
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem2. Rectangle Area\bin\Debug\Problem2.Rectangle_Area.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem2. Rectangle Area\bin\Debug\Problem2.Rectangle_Area.pdb
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem2. Rectangle Area\obj\Debug\Problem2.Rectangle_Area.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem2. Rectangle Area\obj\Debug\Problem2.Rectangle_Area.pdb

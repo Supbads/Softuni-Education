@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 3. Game Engine\bin\Debug\TheSlum.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 3. Game Engine\bin\Debug\TheSlum.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 3. Game Engine\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 3. Game Engine\obj\Debug\TheSlum.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\5. Encapsulation-and-Polymorphism-Homeworka\Problem 3. Game Engine\obj\Debug\TheSlum.pdb

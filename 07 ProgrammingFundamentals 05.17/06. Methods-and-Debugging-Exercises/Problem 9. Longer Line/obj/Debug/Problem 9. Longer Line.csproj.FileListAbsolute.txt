@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\bin\Debug\Problem_9.Longer_Line.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\bin\Debug\Problem_9.Longer_Line.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\bin\Debug\Problem_9.Longer_Line.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\obj\Debug\Problem 9. Longer Line.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\obj\Debug\Problem_9.Longer_Line.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem 9. Longer Line\obj\Debug\Problem_9.Longer_Line.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\bin\Debug\Problem_5.Hands_of_Cards.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\bin\Debug\Problem_5.Hands_of_Cards.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\bin\Debug\Problem_5.Hands_of_Cards.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\obj\Debug\Problem 5. Hands of Cards.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\obj\Debug\Problem_5.Hands_of_Cards.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 5. Hands of Cards\obj\Debug\Problem_5.Hands_of_Cards.pdb

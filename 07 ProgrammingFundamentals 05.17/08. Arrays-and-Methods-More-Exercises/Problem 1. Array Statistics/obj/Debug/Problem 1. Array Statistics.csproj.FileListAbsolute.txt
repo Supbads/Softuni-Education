@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe.config
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.pdb
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\obj\Debug\Problem 1. Array Statistics.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.pdb

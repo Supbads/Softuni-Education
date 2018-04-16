@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 7\bin\Debug\Problem 7.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 7\obj\Debug\Problem 7.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 7\obj\Debug\Problem 7.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 7\bin\Debug\Problem 7.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 7\bin\Debug\Problem 7.pdb

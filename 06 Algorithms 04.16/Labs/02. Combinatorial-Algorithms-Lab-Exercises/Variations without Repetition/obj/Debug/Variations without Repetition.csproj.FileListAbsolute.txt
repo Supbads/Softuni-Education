@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Variations without Repetition\bin\Debug\Variations without Repetition.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Variations without Repetition\bin\Debug\Variations without Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Variations without Repetition\bin\Debug\Variations without Repetition.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Variations without Repetition\obj\Debug\Variations without Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Variations without Repetition\obj\Debug\Variations without Repetition.pdb

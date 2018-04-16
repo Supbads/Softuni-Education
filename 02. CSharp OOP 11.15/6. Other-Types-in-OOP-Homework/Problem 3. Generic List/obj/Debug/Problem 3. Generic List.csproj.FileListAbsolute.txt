@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\bin\Debug\Problem_3.Generic_List.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\bin\Debug\Problem_3.Generic_List.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\bin\Debug\Problem_3.Generic_List.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\obj\Debug\Problem 3. Generic List.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\obj\Debug\Problem_3.Generic_List.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\6. Other-Types-in-OOP-Homework\Problem 3. Generic List\obj\Debug\Problem_3.Generic_List.pdb

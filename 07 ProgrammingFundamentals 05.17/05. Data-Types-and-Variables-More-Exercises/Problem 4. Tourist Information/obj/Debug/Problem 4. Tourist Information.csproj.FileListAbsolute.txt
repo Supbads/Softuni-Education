@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\obj\Debug\Problem_4.Tourist_Information.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\obj\Debug\Problem_4.Tourist_Information.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 4. Tourist Information\obj\Debug\Problem 4. Tourist Information.csprojResolveAssemblyReference.cache

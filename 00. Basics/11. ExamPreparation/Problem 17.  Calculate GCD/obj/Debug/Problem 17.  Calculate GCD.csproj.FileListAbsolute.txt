@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\obj\Debug\Problem 17.  Calculate GCD.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 17.  Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.pdb

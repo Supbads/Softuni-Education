@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="5f298169-443c-42a3-8acc-ef558b536b6c" Title="Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="12fb7c4f-79cd-4ed1-bcf9-2f84a04a2ad9" Title="Blobs" Url="html/22700952-2b37-b040-2434-fdf5232fef60.htm">
+      <HelpTOCNode Id="67245048-dac5-4521-8b7e-f961a64eb2e2" Title="BlobsApplication Class" Url="html/60d75897-f4b0-41d2-5edb-b90f88759e3e.htm">
+        <HelpTOCNode Title="BlobsApplication Constructor " Url="html/4326a05c-6372-07b0-66f7-ec4b454bcc08.htm" />
+        <HelpTOCNode Title="BlobsApplication Methods" Url="html/7f8107c9-2aea-b58a-ba9b-3c98cebd806e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b4b273d1-0c1e-42e1-992a-ca355e58c61f" Title="Blobs.Core" Url="html/01d48f96-1802-830c-be15-ef76df0bdb55.htm">
+      <HelpTOCNode Id="854b7568-0815-4639-bcc5-b4cd0dc20fb1" Title="BlobData Class" Url="html/3fee1245-212b-238c-a07d-3e769c7ca537.htm">
+        <HelpTOCNode Title="BlobData Constructor " Url="html/c3ff773b-2ed7-08c6-b230-c8951a2f0c7b.htm" />
+        <HelpTOCNode Id="55f5c027-0a03-4c72-8196-9ec605369b0b" Title="BlobData Properties" Url="html/e48fa2ea-3c7f-80c8-e363-4cfb7135c0ba.htm">
+          <HelpTOCNode Title="Blobs Property " Url="html/9d2d8ca1-817a-efec-4010-bf503bb0b0e7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="73e8b5ae-0e6b-48c4-b3be-f7a898415fb6" Title="BlobData Methods" Url="html/8b78e832-e3f6-5191-156a-246b5957ffff.htm">
+          <HelpTOCNode Title="AddBlob Method " Url="html/81491ddf-ba7b-9e8a-8846-4f5d2f34557e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="47fe7803-c4e9-4920-87fa-86d52ece37fa" Title="Engine Class" Url="html/3ac852a7-44ec-73f6-66de-5bcc0ffadba4.htm">
+        <HelpTOCNode Title="Engine Constructor " Url="html/0f769197-2d46-bdd3-e672-8e4ebfa44a52.htm" />
+        <HelpTOCNode Id="25a137e9-e239-4cbf-b361-7e5db89a04f0" Title="Engine Methods" Url="html/e07928df-b310-3498-5e2c-a339a81111b5.htm">
+          <HelpTOCNode Title="ExecuteInput Method " Url="html/63836f51-36b4-35d1-bc61-2e931e6a36b6.htm" />
+          <HelpTOCNode Title="Run Method " Url="html/0b798088-4a5b-bd6e-37b1-3e6ff13f2b99.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e48b7a80-d209-49a7-93e3-b7d7ddfefc53" Title="Blobs.Core.Factories" Url="html/089f1484-c706-bbb9-3e92-180528ba52b0.htm">
+      <HelpTOCNode Id="99458cb5-6d65-46a1-ade7-4ef6feafd178" Title="AttackFactory Class" Url="html/edb65f7f-91a2-c49b-aaf2-fc9d39cb1ff3.htm">
+        <HelpTOCNode Title="AttackFactory Constructor " Url="html/9455f8e8-1d67-2cf2-d279-f14cd431a214.htm" />
+        <HelpTOCNode Id="b9400972-1f70-4662-9a3f-7f6801d6af3f" Title="AttackFactory Methods" Url="html/96cf24b0-814a-3215-6164-45321a78ecf3.htm">
+          <HelpTOCNode Title="Create Method " Url="html/0905ba84-8a98-fa66-a635-693b96da6b49.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ddb09ff9-06a0-4b6e-815b-ffbc75b8136d" Title="BehaviorFactory Class" Url="html/1c160072-937c-aec5-099a-82bb3d75f1a1.htm">
+        <HelpTOCNode Title="BehaviorFactory Constructor " Url="html/bcc04f70-bd34-69f5-b65b-96a89731422f.htm" />
+        <HelpTOCNode Id="3b805d80-1e3b-432b-9f79-3f890e86ecfa" Title="BehaviorFactory Methods" Url="html/bf04d416-c816-0003-7c20-b79f9ffc6323.htm">
+          <HelpTOCNode Title="Create Method " Url="html/1fee80c8-d3ad-5d10-1cdd-aae78bdf6a9b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc9f4308-dd24-41f4-a354-9a5e26c5336b" Title="BlobFactory Class" Url="html/494cf624-a5b9-e560-1063-f935e463808b.htm">
+        <HelpTOCNode Title="BlobFactory Constructor " Url="html/e7fa298e-54be-8a5d-779d-107c6b14ec66.htm" />
+        <HelpTOCNode Id="39f91ecb-303f-49b4-a62e-40914d6fe918" Title="BlobFactory Methods" Url="html/5f48e4e8-295a-8f20-da9f-6b10be39d6c6.htm">
+          <HelpTOCNode Title="Create Method " Url="html/d49c187c-be51-6472-e9e3-015b5dc0a088.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="378bd78c-721b-47f8-b743-7d40ee562918" Title="Blobs.Interfaces" Url="html/61641359-c494-ee0a-7040-256b4408c0e6.htm">
+      <HelpTOCNode Id="dc7789e7-338c-46a6-aa6a-592d74ec207c" Title="IAttack Interface" Url="html/64a52e8f-3024-2879-b679-7831ee4fda06.htm">
+        <HelpTOCNode Id="b70ec8a5-f4e4-4990-b45c-16b3ddd049c1" Title="IAttack Methods" Url="html/5c1da2ff-96a2-aa26-b486-c8a605f82e62.htm">
+          <HelpTOCNode Title="ExecuteAttack Method " Url="html/3ec5f2dc-1741-b95b-9000-8d151a826f0e.htm" />
+          <HelpTOCNode Title="ExecuteEffectsOnAttacker Method " Url="html/e72ef3a8-e007-9d96-e21b-6928a690fe28.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9df20edf-71a2-4129-8bab-bf9e6ae71608" Title="IAttackable Interface" Url="html/b1e34e3f-5b65-e475-95c2-d455eee2759a.htm">
+        <HelpTOCNode Id="433f69f9-f8d0-46a6-b2ca-b54c638e37a9" Title="IAttackable Methods" Url="html/bbe289c6-9a4f-dace-f5a5-35012cb8ce8b.htm">
+          <HelpTOCNode Title="Respond Method " Url="html/e05f35a1-8d75-0f1a-20ca-b74f089583a8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1a259024-7b38-447d-aaec-40c9d6e375a6" Title="IAttackable Events" Url="html/38bbd097-447e-f3e5-12ba-9dae135fb7b5.htm">
+          <HelpTOCNode Title="OnBlobDead Event" Url="html/549e4b47-3e12-40a4-f437-08b0d7f7da44.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="697658ac-e674-44be-b9d4-52d3b1a621ad" Title="IAttacker Interface" Url="html/800926ab-b778-f103-9c0d-fc2075796fc7.htm">
+        <HelpTOCNode Id="0459562c-a7f3-44d7-9e4e-b784e9fdecaa" Title="IAttacker Methods" Url="html/282dd511-130a-49bb-4d0a-7695d99e1ce2.htm">
+          <HelpTOCNode Title="PerformAttack Method " Url="html/24d18073-5e96-9409-ccef-6e7bb919dc1d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="df285d79-017c-407e-973a-ba59666b3e76" Title="IAttackFactory Interface" Url="html/ac4ccdc4-4ea1-b403-751c-d5fae26d68cd.htm">
+        <HelpTOCNode Id="2c71c50a-55ee-4e5e-afbe-16746798883e" Title="IAttackFactory Methods" Url="html/ae9d7969-7d63-0ff7-ada0-bceff0eb8d25.htm">
+          <HelpTOCNode Title="Create Method " Url="html/0cb25c65-8e1f-78bd-72c5-eb96b5719033.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cf574806-2a52-4287-bf7f-6e6d3ba50eab" Title="IBehavior Interface" Url="html/6556116c-9e9d-24f0-ae38-e1409fa22996.htm">
+        <HelpTOCNode Id="083aacfa-f86f-40ea-a310-41c86d9cda3a" Title="IBehavior Properties" Url="html/3afcdd46-6e3c-f808-cac5-ba870a30c684.htm">
+          <HelpTOCNode Title="AlreadyTriggered Property " Url="html/a04d3ef4-81e5-0509-c44b-318958e40a95.htm" />
+          <HelpTOCNode Title="IsTriggered Property " Url="html/a392219f-46e4-dc4d-8d80-685b8a536cb7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4dbec850-d1f4-4ba5-a26d-4d14b293e41a" Title="IBehavior Methods" Url="html/f760600b-ef36-4912-4a4b-bd3293d57b06.htm">
+          <HelpTOCNode Title="PerformNegativeEffects Method " Url="html/bbde4b26-b5ed-51a2-2b55-64335aa3ec5b.htm" />
+          <HelpTOCNode Title="Trigger Method " Url="html/8379b3b0-5a77-aa0a-89d3-53ec754241b3.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6ca1123-c19d-4ee9-be2d-4e82b74274f4" Title="IBehaviorFactory Interface" Url="html/2777beaa-a231-621d-eab3-8536c12f5da8.htm">
+        <HelpTOCNode Id="8e17e2e9-ca7f-405b-bbb3-936a5be152a6" Title="IBehaviorFactory Methods" Url="html/57d5431d-5264-44b7-280f-5ee7b6e49c54.htm">
+          <HelpTOCNode Title="Create Method " Url="html/7856847e-dcc9-d1af-237d-f1122f0a01cb.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b41555c-598a-4f37-b449-e6ff50a4cd8e" Title="IBlob Interface" Url="html/214ced96-f2fc-e984-56c3-10421ab2b86a.htm">
+        <HelpTOCNode Id="c7d71def-90a3-41c0-98af-a4902d826713" Title="IBlob Properties" Url="html/5ce32dee-b87e-5734-7cb7-74189381866d.htm">
+          <HelpTOCNode Title="Attack Property " Url="html/bb44e602-298e-664f-c720-0a615d5ee213.htm" />
+          <HelpTOCNode Title="Behavior Property " Url="html/ba6f818f-7589-b8c1-b5a8-da8f754eacbd.htm" />
+          <HelpTOCNode Title="Damage Property " Url="html/9bd10ccd-db8d-6ad4-f853-3fd56aa94eb6.htm" />
+          <HelpTOCNode Title="Health Property " Url="html/9769ea57-a303-b1a9-050b-7c0721c74427.htm" />
+          <HelpTOCNode Title="IsAlive Property " Url="html/8f79ca55-2879-d8d9-1261-d58fd6866023.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/8bb81758-ecf0-18ea-199f-8e0c48a8999f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IBlob Methods" Url="html/e09d38bb-d65c-2c6a-a959-8693d68891aa.htm" />
+        <HelpTOCNode Id="0a1b18f2-cd63-456d-a1c5-1059b8c78544" Title="IBlob Events" Url="html/d4b5b1df-4dd8-3557-fe5a-5a629829f788.htm">
+          <HelpTOCNode Title="OnBehaviorToggled Event" Url="html/f2a0ff7c-41f1-0aee-3ee7-287b99ce30f4.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="42c3875d-e254-4739-aeb9-2adbe856fffd" Title="IBlobData Interface" Url="html/5af645dc-1868-87f6-10ad-f497e1bfba89.htm">
+        <HelpTOCNode Id="9d563781-155f-4c3b-a0da-beaf11aa9727" Title="IBlobData Properties" Url="html/51c5bc09-4a97-51ee-cb58-8f93f9282b4e.htm">
+          <HelpTOCNode Title="Blobs Property " Url="html/645dce2d-940c-63e2-6530-1d3c59d17374.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="df610481-2429-4a2c-a287-4ee6064bebf0" Title="IBlobData Methods" Url="html/e086b722-b3ca-9e5c-9b30-d543eb0bdd1a.htm">
+          <HelpTOCNode Title="AddBlob Method " Url="html/c82184e3-bf03-a740-b35a-0161ad891494.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="71fcc693-733c-4418-8716-54e159f30016" Title="IBlobFactory Interface" Url="html/6714ffa6-33b3-9f10-570e-6ee6d2dc0c9d.htm">
+        <HelpTOCNode Id="10cab63e-a176-4ead-9557-8d301cfd1f02" Title="IBlobFactory Methods" Url="html/10fad3ed-5743-1f82-a855-9629566e584f.htm">
+          <HelpTOCNode Title="Create Method " Url="html/dfdef7e0-8adc-c528-e016-96b3735ecde7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1086acb9-34d7-4ae8-8a5f-b2ff757e0b91" Title="IInputReader Interface" Url="html/a4d4bc45-dc2c-757e-f764-e76e1227fc89.htm">
+        <HelpTOCNode Id="82c75259-0ad1-4681-a722-e4ea510d0e63" Title="IInputReader Methods" Url="html/d685435b-62dd-60a5-6829-1b2b43b7ae57.htm">
+          <HelpTOCNode Title="Read Method " Url="html/6f7913f2-8b12-3e25-7e94-b35d08e684ed.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a5eef21-1eb7-4a58-aa96-963bef302b64" Title="IOutputWriter Interface" Url="html/4928e3e6-3e9f-4a1b-0105-796ae72bfb6d.htm">
+        <HelpTOCNode Id="114f5719-8d24-4b34-b0cd-528d3bbf53de" Title="IOutputWriter Methods" Url="html/87a81759-a6ba-e7d7-16d4-b91a908e1d27.htm">
+          <HelpTOCNode Title="Write Method " Url="html/7acac051-88fa-b566-f928-1a73d60ca154.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c3435211-ab4e-4a40-965c-b8116fb3b1c6" Title="IRunnable Interface" Url="html/4c1c635d-efc9-752f-da80-93c8d458e1c9.htm">
+        <HelpTOCNode Id="f68cfd94-31e8-432e-8d70-4d2cae70dd53" Title="IRunnable Methods" Url="html/a7b6acc8-7cf0-149c-a6f2-af7fefc14bcc.htm">
+          <HelpTOCNode Title="Run Method " Url="html/cc533272-9c0c-7cc0-c612-1d8ce251f311.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="718a6f29-b025-439a-836e-8e09fd4e9e3f" Title="IUpdateable Interface" Url="html/a041d5a2-6920-cb3f-cf26-7261bd767cea.htm">
+        <HelpTOCNode Id="618c453b-cd49-45fe-9f4b-d115652d3402" Title="IUpdateable Methods" Url="html/1fdd0d44-3afe-5bcf-2697-c9481607038f.htm">
+          <HelpTOCNode Title="Update Method " Url="html/ab973447-31b4-3f47-6028-4bcecedd7384.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2e09b6de-3641-44a5-bbcf-815626e86ff9" Title="Blobs.IO" Url="html/e5ae95e6-dc8f-62aa-0b81-b6a7cc1166eb.htm">
+      <HelpTOCNode Id="43bbde05-2263-4337-aecb-6633b652f60e" Title="ConsoleInputReader Class" Url="html/5a18310f-9939-7716-9e21-eccb2493b744.htm">
+        <HelpTOCNode Title="ConsoleInputReader Constructor " Url="html/a1449f5a-1369-6b7b-6c57-99ed6dbcdc40.htm" />
+        <HelpTOCNode Id="6fd9b822-e12b-4642-832e-8d4efbc3cb17" Title="ConsoleInputReader Methods" Url="html/a28a4f2e-0c44-e83e-a0a8-60dd2a8195a1.htm">
+          <HelpTOCNode Title="Read Method " Url="html/03aba31a-7c14-4e42-7a97-0dcc9c1e4daf.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4165a987-71b8-4a3c-90a9-5160b8f43cce" Title="ConsoleOutputWriter Class" Url="html/1f2a3859-d714-178b-c60d-b7d9fcf1f719.htm">
+        <HelpTOCNode Title="ConsoleOutputWriter Constructor " Url="html/ce1f7b0e-0a2d-4498-f724-ba64d47517fd.htm" />
+        <HelpTOCNode Id="e0f1e8fb-0a3d-41a3-bbe6-796457b3af1c" Title="ConsoleOutputWriter Methods" Url="html/482ffaa5-70b3-7c60-56ad-76b3e9bec2b4.htm">
+          <HelpTOCNode Title="Write Method " Url="html/abbb5ec1-6af9-19d9-7304-02c6cc48253e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="761d242e-63a5-4af4-922a-76682710262e" Title="Blobs.Models" Url="html/7cde4f97-7770-774f-a0b9-62f9a63e8619.htm">
+      <HelpTOCNode Id="04433733-2802-4d61-9750-5ee2cb5b33fe" Title="Blob Class" Url="html/c9abb8bf-db1d-9dec-6366-4ec78614a92d.htm">
+        <HelpTOCNode Title="Blob Constructor " Url="html/14ec7a18-0914-62b1-d5dd-58ead5e46eed.htm" />
+        <HelpTOCNode Id="50644021-5624-480f-b79b-21ecdf496ed2" Title="Blob Properties" Url="html/6067786a-8cfc-38cd-c4d2-7081bfcfe330.htm">
+          <HelpTOCNode Title="Attack Property " Url="html/1e89c684-1c84-34f9-c15d-c2ddbed8797f.htm" />
+          <HelpTOCNode Title="Behavior Property " Url="html/18fb799c-626d-ba18-a812-278ae31dcd23.htm" />
+          <HelpTOCNode Title="Damage Property " Url="html/4a949807-f02c-7a64-6258-c8c5bd4b4fea.htm" />
+          <HelpTOCNode Title="Health Property " Url="html/417776aa-6997-17af-1df4-adcd22a6cdb5.htm" />
+          <HelpTOCNode Title="IsAlive Property " Url="html/c0f7c804-bf62-6d1b-fb7d-3879bdf23f4a.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/96bdf3eb-713b-4471-9d34-73f0c097f893.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b989fed7-fde3-43e1-a8e3-a5f403a29ca0" Title="Blob Methods" Url="html/0df76538-2b8c-b1be-6498-c7c6ae3fb602.htm">
+          <HelpTOCNode Title="PerformAttack Method " Url="html/3637234e-1fb0-509f-52cf-8779617c7f3a.htm" />
+          <HelpTOCNode Title="Respond Method " Url="html/c3984b7a-def7-4ba5-3100-77c02531f35f.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/c3a46cd5-ad48-1e79-be15-d938e2cf6c39.htm" />
+          <HelpTOCNode Title="Update Method " Url="html/0fce4ed0-3225-66dc-39d2-848c9306c0aa.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b9460fdc-1308-4df9-b51a-7e17ed4df31b" Title="Blob Events" Url="html/7b1d2829-ad3e-239f-df49-1ac939fc867f.htm">
+          <HelpTOCNode Title="OnBehaviorToggled Event" Url="html/4b949561-9504-37dd-00e3-247afaaa9cd8.htm" />
+          <HelpTOCNode Title="OnBlobDead Event" Url="html/e884e1c7-111d-4be8-5243-a5e7540ebb3d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6166e314-7022-4b2a-ba99-f2ed9eadfca5" Title="Blobs.Models.Attacks" Url="html/3d2110ff-2a8b-117b-1c75-23d7d3eec13d.htm">
+      <HelpTOCNode Id="ca02e06b-b453-4486-b620-36756af98507" Title="BaseAttack Class" Url="html/3f810856-a944-3c3b-d59c-1fa5ed337503.htm">
+        <HelpTOCNode Title="BaseAttack Constructor " Url="html/6e851872-65aa-527b-33aa-e2ab612bf3a7.htm" />
+        <HelpTOCNode Id="0a0f3bb4-a3f1-4fe8-94b2-74a9931ebf03" Title="BaseAttack Methods" Url="html/e877d8ae-d906-dba6-8d4b-6d0823c3eeb4.htm">
+          <HelpTOCNode Title="ExecuteAttack Method " Url="html/d6292835-8aeb-f5f6-88e6-a6c1fd6aa69b.htm" />
+          <HelpTOCNode Title="ExecuteEffectsOnAttacker Method " Url="html/721821eb-5c72-7319-2099-6696213830fb.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9812e901-80da-467c-b4fb-f713363c5308" Title="Blobplode Class" Url="html/12e5b2a6-3edb-c3df-1949-f81dc3d8b79e.htm">
+        <HelpTOCNode Title="Blobplode Constructor " Url="html/ee2f3598-224a-5791-3728-08d13c7db0bc.htm" />
+        <HelpTOCNode Id="01c4405a-e11b-43c9-85b2-efd0fcda8379" Title="Blobplode Methods" Url="html/0590f143-2009-9258-8cbb-96546ced096c.htm">
+          <HelpTOCNode Title="ExecuteAttack Method " Url="html/ebd25cb5-ee36-fc23-e74f-d878d4d2c740.htm" />
+          <HelpTOCNode Title="ExecuteEffectsOnAttacker Method " Url="html/534719c2-de56-0023-20ce-9609f12cf962.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bcc4512a-bb3a-4c9f-8108-883ec72ce6fb" Title="PutridFart Class" Url="html/820e50c4-e2da-4885-e445-455c19efa862.htm">
+        <HelpTOCNode Title="PutridFart Constructor " Url="html/49c671c2-776c-dac2-e40b-5cc3208dae2d.htm" />
+        <HelpTOCNode Id="ae5ff027-d5ed-4e4a-833a-a5275a0f8208" Title="PutridFart Methods" Url="html/a3f81c93-2f83-d193-cdce-8fb1a97346cc.htm">
+          <HelpTOCNode Title="ExecuteAttack Method " Url="html/497eb9c0-b74b-10f5-297b-e4d801f58a27.htm" />
+          <HelpTOCNode Title="ExecuteEffectsOnAttacker Method " Url="html/fc769ad7-8d38-00e7-3850-2f954101c8fe.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c34099a4-fdd7-48ab-91c9-fccb785e099e" Title="Blobs.Models.Behaviors" Url="html/55961ee7-b484-c832-7a0d-0a1e17bbd677.htm">
+      <HelpTOCNode Id="40bc2d13-5cba-48a6-95ce-a25cb82eafa9" Title="Aggressive Class" Url="html/78f8cba7-4934-564b-1d00-8cfae68b039d.htm">
+        <HelpTOCNode Title="Aggressive Constructor " Url="html/550ba246-ec59-2ce6-882e-928c11355ec7.htm" />
+        <HelpTOCNode Title="Aggressive Properties" Url="html/968f6e6b-7ea5-1233-3257-c5025d282a22.htm" />
+        <HelpTOCNode Id="d3875c35-1547-409b-8446-dfa49de83b79" Title="Aggressive Methods" Url="html/b76cb579-3391-9800-ad3f-13b143b2c027.htm">
+          <HelpTOCNode Title="PerformNegativeEffects Method " Url="html/a00e6a77-40ed-cc70-1670-ad93f8edfd9c.htm" />
+          <HelpTOCNode Title="Trigger Method " Url="html/a71b1d52-9407-5160-7712-ecf6d73513ff.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2974a902-3bf5-4334-bc7c-2d14508a6de4" Title="BaseBehavior Class" Url="html/2b2ca8c9-5d5a-f0c9-6988-d1c526dd87a8.htm">
+        <HelpTOCNode Title="BaseBehavior Constructor " Url="html/0781b5a8-6479-a8f7-5d19-418233beca41.htm" />
+        <HelpTOCNode Id="37492a7c-2b71-42d2-99b0-4bf86eaf748f" Title="BaseBehavior Properties" Url="html/fd9988bc-9ef2-a09d-888a-13a758585258.htm">
+          <HelpTOCNode Title="AlreadyTriggered Property " Url="html/ef84348c-2f91-5ef4-1d62-65ad96eec02d.htm" />
+          <HelpTOCNode Title="IsTriggered Property " Url="html/d8be53b6-4904-1971-2290-8783a5aa3c30.htm" />
+          <HelpTOCNode Title="ShouldDelayBeforeExecution Property " Url="html/3642d8c8-6c4c-1e93-1839-eecefe482b11.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="dc602a92-21d4-4919-b2b0-8cb8bdd0f3ca" Title="BaseBehavior Methods" Url="html/accfdf92-101b-c26c-5471-e16a8e84f220.htm">
+          <HelpTOCNode Title="PerformNegativeEffects Method " Url="html/111aaaa3-2748-b53d-da7a-db48c6ed225d.htm" />
+          <HelpTOCNode Title="Trigger Method " Url="html/0dbbc4f3-ee37-6d74-4365-50c922fef14d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="be3bd33d-719b-4bae-ae71-70cf891876c6" Title="BaseBehavior Fields" Url="html/fb767b52-852d-c8e1-1f6c-eac3d1017faf.htm">
+          <HelpTOCNode Title="ExceptionMessage Field" Url="html/a2bc74cb-c76d-b223-ac85-7a1aeddb77b7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="04c5e3d9-a099-44f7-b080-924afdd6aa44" Title="Inflated Class" Url="html/480a19e7-2ee5-21bf-e020-b36d206faa71.htm">
+        <HelpTOCNode Title="Inflated Constructor " Url="html/e846fe6a-7bfa-2b49-df0e-3551e78f2b53.htm" />
+        <HelpTOCNode Title="Inflated Properties" Url="html/144c6bb6-2362-e20a-11ff-45a209fbc6b8.htm" />
+        <HelpTOCNode Id="78856f91-7974-49cf-a2a8-43eb27b537fb" Title="Inflated Methods" Url="html/83d46960-301e-c8eb-d2a8-1218445390a7.htm">
+          <HelpTOCNode Title="PerformNegativeEffects Method " Url="html/23589019-458d-fdd9-f2f9-9b82cac42675.htm" />
+          <HelpTOCNode Title="Trigger Method " Url="html/563ccd16-1956-ac62-ef20-2ae3649391f3.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b1f6a006-1372-4c19-8a23-698eaf79fe6f" Title="Blobs.Models.EventHandlers" Url="html/5f19bfff-1b6e-f4c3-3b62-e4f43354be1f.htm">
+      <HelpTOCNode Title="BehaviorToggledEventHandler Delegate" Url="html/b372f2dc-878e-ee6f-fbca-ece38c14362a.htm" />
+      <HelpTOCNode Title="BlobDeadEventHandler Delegate" Url="html/0adc8051-afb5-8b65-69a0-3789a2a800c4.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6094b563-6fba-4b1e-8fc6-7780ef8aa2a8" Title="Blobs.Models.Events" Url="html/a8c8d870-2767-3fe3-639d-89319f8fcd3f.htm">
+      <HelpTOCNode Id="af03f8c1-6761-440b-a5d3-592b1480070e" Title="BehaviorToggledEventArgs Class" Url="html/676afac2-8e57-f2ab-1b50-bf34a14ce26e.htm">
+        <HelpTOCNode Title="BehaviorToggledEventArgs Constructor " Url="html/3ee5b286-d89d-4880-f254-63234a5ea32c.htm" />
+        <HelpTOCNode Id="70778aa6-b13c-42f9-8526-18ff72be8de8" Title="BehaviorToggledEventArgs Properties" Url="html/e893dd65-35f7-3573-d8d7-0e7f68a7fbea.htm">
+          <HelpTOCNode Title="Message Property " Url="html/a3bbe79c-ba6b-b9c2-daab-9d36d7e5919b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BehaviorToggledEventArgs Methods" Url="html/c5466706-838e-4c08-ca24-39f6242f352b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb53f072-e97e-40c2-b9c3-4ce11dc6a685" Title="BlobDeadEventArgs Class" Url="html/12d785b9-96fc-fe67-c3df-e9523bdb1588.htm">
+        <HelpTOCNode Title="BlobDeadEventArgs Constructor " Url="html/2bc5018b-4946-8fef-69fa-4e55a5bac603.htm" />
+        <HelpTOCNode Id="8e07cd78-e15f-4798-9d41-0520bd4797b0" Title="BlobDeadEventArgs Properties" Url="html/7675c448-80c0-1e67-3541-4cceada99564.htm">
+          <HelpTOCNode Title="Message Property " Url="html/66609027-7afb-b82b-3e7d-53a23d81b37c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BlobDeadEventArgs Methods" Url="html/4d134462-e05c-6f5c-e7e3-e33ff7d0f9f7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

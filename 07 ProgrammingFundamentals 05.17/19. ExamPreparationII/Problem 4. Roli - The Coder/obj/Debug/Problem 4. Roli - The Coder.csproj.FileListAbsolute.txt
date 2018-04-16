@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\bin\Debug\Problem_4.Roli___The_Coder.exe.config
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\bin\Debug\Problem_4.Roli___The_Coder.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\bin\Debug\Problem_4.Roli___The_Coder.pdb
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\obj\Debug\Problem 4. Roli - The Coder.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\obj\Debug\Problem_4.Roli___The_Coder.exe
+F:\zUniversity\Prog Fundamentals\hw\19. ExamPreparationII\Problem 4. Roli - The Coder\obj\Debug\Problem_4.Roli___The_Coder.pdb

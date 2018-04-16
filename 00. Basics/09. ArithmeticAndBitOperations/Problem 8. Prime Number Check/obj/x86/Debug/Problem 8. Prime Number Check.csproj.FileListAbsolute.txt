@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 8. Prime Number Check\obj\x86\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\USER\Desktop\Universitet\Domashni\Homework #5\Homework 5\Problem 8. Prime Number Check\obj\x86\Debug\Problem_8.Prime_Number_Check.pdb

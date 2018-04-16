@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Email Me\bin\Debug\Problem_2.Email_Me.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Email Me\bin\Debug\Problem_2.Email_Me.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Email Me\bin\Debug\Problem_2.Email_Me.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Email Me\obj\Debug\Problem_2.Email_Me.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 2. Email Me\obj\Debug\Problem_2.Email_Me.pdb

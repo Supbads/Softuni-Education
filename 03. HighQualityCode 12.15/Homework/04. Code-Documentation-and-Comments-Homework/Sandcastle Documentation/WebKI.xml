@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddBlob method">
+    <HelpKINode Title="BlobData.AddBlob Method " Url="html/81491ddf-ba7b-9e8a-8846-4f5d2f34557e.htm" />
+    <HelpKINode Title="IBlobData.AddBlob Method " Url="html/c82184e3-bf03-a740-b35a-0161ad891494.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Aggressive class">
+    <HelpKINode Title="Aggressive Class" Url="html/78f8cba7-4934-564b-1d00-8cfae68b039d.htm" />
+    <HelpKINode Title="about Aggressive class" Url="html/78f8cba7-4934-564b-1d00-8cfae68b039d.htm" />
+    <HelpKINode Title="constructor" Url="html/550ba246-ec59-2ce6-882e-928c11355ec7.htm" />
+    <HelpKINode Title="methods" Url="html/b76cb579-3391-9800-ad3f-13b143b2c027.htm" />
+    <HelpKINode Title="properties" Url="html/968f6e6b-7ea5-1233-3257-c5025d282a22.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Aggressive.Aggressive constructor" Url="html/550ba246-ec59-2ce6-882e-928c11355ec7.htm" />
+  <HelpKINode Title="Aggressive.PerformNegativeEffects method" Url="html/a00e6a77-40ed-cc70-1670-ad93f8edfd9c.htm" />
+  <HelpKINode Title="Aggressive.Trigger method" Url="html/a71b1d52-9407-5160-7712-ecf6d73513ff.htm" />
+  <HelpKINode Title="AlreadyTriggered property">
+    <HelpKINode Title="BaseBehavior.AlreadyTriggered Property " Url="html/ef84348c-2f91-5ef4-1d62-65ad96eec02d.htm" />
+    <HelpKINode Title="IBehavior.AlreadyTriggered Property " Url="html/a04d3ef4-81e5-0509-c44b-318958e40a95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Attack property">
+    <HelpKINode Title="Blob.Attack Property " Url="html/1e89c684-1c84-34f9-c15d-c2ddbed8797f.htm" />
+    <HelpKINode Title="IBlob.Attack Property " Url="html/bb44e602-298e-664f-c720-0a615d5ee213.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttackFactory class">
+    <HelpKINode Title="AttackFactory Class" Url="html/edb65f7f-91a2-c49b-aaf2-fc9d39cb1ff3.htm" />
+    <HelpKINode Title="about AttackFactory class" Url="html/edb65f7f-91a2-c49b-aaf2-fc9d39cb1ff3.htm" />
+    <HelpKINode Title="constructor" Url="html/9455f8e8-1d67-2cf2-d279-f14cd431a214.htm" />
+    <HelpKINode Title="methods" Url="html/96cf24b0-814a-3215-6164-45321a78ecf3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttackFactory.AttackFactory constructor" Url="html/9455f8e8-1d67-2cf2-d279-f14cd431a214.htm" />
+  <HelpKINode Title="AttackFactory.Create method" Url="html/0905ba84-8a98-fa66-a635-693b96da6b49.htm" />
+  <HelpKINode Title="BaseAttack class">
+    <HelpKINode Title="BaseAttack Class" Url="html/3f810856-a944-3c3b-d59c-1fa5ed337503.htm" />
+    <HelpKINode Title="about BaseAttack class" Url="html/3f810856-a944-3c3b-d59c-1fa5ed337503.htm" />
+    <HelpKINode Title="constructor" Url="html/6e851872-65aa-527b-33aa-e2ab612bf3a7.htm" />
+    <HelpKINode Title="methods" Url="html/e877d8ae-d906-dba6-8d4b-6d0823c3eeb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseAttack.BaseAttack constructor" Url="html/6e851872-65aa-527b-33aa-e2ab612bf3a7.htm" />
+  <HelpKINode Title="BaseAttack.ExecuteAttack method" Url="html/d6292835-8aeb-f5f6-88e6-a6c1fd6aa69b.htm" />
+  <HelpKINode Title="BaseAttack.ExecuteEffectsOnAttacker method" Url="html/721821eb-5c72-7319-2099-6696213830fb.htm" />
+  <HelpKINode Title="BaseBehavior class">
+    <HelpKINode Title="BaseBehavior Class" Url="html/2b2ca8c9-5d5a-f0c9-6988-d1c526dd87a8.htm" />
+    <HelpKINode Title="about BaseBehavior class" Url="html/2b2ca8c9-5d5a-f0c9-6988-d1c526dd87a8.htm" />
+    <HelpKINode Title="constructor" Url="html/0781b5a8-6479-a8f7-5d19-418233beca41.htm" />
+    <HelpKINode Title="fields" Url="html/fb767b52-852d-c8e1-1f6c-eac3d1017faf.htm" />
+    <HelpKINode Title="methods" Url="html/accfdf92-101b-c26c-5471-e16a8e84f220.htm" />
+    <HelpKINode Title="properties" Url="html/fd9988bc-9ef2-a09d-888a-13a758585258.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseBehavior.AlreadyTriggered property" Url="html/ef84348c-2f91-5ef4-1d62-65ad96eec02d.htm" />
+  <HelpKINode Title="BaseBehavior.BaseBehavior constructor" Url="html/0781b5a8-6479-a8f7-5d19-418233beca41.htm" />
+  <HelpKINode Title="BaseBehavior.ExceptionMessage field" Url="html/a2bc74cb-c76d-b223-ac85-7a1aeddb77b7.htm" />
+  <HelpKINode Title="BaseBehavior.IsTriggered property" Url="html/d8be53b6-4904-1971-2290-8783a5aa3c30.htm" />
+  <HelpKINode Title="BaseBehavior.PerformNegativeEffects method" Url="html/111aaaa3-2748-b53d-da7a-db48c6ed225d.htm" />
+  <HelpKINode Title="BaseBehavior.ShouldDelayBeforeExecution property" Url="html/3642d8c8-6c4c-1e93-1839-eecefe482b11.htm" />
+  <HelpKINode Title="BaseBehavior.Trigger method" Url="html/0dbbc4f3-ee37-6d74-4365-50c922fef14d.htm" />
+  <HelpKINode Title="Behavior property">
+    <HelpKINode Title="Blob.Behavior Property " Url="html/18fb799c-626d-ba18-a812-278ae31dcd23.htm" />
+    <HelpKINode Title="IBlob.Behavior Property " Url="html/ba6f818f-7589-b8c1-b5a8-da8f754eacbd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BehaviorFactory class">
+    <HelpKINode Title="BehaviorFactory Class" Url="html/1c160072-937c-aec5-099a-82bb3d75f1a1.htm" />
+    <HelpKINode Title="about BehaviorFactory class" Url="html/1c160072-937c-aec5-099a-82bb3d75f1a1.htm" />
+    <HelpKINode Title="constructor" Url="html/bcc04f70-bd34-69f5-b65b-96a89731422f.htm" />
+    <HelpKINode Title="methods" Url="html/bf04d416-c816-0003-7c20-b79f9ffc6323.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BehaviorFactory.BehaviorFactory constructor" Url="html/bcc04f70-bd34-69f5-b65b-96a89731422f.htm" />
+  <HelpKINode Title="BehaviorFactory.Create method" Url="html/1fee80c8-d3ad-5d10-1cdd-aae78bdf6a9b.htm" />
+  <HelpKINode Title="BehaviorToggledEventArgs class">
+    <HelpKINode Title="BehaviorToggledEventArgs Class" Url="html/676afac2-8e57-f2ab-1b50-bf34a14ce26e.htm" />
+    <HelpKINode Title="about BehaviorToggledEventArgs class" Url="html/676afac2-8e57-f2ab-1b50-bf34a14ce26e.htm" />
+    <HelpKINode Title="constructor" Url="html/3ee5b286-d89d-4880-f254-63234a5ea32c.htm" />
+    <HelpKINode Title="methods" Url="html/c5466706-838e-4c08-ca24-39f6242f352b.htm" />
+    <HelpKINode Title="properties" Url="html/e893dd65-35f7-3573-d8d7-0e7f68a7fbea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BehaviorToggledEventArgs.BehaviorToggledEventArgs constructor" Url="html/3ee5b286-d89d-4880-f254-63234a5ea32c.htm" />
+  <HelpKINode Title="BehaviorToggledEventArgs.Message property" Url="html/a3bbe79c-ba6b-b9c2-daab-9d36d7e5919b.htm" />
+  <HelpKINode Title="BehaviorToggledEventHandler delegate" Url="html/b372f2dc-878e-ee6f-fbca-ece38c14362a.htm" />
+  <HelpKINode Title="Blob class">
+    <HelpKINode Title="Blob Class" Url="html/c9abb8bf-db1d-9dec-6366-4ec78614a92d.htm" />
+    <HelpKINode Title="about Blob class" Url="html/c9abb8bf-db1d-9dec-6366-4ec78614a92d.htm" />
+    <HelpKINode Title="constructor" Url="html/14ec7a18-0914-62b1-d5dd-58ead5e46eed.htm" />
+    <HelpKINode Title="events" Url="html/7b1d2829-ad3e-239f-df49-1ac939fc867f.htm" />
+    <HelpKINode Title="methods" Url="html/0df76538-2b8c-b1be-6498-c7c6ae3fb602.htm" />
+    <HelpKINode Title="properties" Url="html/6067786a-8cfc-38cd-c4d2-7081bfcfe330.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blob.Attack property" Url="html/1e89c684-1c84-34f9-c15d-c2ddbed8797f.htm" />
+  <HelpKINode Title="Blob.Behavior property" Url="html/18fb799c-626d-ba18-a812-278ae31dcd23.htm" />
+  <HelpKINode Title="Blob.Blob constructor" Url="html/14ec7a18-0914-62b1-d5dd-58ead5e46eed.htm" />
+  <HelpKINode Title="Blob.Damage property" Url="html/4a949807-f02c-7a64-6258-c8c5bd4b4fea.htm" />
+  <HelpKINode Title="Blob.Health property" Url="html/417776aa-6997-17af-1df4-adcd22a6cdb5.htm" />
+  <HelpKINode Title="Blob.IsAlive property" Url="html/c0f7c804-bf62-6d1b-fb7d-3879bdf23f4a.htm" />
+  <HelpKINode Title="Blob.Name property" Url="html/96bdf3eb-713b-4471-9d34-73f0c097f893.htm" />
+  <HelpKINode Title="Blob.OnBehaviorToggled event" Url="html/4b949561-9504-37dd-00e3-247afaaa9cd8.htm" />
+  <HelpKINode Title="Blob.OnBlobDead event" Url="html/e884e1c7-111d-4be8-5243-a5e7540ebb3d.htm" />
+  <HelpKINode Title="Blob.PerformAttack method" Url="html/3637234e-1fb0-509f-52cf-8779617c7f3a.htm" />
+  <HelpKINode Title="Blob.Respond method" Url="html/c3984b7a-def7-4ba5-3100-77c02531f35f.htm" />
+  <HelpKINode Title="Blob.ToString method" Url="html/c3a46cd5-ad48-1e79-be15-d938e2cf6c39.htm" />
+  <HelpKINode Title="Blob.Update method" Url="html/0fce4ed0-3225-66dc-39d2-848c9306c0aa.htm" />
+  <HelpKINode Title="BlobData class">
+    <HelpKINode Title="BlobData Class" Url="html/3fee1245-212b-238c-a07d-3e769c7ca537.htm" />
+    <HelpKINode Title="about BlobData class" Url="html/3fee1245-212b-238c-a07d-3e769c7ca537.htm" />
+    <HelpKINode Title="constructor" Url="html/c3ff773b-2ed7-08c6-b230-c8951a2f0c7b.htm" />
+    <HelpKINode Title="methods" Url="html/8b78e832-e3f6-5191-156a-246b5957ffff.htm" />
+    <HelpKINode Title="properties" Url="html/e48fa2ea-3c7f-80c8-e363-4cfb7135c0ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlobData.AddBlob method" Url="html/81491ddf-ba7b-9e8a-8846-4f5d2f34557e.htm" />
+  <HelpKINode Title="BlobData.BlobData constructor" Url="html/c3ff773b-2ed7-08c6-b230-c8951a2f0c7b.htm" />
+  <HelpKINode Title="BlobData.Blobs property" Url="html/9d2d8ca1-817a-efec-4010-bf503bb0b0e7.htm" />
+  <HelpKINode Title="BlobDeadEventArgs class">
+    <HelpKINode Title="BlobDeadEventArgs Class" Url="html/12d785b9-96fc-fe67-c3df-e9523bdb1588.htm" />
+    <HelpKINode Title="about BlobDeadEventArgs class" Url="html/12d785b9-96fc-fe67-c3df-e9523bdb1588.htm" />
+    <HelpKINode Title="constructor" Url="html/2bc5018b-4946-8fef-69fa-4e55a5bac603.htm" />
+    <HelpKINode Title="methods" Url="html/4d134462-e05c-6f5c-e7e3-e33ff7d0f9f7.htm" />
+    <HelpKINode Title="properties" Url="html/7675c448-80c0-1e67-3541-4cceada99564.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlobDeadEventArgs.BlobDeadEventArgs constructor" Url="html/2bc5018b-4946-8fef-69fa-4e55a5bac603.htm" />
+  <HelpKINode Title="BlobDeadEventArgs.Message property" Url="html/66609027-7afb-b82b-3e7d-53a23d81b37c.htm" />
+  <HelpKINode Title="BlobDeadEventHandler delegate" Url="html/0adc8051-afb5-8b65-69a0-3789a2a800c4.htm" />
+  <HelpKINode Title="BlobFactory class">
+    <HelpKINode Title="BlobFactory Class" Url="html/494cf624-a5b9-e560-1063-f935e463808b.htm" />
+    <HelpKINode Title="about BlobFactory class" Url="html/494cf624-a5b9-e560-1063-f935e463808b.htm" />
+    <HelpKINode Title="constructor" Url="html/e7fa298e-54be-8a5d-779d-107c6b14ec66.htm" />
+    <HelpKINode Title="methods" Url="html/5f48e4e8-295a-8f20-da9f-6b10be39d6c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlobFactory.BlobFactory constructor" Url="html/e7fa298e-54be-8a5d-779d-107c6b14ec66.htm" />
+  <HelpKINode Title="BlobFactory.Create method" Url="html/d49c187c-be51-6472-e9e3-015b5dc0a088.htm" />
+  <HelpKINode Title="Blobplode class">
+    <HelpKINode Title="Blobplode Class" Url="html/12e5b2a6-3edb-c3df-1949-f81dc3d8b79e.htm" />
+    <HelpKINode Title="about Blobplode class" Url="html/12e5b2a6-3edb-c3df-1949-f81dc3d8b79e.htm" />
+    <HelpKINode Title="constructor" Url="html/ee2f3598-224a-5791-3728-08d13c7db0bc.htm" />
+    <HelpKINode Title="methods" Url="html/0590f143-2009-9258-8cbb-96546ced096c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blobplode.Blobplode constructor" Url="html/ee2f3598-224a-5791-3728-08d13c7db0bc.htm" />
+  <HelpKINode Title="Blobplode.ExecuteAttack method" Url="html/ebd25cb5-ee36-fc23-e74f-d878d4d2c740.htm" />
+  <HelpKINode Title="Blobplode.ExecuteEffectsOnAttacker method" Url="html/534719c2-de56-0023-20ce-9609f12cf962.htm" />
+  <HelpKINode Title="Blobs namespace" Url="html/22700952-2b37-b040-2434-fdf5232fef60.htm" />
+  <HelpKINode Title="Blobs property">
+    <HelpKINode Title="BlobData.Blobs Property " Url="html/9d2d8ca1-817a-efec-4010-bf503bb0b0e7.htm" />
+    <HelpKINode Title="IBlobData.Blobs Property " Url="html/645dce2d-940c-63e2-6530-1d3c59d17374.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blobs.BlobsApplication class" Url="html/60d75897-f4b0-41d2-5edb-b90f88759e3e.htm" />
+  <HelpKINode Title="Blobs.Core namespace" Url="html/01d48f96-1802-830c-be15-ef76df0bdb55.htm" />
+  <HelpKINode Title="Blobs.Core.BlobData class" Url="html/3fee1245-212b-238c-a07d-3e769c7ca537.htm" />
+  <HelpKINode Title="Blobs.Core.Engine class" Url="html/3ac852a7-44ec-73f6-66de-5bcc0ffadba4.htm" />
+  <HelpKINode Title="Blobs.Core.Factories namespace" Url="html/089f1484-c706-bbb9-3e92-180528ba52b0.htm" />
+  <HelpKINode Title="Blobs.Core.Factories.AttackFactory class" Url="html/edb65f7f-91a2-c49b-aaf2-fc9d39cb1ff3.htm" />
+  <HelpKINode Title="Blobs.Core.Factories.BehaviorFactory class" Url="html/1c160072-937c-aec5-099a-82bb3d75f1a1.htm" />
+  <HelpKINode Title="Blobs.Core.Factories.BlobFactory class" Url="html/494cf624-a5b9-e560-1063-f935e463808b.htm" />
+  <HelpKINode Title="Blobs.Interfaces namespace" Url="html/61641359-c494-ee0a-7040-256b4408c0e6.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IAttack interface" Url="html/64a52e8f-3024-2879-b679-7831ee4fda06.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IAttackable interface" Url="html/b1e34e3f-5b65-e475-95c2-d455eee2759a.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IAttacker interface" Url="html/800926ab-b778-f103-9c0d-fc2075796fc7.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IAttackFactory interface" Url="html/ac4ccdc4-4ea1-b403-751c-d5fae26d68cd.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IBehavior interface" Url="html/6556116c-9e9d-24f0-ae38-e1409fa22996.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IBehaviorFactory interface" Url="html/2777beaa-a231-621d-eab3-8536c12f5da8.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IBlob interface" Url="html/214ced96-f2fc-e984-56c3-10421ab2b86a.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IBlobData interface" Url="html/5af645dc-1868-87f6-10ad-f497e1bfba89.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IBlobFactory interface" Url="html/6714ffa6-33b3-9f10-570e-6ee6d2dc0c9d.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IInputReader interface" Url="html/a4d4bc45-dc2c-757e-f764-e76e1227fc89.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IOutputWriter interface" Url="html/4928e3e6-3e9f-4a1b-0105-796ae72bfb6d.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IRunnable interface" Url="html/4c1c635d-efc9-752f-da80-93c8d458e1c9.htm" />
+  <HelpKINode Title="Blobs.Interfaces.IUpdateable interface" Url="html/a041d5a2-6920-cb3f-cf26-7261bd767cea.htm" />
+  <HelpKINode Title="Blobs.IO namespace" Url="html/e5ae95e6-dc8f-62aa-0b81-b6a7cc1166eb.htm" />
+  <HelpKINode Title="Blobs.IO.ConsoleInputReader class" Url="html/5a18310f-9939-7716-9e21-eccb2493b744.htm" />
+  <HelpKINode Title="Blobs.IO.ConsoleOutputWriter class" Url="html/1f2a3859-d714-178b-c60d-b7d9fcf1f719.htm" />
+  <HelpKINode Title="Blobs.Models namespace" Url="html/7cde4f97-7770-774f-a0b9-62f9a63e8619.htm" />
+  <HelpKINode Title="Blobs.Models.Attacks namespace" Url="html/3d2110ff-2a8b-117b-1c75-23d7d3eec13d.htm" />
+  <HelpKINode Title="Blobs.Models.Attacks.BaseAttack class" Url="html/3f810856-a944-3c3b-d59c-1fa5ed337503.htm" />
+  <HelpKINode Title="Blobs.Models.Attacks.Blobplode class" Url="html/12e5b2a6-3edb-c3df-1949-f81dc3d8b79e.htm" />
+  <HelpKINode Title="Blobs.Models.Attacks.PutridFart class" Url="html/820e50c4-e2da-4885-e445-455c19efa862.htm" />
+  <HelpKINode Title="Blobs.Models.Behaviors namespace" Url="html/55961ee7-b484-c832-7a0d-0a1e17bbd677.htm" />
+  <HelpKINode Title="Blobs.Models.Behaviors.Aggressive class" Url="html/78f8cba7-4934-564b-1d00-8cfae68b039d.htm" />
+  <HelpKINode Title="Blobs.Models.Behaviors.BaseBehavior class" Url="html/2b2ca8c9-5d5a-f0c9-6988-d1c526dd87a8.htm" />
+  <HelpKINode Title="Blobs.Models.Behaviors.Inflated class" Url="html/480a19e7-2ee5-21bf-e020-b36d206faa71.htm" />
+  <HelpKINode Title="Blobs.Models.Blob class" Url="html/c9abb8bf-db1d-9dec-6366-4ec78614a92d.htm" />
+  <HelpKINode Title="Blobs.Models.EventHandlers namespace" Url="html/5f19bfff-1b6e-f4c3-3b62-e4f43354be1f.htm" />
+  <HelpKINode Title="Blobs.Models.EventHandlers.BehaviorToggledEventHandler delegate" Url="html/b372f2dc-878e-ee6f-fbca-ece38c14362a.htm" />
+  <HelpKINode Title="Blobs.Models.EventHandlers.BlobDeadEventHandler delegate" Url="html/0adc8051-afb5-8b65-69a0-3789a2a800c4.htm" />
+  <HelpKINode Title="Blobs.Models.Events namespace" Url="html/a8c8d870-2767-3fe3-639d-89319f8fcd3f.htm" />
+  <HelpKINode Title="Blobs.Models.Events.BehaviorToggledEventArgs class" Url="html/676afac2-8e57-f2ab-1b50-bf34a14ce26e.htm" />
+  <HelpKINode Title="Blobs.Models.Events.BlobDeadEventArgs class" Url="html/12d785b9-96fc-fe67-c3df-e9523bdb1588.htm" />
+  <HelpKINode Title="BlobsApplication class">
+    <HelpKINode Title="BlobsApplication Class" Url="html/60d75897-f4b0-41d2-5edb-b90f88759e3e.htm" />
+    <HelpKINode Title="about BlobsApplication class" Url="html/60d75897-f4b0-41d2-5edb-b90f88759e3e.htm" />
+    <HelpKINode Title="constructor" Url="html/4326a05c-6372-07b0-66f7-ec4b454bcc08.htm" />
+    <HelpKINode Title="methods" Url="html/7f8107c9-2aea-b58a-ba9b-3c98cebd806e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlobsApplication.BlobsApplication constructor" Url="html/4326a05c-6372-07b0-66f7-ec4b454bcc08.htm" />
+  <HelpKINode Title="ConsoleInputReader class">
+    <HelpKINode Title="ConsoleInputReader Class" Url="html/5a18310f-9939-7716-9e21-eccb2493b744.htm" />
+    <HelpKINode Title="about ConsoleInputReader class" Url="html/5a18310f-9939-7716-9e21-eccb2493b744.htm" />
+    <HelpKINode Title="constructor" Url="html/a1449f5a-1369-6b7b-6c57-99ed6dbcdc40.htm" />
+    <HelpKINode Title="methods" Url="html/a28a4f2e-0c44-e83e-a0a8-60dd2a8195a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleInputReader.ConsoleInputReader constructor" Url="html/a1449f5a-1369-6b7b-6c57-99ed6dbcdc40.htm" />
+  <HelpKINode Title="ConsoleInputReader.Read method" Url="html/03aba31a-7c14-4e42-7a97-0dcc9c1e4daf.htm" />
+  <HelpKINode Title="ConsoleOutputWriter class">
+    <HelpKINode Title="ConsoleOutputWriter Class" Url="html/1f2a3859-d714-178b-c60d-b7d9fcf1f719.htm" />
+    <HelpKINode Title="about ConsoleOutputWriter class" Url="html/1f2a3859-d714-178b-c60d-b7d9fcf1f719.htm" />
+    <HelpKINode Title="constructor" Url="html/ce1f7b0e-0a2d-4498-f724-ba64d47517fd.htm" />
+    <HelpKINode Title="methods" Url="html/482ffaa5-70b3-7c60-56ad-76b3e9bec2b4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleOutputWriter.ConsoleOutputWriter constructor" Url="html/ce1f7b0e-0a2d-4498-f724-ba64d47517fd.htm" />
+  <HelpKINode Title="ConsoleOutputWriter.Write method" Url="html/abbb5ec1-6af9-19d9-7304-02c6cc48253e.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="AttackFactory.Create Method " Url="html/0905ba84-8a98-fa66-a635-693b96da6b49.htm" />
+    <HelpKINode Title="BehaviorFactory.Create Method " Url="html/1fee80c8-d3ad-5d10-1cdd-aae78bdf6a9b.htm" />
+    <HelpKINode Title="BlobFactory.Create Method " Url="html/d49c187c-be51-6472-e9e3-015b5dc0a088.htm" />
+    <HelpKINode Title="IAttackFactory.Create Method " Url="html/0cb25c65-8e1f-78bd-72c5-eb96b5719033.htm" />
+    <HelpKINode Title="IBehaviorFactory.Create Method " Url="html/7856847e-dcc9-d1af-237d-f1122f0a01cb.htm" />
+    <HelpKINode Title="IBlobFactory.Create Method " Url="html/dfdef7e0-8adc-c528-e016-96b3735ecde7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Damage property">
+    <HelpKINode Title="Blob.Damage Property " Url="html/4a949807-f02c-7a64-6258-c8c5bd4b4fea.htm" />
+    <HelpKINode Title="IBlob.Damage Property " Url="html/9bd10ccd-db8d-6ad4-f853-3fd56aa94eb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Engine class">
+    <HelpKINode Title="Engine Class" Url="html/3ac852a7-44ec-73f6-66de-5bcc0ffadba4.htm" />
+    <HelpKINode Title="about Engine class" Url="html/3ac852a7-44ec-73f6-66de-5bcc0ffadba4.htm" />
+    <HelpKINode Title="constructor" Url="html/0f769197-2d46-bdd3-e672-8e4ebfa44a52.htm" />
+    <HelpKINode Title="methods" Url="html/e07928df-b310-3498-5e2c-a339a81111b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Engine.Engine constructor" Url="html/0f769197-2d46-bdd3-e672-8e4ebfa44a52.htm" />
+  <HelpKINode Title="Engine.ExecuteInput method" Url="html/63836f51-36b4-35d1-bc61-2e931e6a36b6.htm" />
+  <HelpKINode Title="Engine.Run method" Url="html/0b798088-4a5b-bd6e-37b1-3e6ff13f2b99.htm" />
+  <HelpKINode Title="ExceptionMessage field" Url="html/a2bc74cb-c76d-b223-ac85-7a1aeddb77b7.htm" />
+  <HelpKINode Title="ExecuteAttack method">
+    <HelpKINode Title="BaseAttack.ExecuteAttack Method " Url="html/d6292835-8aeb-f5f6-88e6-a6c1fd6aa69b.htm" />
+    <HelpKINode Title="Blobplode.ExecuteAttack Method " Url="html/ebd25cb5-ee36-fc23-e74f-d878d4d2c740.htm" />
+    <HelpKINode Title="IAttack.ExecuteAttack Method " Url="html/3ec5f2dc-1741-b95b-9000-8d151a826f0e.htm" />
+    <HelpKINode Title="PutridFart.ExecuteAttack Method " Url="html/497eb9c0-b74b-10f5-297b-e4d801f58a27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExecuteEffectsOnAttacker method">
+    <HelpKINode Title="BaseAttack.ExecuteEffectsOnAttacker Method " Url="html/721821eb-5c72-7319-2099-6696213830fb.htm" />
+    <HelpKINode Title="Blobplode.ExecuteEffectsOnAttacker Method " Url="html/534719c2-de56-0023-20ce-9609f12cf962.htm" />
+    <HelpKINode Title="IAttack.ExecuteEffectsOnAttacker Method " Url="html/e72ef3a8-e007-9d96-e21b-6928a690fe28.htm" />
+    <HelpKINode Title="PutridFart.ExecuteEffectsOnAttacker Method " Url="html/fc769ad7-8d38-00e7-3850-2f954101c8fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExecuteInput method" Url="html/63836f51-36b4-35d1-bc61-2e931e6a36b6.htm" />
+  <HelpKINode Title="Health property">
+    <HelpKINode Title="Blob.Health Property " Url="html/417776aa-6997-17af-1df4-adcd22a6cdb5.htm" />
+    <HelpKINode Title="IBlob.Health Property " Url="html/9769ea57-a303-b1a9-050b-7c0721c74427.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAttack interface">
+    <HelpKINode Title="IAttack Interface" Url="html/64a52e8f-3024-2879-b679-7831ee4fda06.htm" />
+    <HelpKINode Title="about IAttack interface" Url="html/64a52e8f-3024-2879-b679-7831ee4fda06.htm" />
+    <HelpKINode Title="methods" Url="html/5c1da2ff-96a2-aa26-b486-c8a605f82e62.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAttack.ExecuteAttack method" Url="html/3ec5f2dc-1741-b95b-9000-8d151a826f0e.htm" />
+  <HelpKINode Title="IAttack.ExecuteEffectsOnAttacker method" Url="html/e72ef3a8-e007-9d96-e21b-6928a690fe28.htm" />
+  <HelpKINode Title="IAttackable interface">
+    <HelpKINode Title="IAttackable Interface" Url="html/b1e34e3f-5b65-e475-95c2-d455eee2759a.htm" />
+    <HelpKINode Title="about IAttackable interface" Url="html/b1e34e3f-5b65-e475-95c2-d455eee2759a.htm" />
+    <HelpKINode Title="events" Url="html/38bbd097-447e-f3e5-12ba-9dae135fb7b5.htm" />
+    <HelpKINode Title="methods" Url="html/bbe289c6-9a4f-dace-f5a5-35012cb8ce8b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAttackable.OnBlobDead event" Url="html/549e4b47-3e12-40a4-f437-08b0d7f7da44.htm" />
+  <HelpKINode Title="IAttackable.Respond method" Url="html/e05f35a1-8d75-0f1a-20ca-b74f089583a8.htm" />
+  <HelpKINode Title="IAttacker interface">
+    <HelpKINode Title="IAttacker Interface" Url="html/800926ab-b778-f103-9c0d-fc2075796fc7.htm" />
+    <HelpKINode Title="about IAttacker interface" Url="html/800926ab-b778-f103-9c0d-fc2075796fc7.htm" />
+    <HelpKINode Title="methods" Url="html/282dd511-130a-49bb-4d0a-7695d99e1ce2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAttacker.PerformAttack method" Url="html/24d18073-5e96-9409-ccef-6e7bb919dc1d.htm" />
+  <HelpKINode Title="IAttackFactory interface">
+    <HelpKINode Title="IAttackFactory Interface" Url="html/ac4ccdc4-4ea1-b403-751c-d5fae26d68cd.htm" />
+    <HelpKINode Title="about IAttackFactory interface" Url="html/ac4ccdc4-4ea1-b403-751c-d5fae26d68cd.htm" />
+    <HelpKINode Title="methods" Url="html/ae9d7969-7d63-0ff7-ada0-bceff0eb8d25.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAttackFactory.Create method" Url="html/0cb25c65-8e1f-78bd-72c5-eb96b5719033.htm" />
+  <HelpKINode Title="IBehavior interface">
+    <HelpKINode Title="IBehavior Interface" Url="html/6556116c-9e9d-24f0-ae38-e1409fa22996.htm" />
+    <HelpKINode Title="about IBehavior interface" Url="html/6556116c-9e9d-24f0-ae38-e1409fa22996.htm" />
+    <HelpKINode Title="methods" Url="html/f760600b-ef36-4912-4a4b-bd3293d57b06.htm" />
+    <HelpKINode Title="properties" Url="html/3afcdd46-6e3c-f808-cac5-ba870a30c684.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBehavior.AlreadyTriggered property" Url="html/a04d3ef4-81e5-0509-c44b-318958e40a95.htm" />
+  <HelpKINode Title="IBehavior.IsTriggered property" Url="html/a392219f-46e4-dc4d-8d80-685b8a536cb7.htm" />
+  <HelpKINode Title="IBehavior.PerformNegativeEffects method" Url="html/bbde4b26-b5ed-51a2-2b55-64335aa3ec5b.htm" />
+  <HelpKINode Title="IBehavior.Trigger method" Url="html/8379b3b0-5a77-aa0a-89d3-53ec754241b3.htm" />
+  <HelpKINode Title="IBehaviorFactory interface">
+    <HelpKINode Title="IBehaviorFactory Interface" Url="html/2777beaa-a231-621d-eab3-8536c12f5da8.htm" />
+    <HelpKINode Title="about IBehaviorFactory interface" Url="html/2777beaa-a231-621d-eab3-8536c12f5da8.htm" />
+    <HelpKINode Title="methods" Url="html/57d5431d-5264-44b7-280f-5ee7b6e49c54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBehaviorFactory.Create method" Url="html/7856847e-dcc9-d1af-237d-f1122f0a01cb.htm" />
+  <HelpKINode Title="IBlob interface">
+    <HelpKINode Title="IBlob Interface" Url="html/214ced96-f2fc-e984-56c3-10421ab2b86a.htm" />
+    <HelpKINode Title="about IBlob interface" Url="html/214ced96-f2fc-e984-56c3-10421ab2b86a.htm" />
+    <HelpKINode Title="events" Url="html/d4b5b1df-4dd8-3557-fe5a-5a629829f788.htm" />
+    <HelpKINode Title="methods" Url="html/e09d38bb-d65c-2c6a-a959-8693d68891aa.htm" />
+    <HelpKINode Title="properties" Url="html/5ce32dee-b87e-5734-7cb7-74189381866d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBlob.Attack property" Url="html/bb44e602-298e-664f-c720-0a615d5ee213.htm" />
+  <HelpKINode Title="IBlob.Behavior property" Url="html/ba6f818f-7589-b8c1-b5a8-da8f754eacbd.htm" />
+  <HelpKINode Title="IBlob.Damage property" Url="html/9bd10ccd-db8d-6ad4-f853-3fd56aa94eb6.htm" />
+  <HelpKINode Title="IBlob.Health property" Url="html/9769ea57-a303-b1a9-050b-7c0721c74427.htm" />
+  <HelpKINode Title="IBlob.IsAlive property" Url="html/8f79ca55-2879-d8d9-1261-d58fd6866023.htm" />
+  <HelpKINode Title="IBlob.Name property" Url="html/8bb81758-ecf0-18ea-199f-8e0c48a8999f.htm" />
+  <HelpKINode Title="IBlob.OnBehaviorToggled event" Url="html/f2a0ff7c-41f1-0aee-3ee7-287b99ce30f4.htm" />
+  <HelpKINode Title="IBlobData interface">
+    <HelpKINode Title="IBlobData Interface" Url="html/5af645dc-1868-87f6-10ad-f497e1bfba89.htm" />
+    <HelpKINode Title="about IBlobData interface" Url="html/5af645dc-1868-87f6-10ad-f497e1bfba89.htm" />
+    <HelpKINode Title="methods" Url="html/e086b722-b3ca-9e5c-9b30-d543eb0bdd1a.htm" />
+    <HelpKINode Title="properties" Url="html/51c5bc09-4a97-51ee-cb58-8f93f9282b4e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBlobData.AddBlob method" Url="html/c82184e3-bf03-a740-b35a-0161ad891494.htm" />
+  <HelpKINode Title="IBlobData.Blobs property" Url="html/645dce2d-940c-63e2-6530-1d3c59d17374.htm" />
+  <HelpKINode Title="IBlobFactory interface">
+    <HelpKINode Title="IBlobFactory Interface" Url="html/6714ffa6-33b3-9f10-570e-6ee6d2dc0c9d.htm" />
+    <HelpKINode Title="about IBlobFactory interface" Url="html/6714ffa6-33b3-9f10-570e-6ee6d2dc0c9d.htm" />
+    <HelpKINode Title="methods" Url="html/10fad3ed-5743-1f82-a855-9629566e584f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBlobFactory.Create method" Url="html/dfdef7e0-8adc-c528-e016-96b3735ecde7.htm" />
+  <HelpKINode Title="IInputReader interface">
+    <HelpKINode Title="IInputReader Interface" Url="html/a4d4bc45-dc2c-757e-f764-e76e1227fc89.htm" />
+    <HelpKINode Title="about IInputReader interface" Url="html/a4d4bc45-dc2c-757e-f764-e76e1227fc89.htm" />
+    <HelpKINode Title="methods" Url="html/d685435b-62dd-60a5-6829-1b2b43b7ae57.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInputReader.Read method" Url="html/6f7913f2-8b12-3e25-7e94-b35d08e684ed.htm" />
+  <HelpKINode Title="Inflated class">
+    <HelpKINode Title="Inflated Class" Url="html/480a19e7-2ee5-21bf-e020-b36d206faa71.htm" />
+    <HelpKINode Title="about Inflated class" Url="html/480a19e7-2ee5-21bf-e020-b36d206faa71.htm" />
+    <HelpKINode Title="constructor" Url="html/e846fe6a-7bfa-2b49-df0e-3551e78f2b53.htm" />
+    <HelpKINode Title="methods" Url="html/83d46960-301e-c8eb-d2a8-1218445390a7.htm" />
+    <HelpKINode Title="properties" Url="html/144c6bb6-2362-e20a-11ff-45a209fbc6b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Inflated.Inflated constructor" Url="html/e846fe6a-7bfa-2b49-df0e-3551e78f2b53.htm" />
+  <HelpKINode Title="Inflated.PerformNegativeEffects method" Url="html/23589019-458d-fdd9-f2f9-9b82cac42675.htm" />
+  <HelpKINode Title="Inflated.Trigger method" Url="html/563ccd16-1956-ac62-ef20-2ae3649391f3.htm" />
+  <HelpKINode Title="IOutputWriter interface">
+    <HelpKINode Title="IOutputWriter Interface" Url="html/4928e3e6-3e9f-4a1b-0105-796ae72bfb6d.htm" />
+    <HelpKINode Title="about IOutputWriter interface" Url="html/4928e3e6-3e9f-4a1b-0105-796ae72bfb6d.htm" />
+    <HelpKINode Title="methods" Url="html/87a81759-a6ba-e7d7-16d4-b91a908e1d27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOutputWriter.Write method" Url="html/7acac051-88fa-b566-f928-1a73d60ca154.htm" />
+  <HelpKINode Title="IRunnable interface">
+    <HelpKINode Title="IRunnable Interface" Url="html/4c1c635d-efc9-752f-da80-93c8d458e1c9.htm" />
+    <HelpKINode Title="about IRunnable interface" Url="html/4c1c635d-efc9-752f-da80-93c8d458e1c9.htm" />
+    <HelpKINode Title="methods" Url="html/a7b6acc8-7cf0-149c-a6f2-af7fefc14bcc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRunnable.Run method" Url="html/cc533272-9c0c-7cc0-c612-1d8ce251f311.htm" />
+  <HelpKINode Title="IsAlive property">
+    <HelpKINode Title="Blob.IsAlive Property " Url="html/c0f7c804-bf62-6d1b-fb7d-3879bdf23f4a.htm" />
+    <HelpKINode Title="IBlob.IsAlive Property " Url="html/8f79ca55-2879-d8d9-1261-d58fd6866023.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsTriggered property">
+    <HelpKINode Title="BaseBehavior.IsTriggered Property " Url="html/d8be53b6-4904-1971-2290-8783a5aa3c30.htm" />
+    <HelpKINode Title="IBehavior.IsTriggered Property " Url="html/a392219f-46e4-dc4d-8d80-685b8a536cb7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUpdateable interface">
+    <HelpKINode Title="IUpdateable Interface" Url="html/a041d5a2-6920-cb3f-cf26-7261bd767cea.htm" />
+    <HelpKINode Title="about IUpdateable interface" Url="html/a041d5a2-6920-cb3f-cf26-7261bd767cea.htm" />
+    <HelpKINode Title="methods" Url="html/1fdd0d44-3afe-5bcf-2697-c9481607038f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUpdateable.Update method" Url="html/ab973447-31b4-3f47-6028-4bcecedd7384.htm" />
+  <HelpKINode Title="Message property">
+    <HelpKINode Title="BehaviorToggledEventArgs.Message Property " Url="html/a3bbe79c-ba6b-b9c2-daab-9d36d7e5919b.htm" />
+    <HelpKINode Title="BlobDeadEventArgs.Message Property " Url="html/66609027-7afb-b82b-3e7d-53a23d81b37c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="Blob.Name Property " Url="html/96bdf3eb-713b-4471-9d34-73f0c097f893.htm" />
+    <HelpKINode Title="IBlob.Name Property " Url="html/8bb81758-ecf0-18ea-199f-8e0c48a8999f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnBehaviorToggled event">
+    <HelpKINode Title="Blob.OnBehaviorToggled Event" Url="html/4b949561-9504-37dd-00e3-247afaaa9cd8.htm" />
+    <HelpKINode Title="IBlob.OnBehaviorToggled Event" Url="html/f2a0ff7c-41f1-0aee-3ee7-287b99ce30f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnBlobDead event">
+    <HelpKINode Title="Blob.OnBlobDead Event" Url="html/e884e1c7-111d-4be8-5243-a5e7540ebb3d.htm" />
+    <HelpKINode Title="IAttackable.OnBlobDead Event" Url="html/549e4b47-3e12-40a4-f437-08b0d7f7da44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PerformAttack method">
+    <HelpKINode Title="Blob.PerformAttack Method " Url="html/3637234e-1fb0-509f-52cf-8779617c7f3a.htm" />
+    <HelpKINode Title="IAttacker.PerformAttack Method " Url="html/24d18073-5e96-9409-ccef-6e7bb919dc1d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PerformNegativeEffects method">
+    <HelpKINode Title="Aggressive.PerformNegativeEffects Method " Url="html/a00e6a77-40ed-cc70-1670-ad93f8edfd9c.htm" />
+    <HelpKINode Title="BaseBehavior.PerformNegativeEffects Method " Url="html/111aaaa3-2748-b53d-da7a-db48c6ed225d.htm" />
+    <HelpKINode Title="IBehavior.PerformNegativeEffects Method " Url="html/bbde4b26-b5ed-51a2-2b55-64335aa3ec5b.htm" />
+    <HelpKINode Title="Inflated.PerformNegativeEffects Method " Url="html/23589019-458d-fdd9-f2f9-9b82cac42675.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PutridFart class">
+    <HelpKINode Title="PutridFart Class" Url="html/820e50c4-e2da-4885-e445-455c19efa862.htm" />
+    <HelpKINode Title="about PutridFart class" Url="html/820e50c4-e2da-4885-e445-455c19efa862.htm" />
+    <HelpKINode Title="constructor" Url="html/49c671c2-776c-dac2-e40b-5cc3208dae2d.htm" />
+    <HelpKINode Title="methods" Url="html/a3f81c93-2f83-d193-cdce-8fb1a97346cc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PutridFart.ExecuteAttack method" Url="html/497eb9c0-b74b-10f5-297b-e4d801f58a27.htm" />
+  <HelpKINode Title="PutridFart.ExecuteEffectsOnAttacker method" Url="html/fc769ad7-8d38-00e7-3850-2f954101c8fe.htm" />
+  <HelpKINode Title="PutridFart.PutridFart constructor" Url="html/49c671c2-776c-dac2-e40b-5cc3208dae2d.htm" />
+  <HelpKINode Title="Read method">
+    <HelpKINode Title="ConsoleInputReader.Read Method " Url="html/03aba31a-7c14-4e42-7a97-0dcc9c1e4daf.htm" />
+    <HelpKINode Title="IInputReader.Read Method " Url="html/6f7913f2-8b12-3e25-7e94-b35d08e684ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Respond method">
+    <HelpKINode Title="Blob.Respond Method " Url="html/c3984b7a-def7-4ba5-3100-77c02531f35f.htm" />
+    <HelpKINode Title="IAttackable.Respond Method " Url="html/e05f35a1-8d75-0f1a-20ca-b74f089583a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Run method">
+    <HelpKINode Title="Engine.Run Method " Url="html/0b798088-4a5b-bd6e-37b1-3e6ff13f2b99.htm" />
+    <HelpKINode Title="IRunnable.Run Method " Url="html/cc533272-9c0c-7cc0-c612-1d8ce251f311.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShouldDelayBeforeExecution property" Url="html/3642d8c8-6c4c-1e93-1839-eecefe482b11.htm" />
+  <HelpKINode Title="ToString method" Url="html/c3a46cd5-ad48-1e79-be15-d938e2cf6c39.htm" />
+  <HelpKINode Title="Trigger method">
+    <HelpKINode Title="Aggressive.Trigger Method " Url="html/a71b1d52-9407-5160-7712-ecf6d73513ff.htm" />
+    <HelpKINode Title="BaseBehavior.Trigger Method " Url="html/0dbbc4f3-ee37-6d74-4365-50c922fef14d.htm" />
+    <HelpKINode Title="IBehavior.Trigger Method " Url="html/8379b3b0-5a77-aa0a-89d3-53ec754241b3.htm" />
+    <HelpKINode Title="Inflated.Trigger Method " Url="html/563ccd16-1956-ac62-ef20-2ae3649391f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Blob.Update Method " Url="html/0fce4ed0-3225-66dc-39d2-848c9306c0aa.htm" />
+    <HelpKINode Title="IUpdateable.Update Method " Url="html/ab973447-31b4-3f47-6028-4bcecedd7384.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Write method">
+    <HelpKINode Title="ConsoleOutputWriter.Write Method " Url="html/abbb5ec1-6af9-19d9-7304-02c6cc48253e.htm" />
+    <HelpKINode Title="IOutputWriter.Write Method " Url="html/7acac051-88fa-b566-f928-1a73d60ca154.htm" />
+  </HelpKINode>
+</HelpKI>

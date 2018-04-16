@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_12. Beer Kegs\bin\Debug\Problem_12.Beer_Kegs.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_12. Beer Kegs\bin\Debug\Problem_12.Beer_Kegs.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_12. Beer Kegs\bin\Debug\Problem_12.Beer_Kegs.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_12. Beer Kegs\obj\Debug\Problem_12.Beer_Kegs.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem_12. Beer Kegs\obj\Debug\Problem_12.Beer_Kegs.pdb

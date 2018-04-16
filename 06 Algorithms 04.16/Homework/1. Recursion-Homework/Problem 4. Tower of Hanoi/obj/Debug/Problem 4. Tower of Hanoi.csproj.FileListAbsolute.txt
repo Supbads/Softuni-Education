@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\bin\Debug\Problem_4.Tower_of_Hanoi.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\bin\Debug\Problem_4.Tower_of_Hanoi.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\bin\Debug\Problem_4.Tower_of_Hanoi.pdb
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\obj\Debug\Problem 4. Tower of Hanoi.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\obj\Debug\Problem_4.Tower_of_Hanoi.exe
+D:\school\Universitet\Domashni\Algorithms april\Domashni\1. Recursion-Homework\Problem 4. Tower of Hanoi\obj\Debug\Problem_4.Tower_of_Hanoi.pdb

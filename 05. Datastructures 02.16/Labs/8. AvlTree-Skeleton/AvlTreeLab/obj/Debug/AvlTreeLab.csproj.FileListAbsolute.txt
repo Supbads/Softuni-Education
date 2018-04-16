@@ -1,0 +1,6 @@
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\bin\Debug\AvlTreeLab.exe.config
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\bin\Debug\AvlTreeLab.exe
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\bin\Debug\AvlTreeLab.pdb
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\obj\Debug\AvlTreeLab.csprojResolveAssemblyReference.cache
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\obj\Debug\AvlTreeLab.exe
+c:\users\jamal\documents\visual studio 2015\Projects\AvlTreeLab\AvlTreeLab\obj\Debug\AvlTreeLab.pdb

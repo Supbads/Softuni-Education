@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Multidimensional Arrays Sets Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 2 MultidimensionalArrays,Sets,Dictionaries\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.pdb

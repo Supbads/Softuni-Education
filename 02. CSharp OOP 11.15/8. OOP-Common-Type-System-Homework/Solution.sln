@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Customer", "Problem 2. Customer\Problem 2. Customer.csproj", "{DFDFF9B5-1B0D-4CB8-9C50-7D437A7975C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. String Disperser", "Problem 3. String Disperser\Problem 3. String Disperser.csproj", "{AEBB0127-76A7-425E-8FFE-1F1E5CE13BCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F73FE4C-00FB-4FA9-A5FB-C46551C7ACB0}"
+	ProjectSection(SolutionItems) = preProject
+		Problem 1. Value and Reference Types.txt = Problem 1. Value and Reference Types.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDFF9B5-1B0D-4CB8-9C50-7D437A7975C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDFF9B5-1B0D-4CB8-9C50-7D437A7975C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDFF9B5-1B0D-4CB8-9C50-7D437A7975C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDFF9B5-1B0D-4CB8-9C50-7D437A7975C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBB0127-76A7-425E-8FFE-1F1E5CE13BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBB0127-76A7-425E-8FFE-1F1E5CE13BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBB0127-76A7-425E-8FFE-1F1E5CE13BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBB0127-76A7-425E-8FFE-1F1E5CE13BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

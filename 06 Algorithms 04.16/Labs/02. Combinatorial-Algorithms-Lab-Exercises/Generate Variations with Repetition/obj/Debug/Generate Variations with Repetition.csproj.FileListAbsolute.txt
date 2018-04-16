@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\bin\Debug\Generate Variations with Repetition.exe.config
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\bin\Debug\Generate Variations with Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\bin\Debug\Generate Variations with Repetition.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\obj\Debug\Generate Variations with Repetition.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\obj\Debug\Generate Variations with Repetition.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\2. Lab\Generate Variations with Repetition\obj\Debug\Generate Variations with Repetition.pdb

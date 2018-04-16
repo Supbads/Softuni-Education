@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\obj\Debug\Problem 3. Company Hierarchy.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\obj\Debug\Problem_3.Company_Hierarchy.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 3. Company Hierarchy\obj\Debug\Problem_3.Company_Hierarchy.pdb

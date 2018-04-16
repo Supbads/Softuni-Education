@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 10. Odd and Even Product\obj\Debug\Problem 10. Odd and Even Product.csprojResolveAssemblyReference.cache

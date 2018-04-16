@@ -1,0 +1,7 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\bin\Debug\Problem_4.Array_Based_Stack_Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\bin\Debug\Problem_4.Array_Based_Stack_Tests.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\bin\Debug\Problem_3.Array_Based_Stack.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\bin\Debug\Problem_3.Array_Based_Stack.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\obj\Debug\Problem 4. Array-Based Stack Tests.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\obj\Debug\Problem_4.Array_Based_Stack_Tests.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 4. Array-Based Stack Tests\obj\Debug\Problem_4.Array_Based_Stack_Tests.pdb

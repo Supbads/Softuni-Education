@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\bin\Debug\Problem_3.String_Disperser.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\bin\Debug\Problem_3.String_Disperser.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\bin\Debug\Problem_3.String_Disperser.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\obj\Debug\Problem 3. String Disperser.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\obj\Debug\Problem_3.String_Disperser.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\8. OOP-Common-Type-System-Homework\Problem 3. String Disperser\obj\Debug\Problem_3.String_Disperser.pdb

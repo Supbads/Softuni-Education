@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\bin\Debug\Problem_1.Phonebook.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\bin\Debug\Problem_1.Phonebook.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\bin\Debug\Problem_1.Phonebook.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\obj\Debug\Problem 1. Phonebook.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\obj\Debug\Problem_1.Phonebook.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 1. Phonebook\obj\Debug\Problem_1.Phonebook.pdb

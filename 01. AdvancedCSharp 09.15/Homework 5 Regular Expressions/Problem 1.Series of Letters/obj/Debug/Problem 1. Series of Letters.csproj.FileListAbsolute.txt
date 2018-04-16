@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework Regular Expressions\Homework Regular Expressions\bin\Debug\Homework Regular Expressions.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\bin\Debug\Homework Regular Expressions.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\bin\Debug\Homework Regular Expressions.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\bin\Debug\Homework Regular Expressions.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\obj\Debug\Problem 1. Series of Letters.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\obj\Debug\Homework Regular Expressions.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 1.Series of Letters\obj\Debug\Homework Regular Expressions.pdb

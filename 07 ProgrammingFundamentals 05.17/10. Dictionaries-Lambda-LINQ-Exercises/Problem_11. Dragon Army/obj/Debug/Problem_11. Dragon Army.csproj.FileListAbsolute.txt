@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\bin\Debug\Problem_11.Dragon_Army.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\bin\Debug\Problem_11.Dragon_Army.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\bin\Debug\Problem_11.Dragon_Army.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\obj\Debug\Problem_11. Dragon Army.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\obj\Debug\Problem_11.Dragon_Army.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem_11. Dragon Army\obj\Debug\Problem_11.Dragon_Army.pdb

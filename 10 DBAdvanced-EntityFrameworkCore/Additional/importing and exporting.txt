@@ -1,0 +1,84 @@
+!JSON!
+static T[] ImportJson<T>(string input)
+{
+    T[] objects = JsonConvert.DeserializeObject<T[]>(input);
+
+    return objects;
+}
+
+sometimes you might need:
+ var importedTrains = JsonConvert.DeserializeObject<TrainDto[]>(jsonString, new JsonSerializerSettings
+    {
+        NullValueHandling = NullValueHandling.Ignore
+    });
+
+var productsSerialized = JsonConvert.SerializeObject(products, Formatting.Indented,
+	new JsonSerializerSettings
+	{
+	    DefaultValueHandling = DefaultValueHandling.Ignore
+	});
+
+
+
+
+
+!XML!
+DESERIALIZE: 
+var serializer = new XmlSerializer(typeof(CardDto[]), new XmlRootAttribute("Cards"));
+var deserializedCards = (CardDto[]) serializer.Deserialize(new MemoryStream(Encoding.UTF8.GetBytes(xmlString)));
+
+[XmlType("Card")] <- required Class annotation 
+To access inner Attributes: [XmlAttribute("Name")] on the poperty
+
+
+SERIALIZE:
+var doc = new XDocument(new XDeclaration("1.0", "utf-8", null));
+
+doc.Add(new XElement("products")); // root
+
+foreach (var product in products)
+{
+    doc.Root.Add(new XElement("product", 
+        new XAttribute("name", product.name),
+        new XAttribute("price", product.price),
+        new XAttribute("buyer", product.buyer)));
+}
+
+var result = doc.Declaration + doc.ToString();
+File.WriteAllText(outputDir, result);
+
+THIS :
+var productElements = document.Root.Elements()
+.SingleOrDefault(e => e.Name == "user"
+  && e.Attribute("first-name").Value == $"{user.FirstName}"
+  && e.Attribute("last-name").Value == $"{user.LastName}")
+    .Element("sold-products");
+
+Is Needed for foreaching the next elements like so: (Anchor)
+foreach (var p in user.Products)
+{
+    productElements
+        .Add(new XElement("product",
+                 new XElement("name", $"${p.Name}"),
+                    new XElement("price", $"{p.Price}")));
+}
+
+
+
+
+For DTOS:
+[Required]
+[MaxLength(30)]
+[StringLength(2, MinimumLength = 2)]
+[Range(0, int.MaxValue)]
+[Range(typeof(decimal), "0", "79228162514264337593543950335")]
+[RegularExpression(@"^[A-Z]{2}\d{1,6}$")]
+
+private static bool IsValid(object obj)
+{
+    var validationContext = new ValidationContext(obj);
+    var validationResults = new List<ValidationResult>();
+
+    var isValid = Validator.TryValidateObject(obj, validationContext, validationResults, true);
+    return isValid;
+}

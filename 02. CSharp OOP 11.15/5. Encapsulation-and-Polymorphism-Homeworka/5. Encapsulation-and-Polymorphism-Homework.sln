@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Shapes", "Problem 1. Shapes\Problem 1. Shapes.csproj", "{0FE8CC5F-EBBB-4145-B9C1-65EBC5A9AFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Bank of Kurtovo Konare", "Problem 2. Bank of Kurtovo Konare\Problem 2. Bank of Kurtovo Konare.csproj", "{2A991C47-35B0-4EC4-BB48-F8FF01E1AC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE8CC5F-EBBB-4145-B9C1-65EBC5A9AFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE8CC5F-EBBB-4145-B9C1-65EBC5A9AFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE8CC5F-EBBB-4145-B9C1-65EBC5A9AFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE8CC5F-EBBB-4145-B9C1-65EBC5A9AFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A991C47-35B0-4EC4-BB48-F8FF01E1AC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A991C47-35B0-4EC4-BB48-F8FF01E1AC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A991C47-35B0-4EC4-BB48-F8FF01E1AC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A991C47-35B0-4EC4-BB48-F8FF01E1AC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

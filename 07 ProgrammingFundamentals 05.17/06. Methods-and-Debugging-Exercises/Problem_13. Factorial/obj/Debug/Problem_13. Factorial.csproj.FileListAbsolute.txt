@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\bin\Debug\Problem_13.Factorial.exe.config
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\bin\Debug\Problem_13.Factorial.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\bin\Debug\Problem_13.Factorial.pdb
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\obj\Debug\Problem_13. Factorial.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\obj\Debug\Problem_13.Factorial.exe
+F:\zUniversity\Prog Fundamentals\hw\06. Methods-and-Debugging-Exercises\Problem_13. Factorial\obj\Debug\Problem_13.Factorial.pdb

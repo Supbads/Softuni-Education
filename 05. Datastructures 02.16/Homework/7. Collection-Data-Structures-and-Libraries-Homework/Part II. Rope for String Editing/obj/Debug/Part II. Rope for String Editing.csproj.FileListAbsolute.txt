@@ -1,0 +1,8 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\bin\Debug\Part_II.Rope_for_String_Editing.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\bin\Debug\Part_II.Rope_for_String_Editing.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\bin\Debug\Part_II.Rope_for_String_Editing.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\obj\Debug\Part II. Rope for String Editing.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\obj\Debug\Part_II.Rope_for_String_Editing.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\7. Collection-Data-Structures-and-Libraries-Homework\Part II. Rope for String Editing\obj\Debug\Part_II.Rope_for_String_Editing.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.exe.config
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.pdb
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\obj\Debug\Problem 3 – Endurance Rally.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\obj\Debug\Problem 3 – Endurance Rally.exe
+F:\zUniversity\Prog Fundamentals\hw\18. ExamPreparationI\Problem 3 – Endurance Rally\obj\Debug\Problem 3 – Endurance Rally.pdb

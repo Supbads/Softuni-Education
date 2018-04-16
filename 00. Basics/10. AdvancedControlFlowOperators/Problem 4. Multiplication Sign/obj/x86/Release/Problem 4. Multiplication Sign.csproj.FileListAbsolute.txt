@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 4. Multiplication Sign\bin\Release\Problem_4.Multiplication_Sign.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 4. Multiplication Sign\bin\Release\Problem_4.Multiplication_Sign.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 4. Multiplication Sign\obj\x86\Release\Problem_4.Multiplication_Sign.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 4. Multiplication Sign\obj\x86\Release\Problem_4.Multiplication_Sign.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 4. Multiplication Sign\obj\x86\Release\Problem_4.Multiplication_Sign.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 4. Multiplication Sign\obj\x86\Release\Problem_4.Multiplication_Sign.pdb

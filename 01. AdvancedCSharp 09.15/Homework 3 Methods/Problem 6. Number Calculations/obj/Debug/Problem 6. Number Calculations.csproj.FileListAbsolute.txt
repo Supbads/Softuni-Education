@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 2 Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\obj\Debug\Problem 6. Number Calculations.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 3 Methods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.pdb

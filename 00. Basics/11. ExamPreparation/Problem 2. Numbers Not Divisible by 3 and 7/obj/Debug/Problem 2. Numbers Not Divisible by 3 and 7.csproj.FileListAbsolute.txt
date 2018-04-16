@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework 7\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem 2. Numbers Not Divisible by 3 and 7.csprojResolveAssemblyReference.cache

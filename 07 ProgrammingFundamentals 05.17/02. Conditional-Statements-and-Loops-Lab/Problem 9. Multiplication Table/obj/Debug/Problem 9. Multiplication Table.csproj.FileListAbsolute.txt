@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 9. Multiplication Table\obj\Debug\Problem_9.Multiplication_Table.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution1\Problem 9. Multiplication Table\obj\Debug\Problem_9.Multiplication_Table.pdb

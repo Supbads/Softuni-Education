@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\obj\Debug\Problem 7. Sentence the Thief.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 7. Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.pdb

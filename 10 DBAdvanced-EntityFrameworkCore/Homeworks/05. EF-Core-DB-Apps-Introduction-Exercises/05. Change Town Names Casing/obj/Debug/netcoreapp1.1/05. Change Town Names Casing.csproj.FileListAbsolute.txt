@@ -1,0 +1,9 @@
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\bin\Debug\netcoreapp1.1\05. Change Town Names Casing.deps.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\bin\Debug\netcoreapp1.1\05. Change Town Names Casing.runtimeconfig.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\bin\Debug\netcoreapp1.1\05. Change Town Names Casing.runtimeconfig.dev.json
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\bin\Debug\netcoreapp1.1\05. Change Town Names Casing.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\obj\Debug\netcoreapp1.1\05. Change Town Names Casing.AssemblyInfo.cs
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\bin\Debug\netcoreapp1.1\05. Change Town Names Casing.pdb
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\obj\Debug\netcoreapp1.1\05. Change Town Names Casing.csprojResolveAssemblyReference.cache
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\obj\Debug\netcoreapp1.1\05. Change Town Names Casing.dll
+F:\zUniversity\CS DB\Advanced DB\hws\05. EF-Core-DB-Apps-Introduction-Exercises\05. Change Town Names Casing\obj\Debug\netcoreapp1.1\05. Change Town Names Casing.pdb

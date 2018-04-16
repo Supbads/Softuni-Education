@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 2. Phonebook Upgrade\bin\Debug\Problem_2.Phonebook_Upgrade.exe.config
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 2. Phonebook Upgrade\bin\Debug\Problem_2.Phonebook_Upgrade.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 2. Phonebook Upgrade\bin\Debug\Problem_2.Phonebook_Upgrade.pdb
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 2. Phonebook Upgrade\obj\Debug\Problem_2.Phonebook_Upgrade.exe
+F:\zUniversity\Prog Fundamentals\hw\10. Dictionaries-Lambda-LINQ-Exercises\Problem 2. Phonebook Upgrade\obj\Debug\Problem_2.Phonebook_Upgrade.pdb

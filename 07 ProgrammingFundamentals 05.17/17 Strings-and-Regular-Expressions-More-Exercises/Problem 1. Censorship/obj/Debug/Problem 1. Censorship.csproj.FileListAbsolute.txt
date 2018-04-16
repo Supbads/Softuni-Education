@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\bin\Debug\Problem_1.Censorship.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\bin\Debug\Problem_1.Censorship.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\bin\Debug\Problem_1.Censorship.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\obj\Debug\Problem 1. Censorship.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\obj\Debug\Problem_1.Censorship.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Censorship\obj\Debug\Problem_1.Censorship.pdb

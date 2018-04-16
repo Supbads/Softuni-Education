@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem_10. Pairs by Difference\bin\Debug\Problem_10.Pairs_by_Difference.exe.config
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem_10. Pairs by Difference\bin\Debug\Problem_10.Pairs_by_Difference.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem_10. Pairs by Difference\bin\Debug\Problem_10.Pairs_by_Difference.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem_10. Pairs by Difference\obj\Debug\Problem_10.Pairs_by_Difference.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem_10. Pairs by Difference\obj\Debug\Problem_10.Pairs_by_Difference.pdb

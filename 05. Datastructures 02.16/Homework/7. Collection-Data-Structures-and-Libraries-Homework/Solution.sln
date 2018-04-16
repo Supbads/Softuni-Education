@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part I. Events in Given Date Range", "Part I. Events in Given Date Range\Part I. Events in Given Date Range.csproj", "{D802ABCA-C2A1-4A99-BBC6-8C2EA464E0EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Products in Price Range", "Problem 1. Products in Price Range\Problem 1. Products in Price Range.csproj", "{C0C3E5F9-8B91-4FAA-BEEC-1323F09187CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. String Editor", "Problem 2. String Editor\Problem 2. String Editor.csproj", "{6A00EEB3-6ABC-4278-8EB9-9173BB664D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D802ABCA-C2A1-4A99-BBC6-8C2EA464E0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D802ABCA-C2A1-4A99-BBC6-8C2EA464E0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D802ABCA-C2A1-4A99-BBC6-8C2EA464E0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D802ABCA-C2A1-4A99-BBC6-8C2EA464E0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C3E5F9-8B91-4FAA-BEEC-1323F09187CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C3E5F9-8B91-4FAA-BEEC-1323F09187CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C3E5F9-8B91-4FAA-BEEC-1323F09187CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C3E5F9-8B91-4FAA-BEEC-1323F09187CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A00EEB3-6ABC-4278-8EB9-9173BB664D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A00EEB3-6ABC-4278-8EB9-9173BB664D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A00EEB3-6ABC-4278-8EB9-9173BB664D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A00EEB3-6ABC-4278-8EB9-9173BB664D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

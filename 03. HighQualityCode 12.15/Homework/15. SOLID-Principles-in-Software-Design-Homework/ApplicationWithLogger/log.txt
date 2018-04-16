@@ -1,0 +1,7 @@
+26-01-16 10:19:32 PM - Critical - No connection string found in App.config26-01-16 10:20:12 PM - Critical - No connection string found in App.config
+26-01-16 10:20:12 PM - Fatal - mscorlib.dll does not respond
+26-01-16 10:20:22 PM - Info - Everything seems fine
+26-01-16 10:20:22 PM - Warn - Warning: Ping is too high - disconnect imminent
+26-01-16 10:20:22 PM - Error - Error parsing request
+26-01-16 10:20:22 PM - Critical - No connection string found in App.config
+26-01-16 10:20:22 PM - Fatal - mscorlib.dll does not respond

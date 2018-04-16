@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\bin\Debug\Problem_1.Find_the_Root.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\bin\Debug\Problem_1.Find_the_Root.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\bin\Debug\Problem_1.Find_the_Root.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\obj\Debug\Problem 1. Find the Root.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\obj\Debug\Problem_1.Find_the_Root.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\5. Tree-and-Graph-Traversal-Algorithms-Homework\Problem 1. Find the Root\obj\Debug\Problem_1.Find_the_Root.pdb

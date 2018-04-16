@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\bin\Debug\Problem_8.Key_Replacer.exe.config
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\bin\Debug\Problem_8.Key_Replacer.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\bin\Debug\Problem_8.Key_Replacer.pdb
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\obj\Debug\Problem 8. Key Replacer.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\obj\Debug\Problem_8.Key_Replacer.exe
+F:\zUniversity\Prog Fundamentals\hw\v16 Regular-Expressions-(REGEX)-Exercises\Problem 8. Key Replacer\obj\Debug\Problem_8.Key_Replacer.pdb

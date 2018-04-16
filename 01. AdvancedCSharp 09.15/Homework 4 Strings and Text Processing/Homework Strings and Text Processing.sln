@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. String Length", "Problem 2. String Length\Problem 2. String Length.csproj", "{8ED15BE8-03BA-4452-A465-194EA49F7AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Count Substring Occurrences", "Problem 3. Count Substring Occurrences\Problem 3. Count Substring Occurrences.csproj", "{A50E876B-3184-4E2C-A3E9-54BE6E9A8299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Text Filter", "Problem 4. Text Filter\Problem 4. Text Filter.csproj", "{B550DB21-7FA2-43C8-8D84-0831D47E8177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Unicode Characters", "Problem 5. Unicode Characters\Problem 5. Unicode Characters.csproj", "{886F71BF-2728-4A81-AD21-19157BABAD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Palindromes", "Problem 6. Palindromes\Problem 6. Palindromes.csproj", "{7E8B7386-C870-41B4-B43E-62873A11A76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Letters change Numbers", "Problem 7. Letters change Numbers\Problem 7. Letters change Numbers.csproj", "{C83460F7-BB12-47BF-BB9A-665A44DDE8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Reverse String", "Problem 1.Reverse String\Problem 1. Reverse String.csproj", "{D2888B1F-5115-4080-B233-BBEB2D092678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED15BE8-03BA-4452-A465-194EA49F7AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED15BE8-03BA-4452-A465-194EA49F7AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED15BE8-03BA-4452-A465-194EA49F7AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED15BE8-03BA-4452-A465-194EA49F7AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50E876B-3184-4E2C-A3E9-54BE6E9A8299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50E876B-3184-4E2C-A3E9-54BE6E9A8299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50E876B-3184-4E2C-A3E9-54BE6E9A8299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50E876B-3184-4E2C-A3E9-54BE6E9A8299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B550DB21-7FA2-43C8-8D84-0831D47E8177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B550DB21-7FA2-43C8-8D84-0831D47E8177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B550DB21-7FA2-43C8-8D84-0831D47E8177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B550DB21-7FA2-43C8-8D84-0831D47E8177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886F71BF-2728-4A81-AD21-19157BABAD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886F71BF-2728-4A81-AD21-19157BABAD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886F71BF-2728-4A81-AD21-19157BABAD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886F71BF-2728-4A81-AD21-19157BABAD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8B7386-C870-41B4-B43E-62873A11A76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8B7386-C870-41B4-B43E-62873A11A76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8B7386-C870-41B4-B43E-62873A11A76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8B7386-C870-41B4-B43E-62873A11A76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83460F7-BB12-47BF-BB9A-665A44DDE8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83460F7-BB12-47BF-BB9A-665A44DDE8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83460F7-BB12-47BF-BB9A-665A44DDE8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83460F7-BB12-47BF-BB9A-665A44DDE8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2888B1F-5115-4080-B233-BBEB2D092678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2888B1F-5115-4080-B233-BBEB2D092678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2888B1F-5115-4080-B233-BBEB2D092678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2888B1F-5115-4080-B233-BBEB2D092678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

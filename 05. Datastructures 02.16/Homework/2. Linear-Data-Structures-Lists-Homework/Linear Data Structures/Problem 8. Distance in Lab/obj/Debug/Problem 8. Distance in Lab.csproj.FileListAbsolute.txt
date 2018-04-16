@@ -1,0 +1,12 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\obj\Debug\Problem 8. Distance in Lab.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\obj\Debug\Problem_8.Distance_in_Lab.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\2. Doubly-Linked-List\Problem 8. Distance in Lab\obj\Debug\Problem_8.Distance_in_Lab.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\obj\Debug\Problem_8.Distance_in_Lab.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\obj\Debug\Problem_8.Distance_in_Lab.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\bin\Debug\Problem_8.Distance_in_Lab.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\2. Linear-Data-Structures-Lists-Homework\Linear Data Structures\Problem 8. Distance in Lab\obj\Debug\Problem 8. Distance in Lab.csprojResolveAssemblyReference.cache

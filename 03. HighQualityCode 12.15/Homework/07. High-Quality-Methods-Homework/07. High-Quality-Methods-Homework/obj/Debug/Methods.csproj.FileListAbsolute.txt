@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\school\Universitet\Domashni\3. High-Quality Code\Domashni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb

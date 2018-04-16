@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 4. Sieve of Eratosthenes\bin\Debug\Problem_4.Sieve_of_Eratosthenes.exe.config
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 4. Sieve of Eratosthenes\bin\Debug\Problem_4.Sieve_of_Eratosthenes.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 4. Sieve of Eratosthenes\bin\Debug\Problem_4.Sieve_of_Eratosthenes.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 4. Sieve of Eratosthenes\obj\Debug\Problem_4.Sieve_of_Eratosthenes.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 4. Sieve of Eratosthenes\obj\Debug\Problem_4.Sieve_of_Eratosthenes.pdb

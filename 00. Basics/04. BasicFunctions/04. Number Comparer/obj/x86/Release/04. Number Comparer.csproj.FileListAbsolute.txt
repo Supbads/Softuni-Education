@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\04. Number Comparer\bin\Release\_04.Number_Comparer.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\04. Number Comparer\bin\Release\_04.Number_Comparer.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\04. Number Comparer\obj\x86\Release\_04.Number_Comparer.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Homework 4\04. Number Comparer\obj\x86\Release\_04.Number_Comparer.pdb

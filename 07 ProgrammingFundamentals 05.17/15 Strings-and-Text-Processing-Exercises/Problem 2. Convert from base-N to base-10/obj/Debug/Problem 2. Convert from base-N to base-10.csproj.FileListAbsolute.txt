@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\bin\Debug\Problem_2.Convert_from_base_N_to_base_10.exe.config
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\bin\Debug\Problem_2.Convert_from_base_N_to_base_10.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\bin\Debug\Problem_2.Convert_from_base_N_to_base_10.pdb
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\obj\Debug\Problem 2. Convert from base-N to base-10.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\obj\Debug\Problem_2.Convert_from_base_N_to_base_10.exe
+F:\zUniversity\Prog Fundamentals\hw\15 Strings-and-Text-Processing-Exercises\Problem 2. Convert from base-N to base-10\obj\Debug\Problem_2.Convert_from_base_N_to_base_10.pdb

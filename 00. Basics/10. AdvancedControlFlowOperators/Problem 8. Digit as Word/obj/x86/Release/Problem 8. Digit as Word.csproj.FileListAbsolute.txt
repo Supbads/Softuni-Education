@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 8. Digit as Word\bin\Release\Problem_8.Digit_as_Word.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 8. Digit as Word\bin\Release\Problem_8.Digit_as_Word.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 8. Digit as Word\obj\x86\Release\Problem_8.Digit_as_Word.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Homework 6\Problem 8. Digit as Word\obj\x86\Release\Problem_8.Digit_as_Word.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 8. Digit as Word\obj\x86\Release\Problem_8.Digit_as_Word.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 6\Problem 8. Digit as Word\obj\x86\Release\Problem_8.Digit_as_Word.pdb

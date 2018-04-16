@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe.config
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.pdb
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.exe
+F:\zUniversity\Prog Fundamentals\hw\08. Arrays-and-Methods-More-Exercises\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.pdb

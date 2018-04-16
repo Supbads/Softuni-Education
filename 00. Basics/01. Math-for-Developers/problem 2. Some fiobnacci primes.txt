@@ -1,0 +1,51 @@
+using System;
+using System.Text;
+using System.Numerics;
+
+
+namespace Homework
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BigInteger a = 0 ;
+            BigInteger b = 1 ;
+            int n = 50;
+            for (int i = 0; i <= n; i++)
+            {
+                a += b;
+                if( a == 89 )
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number", a);
+                }
+                else if( a == 547 )
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number", a);
+                }
+                else if ( a == 1597)
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number",a);
+                }
+
+                b += a;
+
+                if (b == 89)
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number", b);
+                }
+                else if (b == 547)
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number", b);
+                }
+                else if (b == 1597)
+                {
+                    Console.WriteLine("{0} is a fibonacci prime number", b);
+                }
+
+
+            }
+
+        }
+    }
+}

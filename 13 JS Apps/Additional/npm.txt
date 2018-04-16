@@ -1,0 +1,5 @@
+npm install --save jquery
+npm install --save sammy
+npm install --save handlebars
+
+//plugins from sammy for handlebars

@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.exe.config
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\obj\Debug\Problem 5. Linked Stack.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.pdb
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\obj\Debug\Problem_5.Linked_Stack.exe
+D:\school\Universitet\Domashni\Data Structures\Domashni\3. Linear-Data-Structures-Stacks-and-Queues-Homework\Problem 5. Linked Stack\obj\Debug\Problem_5.Linked_Stack.pdb

@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem 2. Replace a tag.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem_2.Replace_a_tag.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 5 Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem_2.Replace_a_tag.pdb

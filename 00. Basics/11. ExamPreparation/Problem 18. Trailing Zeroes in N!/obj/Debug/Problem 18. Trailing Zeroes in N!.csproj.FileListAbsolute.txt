@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem 18. Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem_18.Trailing_Zeroes_in_N_.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Homework 7\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem_18.Trailing_Zeroes_in_N_.pdb

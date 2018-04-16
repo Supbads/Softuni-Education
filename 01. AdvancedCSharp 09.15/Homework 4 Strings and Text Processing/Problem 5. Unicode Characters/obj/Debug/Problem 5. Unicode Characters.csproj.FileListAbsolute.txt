@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.exe.config
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.pdb
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 5. Unicode Characters\obj\Debug\Problem_5.Unicode_Characters.exe
+D:\school\Universitet\Domashni\1. Advanced\Domashni\Homework 4 Strings and Text Processing\Problem 5. Unicode Characters\obj\Debug\Problem_5.Unicode_Characters.pdb

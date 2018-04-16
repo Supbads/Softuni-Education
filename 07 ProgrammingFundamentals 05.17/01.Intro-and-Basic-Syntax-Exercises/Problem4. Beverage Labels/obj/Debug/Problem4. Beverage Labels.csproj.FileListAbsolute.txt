@@ -1,0 +1,5 @@
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem4. Beverage Labels\bin\Debug\Problem4.Beverage_Labels.exe.config
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem4. Beverage Labels\bin\Debug\Problem4.Beverage_Labels.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem4. Beverage Labels\bin\Debug\Problem4.Beverage_Labels.pdb
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem4. Beverage Labels\obj\Debug\Problem4.Beverage_Labels.exe
+F:\zUniversity\Prog Fundamentals\hw\01.Intro-and-Basic-Syntax-Exercises\Problem4. Beverage Labels\obj\Debug\Problem4.Beverage_Labels.pdb

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\bin\Debug\Problem_5.Weather_Forecast.exe.config
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\bin\Debug\Problem_5.Weather_Forecast.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\bin\Debug\Problem_5.Weather_Forecast.pdb
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\obj\Debug\Problem 5. Weather Forecast.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\obj\Debug\Problem_5.Weather_Forecast.exe
+F:\zUniversity\Prog Fundamentals\hw\05. Data-Types-and-Variables-More-Exercises\Problem 5. Weather Forecast\obj\Debug\Problem_5.Weather_Forecast.pdb

@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\bin\Debug\Problem_3.Paths.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\bin\Debug\Problem_3.Paths.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\bin\Debug\Problem_3.Paths.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\obj\Debug\Problem 3.  Paths.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\obj\Debug\Problem_3.Paths.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\2. Static-Members-and-Namespaces-Homework\Problem 3.  Paths\obj\Debug\Problem_3.Paths.pdb

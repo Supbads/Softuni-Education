@@ -1,0 +1,12 @@
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.exe.config
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.pdb
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.exe
+F:\zUniversity\Prog Fundamentals\hw\Solution6\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.exe.config
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\bin\Debug\Problem 1.Largest Common End.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 1.Largest Common End\obj\Debug\Problem 1.Largest Common End.pdb

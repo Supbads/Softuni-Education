@@ -1,0 +1,6 @@
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.exe.config
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\obj\Debug\Problem 1. Human, Student and Worker.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.pdb
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\obj\Debug\Problem_1.Human__Student_and_Worker.exe
+D:\school\Universitet\Domashni\2. OOP\Domashni\4. OOP-Inheritance-and-Abstraction-Homework\Problem 1. Human, Student and Worker\obj\Debug\Problem_1.Human__Student_and_Worker.pdb

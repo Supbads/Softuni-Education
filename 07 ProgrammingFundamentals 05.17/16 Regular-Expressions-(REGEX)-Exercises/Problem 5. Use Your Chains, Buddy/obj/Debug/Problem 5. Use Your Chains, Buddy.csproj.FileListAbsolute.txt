@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\bin\Debug\Problem_5.Use_Your_Chains__Buddy.exe.config
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\bin\Debug\Problem_5.Use_Your_Chains__Buddy.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\bin\Debug\Problem_5.Use_Your_Chains__Buddy.pdb
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\obj\Debug\Problem 5. Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\obj\Debug\Problem_5.Use_Your_Chains__Buddy.exe
+F:\zUniversity\Prog Fundamentals\hw\16 Regular-Expressions-(REGEX)-Exercises\Problem 5. Use Your Chains, Buddy\obj\Debug\Problem_5.Use_Your_Chains__Buddy.pdb

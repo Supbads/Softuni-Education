@@ -1,0 +1,26 @@
+for ( let c of cs)  < foreach
+
+for (let c in cs) <through array indicies
+
+npm install in root directory to resolve depndencies when importing new project.
+
+
+mongo: 
+C:\Program Files\MongoDB\Server\3.4\bin  -> powershell/cmd here
+mongod ––dbpath D:\_University\C#\Soft-Tech\js\03.SoftUniBlogSkeleton\SoftUniBlog
+//     --  // ––
+mongod ––dbpath "C:\e\JavaScript Skeleton"
+                       //     " " <- must not have any spaces in root directory
+//     --  // ––
+
+
+db.getCollection('users').update({articles: {$exists: false}}, { $set: {articles: []}}, {multi: true})
+-> F5 to execute 
+
+
+
+res.Render()  takes a directory file -> doesn't require "/" in the beginning;
+res.redirect() takes a root -> requires / in the beginning
+
+
+www file in /bin to run proj

@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\bin\Debug\Problem_9.Index_of_Letters.exe.config
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\bin\Debug\Problem_9.Index_of_Letters.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\bin\Debug\Problem_9.Index_of_Letters.pdb
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\obj\Debug\Problem 9. Index of Letters.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\obj\Debug\Problem_9.Index_of_Letters.exe
+F:\zUniversity\Prog Fundamentals\hw\07. Arrays-Exercises\Problem 9. Index of Letters\obj\Debug\Problem_9.Index_of_Letters.pdb

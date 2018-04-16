@@ -1,0 +1,6 @@
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\bin\Debug\Problem_1.Serialize_String.exe.config
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\bin\Debug\Problem_1.Serialize_String.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\bin\Debug\Problem_1.Serialize_String.pdb
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\obj\Debug\Problem 1. Serialize String.csprojResolveAssemblyReference.cache
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\obj\Debug\Problem_1.Serialize_String.exe
+F:\zUniversity\Prog Fundamentals\hw\x17 Strings-and-Regular-Expressions-More-Exercises\Problem 1. Serialize String\obj\Debug\Problem_1.Serialize_String.pdb

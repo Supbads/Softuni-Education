@@ -1,0 +1,5 @@
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.pdb
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\3. Topological-Sorting.csprojResolveAssemblyReference.cache
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.exe
+D:\school\Universitet\Domashni\Algorithms april\Labs\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.pdb
